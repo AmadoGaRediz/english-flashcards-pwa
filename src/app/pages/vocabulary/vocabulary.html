@@ -1,0 +1,45 @@
+<div class="screen">
+  <header class="top-bar">
+    <button class="icon-btn neu-btn" (click)="goHome()" aria-label="Volver">←</button>
+    <h1>Vocabulario</h1>
+  </header>
+
+  <input
+    class="search neu-pressed"
+    type="search"
+    placeholder="Buscar palabra..."
+    [ngModel]="search()"
+    (ngModelChange)="search.set($event)"
+  />
+
+  <div class="filters">
+    @for (f of filters; track f.key) {
+      <button
+        class="filter-btn neu-btn"
+        [class.active]="filter() === f.key"
+        (click)="setFilter(f.key)"
+      >
+        {{ f.label }}
+      </button>
+    }
+  </div>
+
+  @if (!loading()) {
+    <ul class="word-list">
+      @for (entry of visibleEntries(); track entry.word.id) {
+        <li class="word-row neu-flat">
+          <div class="word-info">
+            <span class="en">{{ entry.word.en }}</span>
+            <span class="es">{{ entry.word.es.join(', ') }}</span>
+          </div>
+          <div class="mastery-bar">
+            <div class="mastery-fill" [style.width.%]="entry.mastery"></div>
+          </div>
+          <span class="mastery-value">{{ entry.mastery }}%</span>
+        </li>
+      } @empty {
+        <li class="empty">No se encontraron palabras.</li>
+      }
+    </ul>
+  }
+</div>

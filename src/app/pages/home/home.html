@@ -1,0 +1,30 @@
+<div class="screen">
+  <header class="top-bar">
+    <h1>English 1000</h1>
+    <button class="icon-btn neu-btn" (click)="goToSettings()" aria-label="Ajustes">⚙️</button>
+  </header>
+
+  @if (!loading()) {
+    <div class="ring-card neu-flat">
+      <app-progress-ring [percent]="masteryPercent()" />
+      <p class="ring-caption">{{ masteredWords() }} / {{ totalWords() }} palabras dominadas</p>
+    </div>
+
+    <div class="stats-row">
+      <div class="stat-chip neu-flat">
+        <span class="stat-value">🔥 {{ streak() }}</span>
+        <span class="stat-label">días seguidos</span>
+      </div>
+      <div class="stat-chip neu-flat">
+        <span class="stat-value">{{ duePending() }}</span>
+        <span class="stat-label">pendientes hoy</span>
+      </div>
+    </div>
+
+    <button class="study-btn neu-btn" (click)="startSession()">
+      Estudiar ({{ duePending() }} pendientes)
+    </button>
+
+    <button class="link-btn" (click)="goToVocabulary()">Ver vocabulario completo</button>
+  }
+</div>

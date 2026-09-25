@@ -1,0 +1,34 @@
+@if (result(); as r) {
+  <div class="screen">
+    <h1 class="title">¡Sesión completada!</h1>
+
+    <div class="score-row">
+      <div class="score-chip neu-flat correct">
+        <span class="score-value">{{ r.correct }}</span>
+        <span class="score-label">aciertos</span>
+      </div>
+      <div class="score-chip neu-flat wrong">
+        <span class="score-value">{{ r.wrong }}</span>
+        <span class="score-label">fallos</span>
+      </div>
+    </div>
+
+    <div class="changes neu-flat">
+      <h2>Palabras de esta sesión</h2>
+      <ul>
+        @for (change of r.changes; track change.word.id) {
+          <li>
+            <span class="word">{{ change.word.en }}</span>
+            <span class="es">{{ change.word.es[0] }}</span>
+            <span class="delta" [class.up]="delta(change) > 0" [class.down]="delta(change) < 0">
+              {{ change.before }}% → {{ change.after }}%
+            </span>
+          </li>
+        }
+      </ul>
+    </div>
+
+    <button class="primary-btn neu-btn" (click)="studyAgain()">Una sesión más</button>
+    <button class="link-btn" (click)="goHome()">Volver al inicio</button>
+  </div>
+}

@@ -1,0 +1,115 @@
+.screen {
+  min-height: 100dvh;
+  padding: calc(var(--safe-top) + 16px) 20px calc(var(--safe-bottom) + 24px);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.icon-btn {
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  border-radius: var(--radius-sm);
+  font-size: 1rem;
+}
+
+.progress-track {
+  flex: 1;
+  height: 10px;
+  border-radius: 999px;
+  background: var(--dark);
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--accent);
+  transition: width 0.3s ease;
+}
+
+.card {
+  flex: 1;
+  min-height: 220px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  padding: 32px 20px;
+  text-align: center;
+}
+
+.direction-tag {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.prompt-word {
+  font-size: 2.2rem;
+  margin: 0;
+  word-break: break-word;
+}
+
+.speak-btn {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  font-size: 1.2rem;
+}
+
+.example {
+  margin: 0;
+  color: var(--text-muted);
+  font-style: italic;
+  max-width: 320px;
+}
+
+.options {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.option {
+  min-height: 56px;
+  padding: 12px 10px;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--radius-md);
+}
+
+.option.correct {
+  background: var(--success-bg);
+  color: var(--success);
+  box-shadow:
+    0 0 0 2px var(--success) inset,
+    6px 6px 12px var(--dark),
+    -6px -6px 12px var(--light);
+}
+
+.option.wrong {
+  background: var(--error-bg);
+  color: var(--error);
+  box-shadow:
+    0 0 0 2px var(--error) inset,
+    6px 6px 12px var(--dark),
+    -6px -6px 12px var(--light);
+}
+
+.continue-btn {
+  padding: 18px;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--accent-text);
+  background: var(--accent);
+  border-radius: var(--radius-md);
+}

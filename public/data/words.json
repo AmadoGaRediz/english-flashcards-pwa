@@ -1,0 +1,10193 @@
+[
+  {
+    "id": 1,
+    "en": "the",
+    "es": [
+      "el",
+      "la"
+    ],
+    "pos": "det",
+    "rank": 1,
+    "example": "This is the book I told you about."
+  },
+  {
+    "id": 2,
+    "en": "be",
+    "es": [
+      "ser",
+      "estar"
+    ],
+    "pos": "verb",
+    "rank": 2,
+    "example": "I want to be a doctor."
+  },
+  {
+    "id": 3,
+    "en": "to",
+    "es": [
+      "a"
+    ],
+    "pos": "prep",
+    "rank": 3,
+    "example": "She walked to the store."
+  },
+  {
+    "id": 4,
+    "en": "of",
+    "es": [
+      "de"
+    ],
+    "pos": "prep",
+    "rank": 4,
+    "example": "This is the capital of France."
+  },
+  {
+    "id": 5,
+    "en": "and",
+    "es": [
+      "y"
+    ],
+    "pos": "conj",
+    "rank": 5,
+    "example": "We bought bread and milk."
+  },
+  {
+    "id": 6,
+    "en": "a",
+    "es": [
+      "un",
+      "una"
+    ],
+    "pos": "det",
+    "rank": 6,
+    "example": "She has a dog."
+  },
+  {
+    "id": 7,
+    "en": "in",
+    "es": [
+      "en"
+    ],
+    "pos": "prep",
+    "rank": 7,
+    "example": "The keys are in the drawer."
+  },
+  {
+    "id": 8,
+    "en": "that",
+    "es": [
+      "que"
+    ],
+    "pos": "conj",
+    "rank": 8,
+    "example": "I know that she is busy."
+  },
+  {
+    "id": 9,
+    "en": "have",
+    "es": [
+      "tener"
+    ],
+    "pos": "verb",
+    "rank": 9,
+    "example": "I have two brothers."
+  },
+  {
+    "id": 10,
+    "en": "i",
+    "es": [
+      "yo"
+    ],
+    "pos": "pron",
+    "rank": 10,
+    "example": "I live in Madrid."
+  },
+  {
+    "id": 11,
+    "en": "it",
+    "es": [
+      "lo"
+    ],
+    "pos": "pron",
+    "rank": 11,
+    "example": "Take the book and put it there."
+  },
+  {
+    "id": 12,
+    "en": "for",
+    "es": [
+      "para"
+    ],
+    "pos": "prep",
+    "rank": 12,
+    "example": "This gift is for you."
+  },
+  {
+    "id": 13,
+    "en": "not",
+    "es": [
+      "no"
+    ],
+    "pos": "adv",
+    "rank": 13,
+    "example": "I do not like coffee."
+  },
+  {
+    "id": 14,
+    "en": "on",
+    "es": [
+      "en",
+      "sobre"
+    ],
+    "pos": "prep",
+    "rank": 14,
+    "example": "The cup is on the table."
+  },
+  {
+    "id": 15,
+    "en": "with",
+    "es": [
+      "con"
+    ],
+    "pos": "prep",
+    "rank": 15,
+    "example": "She came with her sister."
+  },
+  {
+    "id": 16,
+    "en": "he",
+    "es": [
+      "él"
+    ],
+    "pos": "pron",
+    "rank": 16,
+    "example": "He works at a bank."
+  },
+  {
+    "id": 17,
+    "en": "as",
+    "es": [
+      "como"
+    ],
+    "pos": "conj",
+    "rank": 17,
+    "example": "She sings as well as her mother."
+  },
+  {
+    "id": 18,
+    "en": "you",
+    "es": [
+      "tú",
+      "usted"
+    ],
+    "pos": "pron",
+    "rank": 18,
+    "example": "You look happy today."
+  },
+  {
+    "id": 19,
+    "en": "do",
+    "es": [
+      "hacer"
+    ],
+    "pos": "verb",
+    "rank": 19,
+    "example": "What do you do on weekends?"
+  },
+  {
+    "id": 20,
+    "en": "at",
+    "es": [
+      "en"
+    ],
+    "pos": "prep",
+    "rank": 20,
+    "example": "We arrived at noon."
+  },
+  {
+    "id": 21,
+    "en": "this",
+    "es": [
+      "este",
+      "esta"
+    ],
+    "pos": "det",
+    "rank": 21,
+    "example": "This car is very fast."
+  },
+  {
+    "id": 22,
+    "en": "but",
+    "es": [
+      "pero"
+    ],
+    "pos": "conj",
+    "rank": 22,
+    "example": "I called, but no one answered."
+  },
+  {
+    "id": 23,
+    "en": "his",
+    "es": [
+      "su"
+    ],
+    "pos": "det",
+    "rank": 23,
+    "example": "He lost his keys."
+  },
+  {
+    "id": 24,
+    "en": "by",
+    "es": [
+      "por"
+    ],
+    "pos": "prep",
+    "rank": 24,
+    "example": "The letter was written by hand."
+  },
+  {
+    "id": 25,
+    "en": "from",
+    "es": [
+      "de",
+      "desde"
+    ],
+    "pos": "prep",
+    "rank": 25,
+    "example": "She comes from Chile."
+  },
+  {
+    "id": 26,
+    "en": "they",
+    "es": [
+      "ellos",
+      "ellas"
+    ],
+    "pos": "pron",
+    "rank": 26,
+    "example": "They live near the beach."
+  },
+  {
+    "id": 27,
+    "en": "we",
+    "es": [
+      "nosotros"
+    ],
+    "pos": "pron",
+    "rank": 27,
+    "example": "We study together every day."
+  },
+  {
+    "id": 28,
+    "en": "say",
+    "es": [
+      "decir"
+    ],
+    "pos": "verb",
+    "rank": 28,
+    "example": "What did she say to you?"
+  },
+  {
+    "id": 29,
+    "en": "her",
+    "es": [
+      "le"
+    ],
+    "pos": "pron",
+    "rank": 29,
+    "example": "I called her yesterday."
+  },
+  {
+    "id": 30,
+    "en": "she",
+    "es": [
+      "ella"
+    ],
+    "pos": "pron",
+    "rank": 30,
+    "example": "She teaches math at school."
+  },
+  {
+    "id": 31,
+    "en": "or",
+    "es": [
+      "o"
+    ],
+    "pos": "conj",
+    "rank": 31,
+    "example": "Do you want tea or coffee?"
+  },
+  {
+    "id": 32,
+    "en": "an",
+    "es": [
+      "un",
+      "una"
+    ],
+    "pos": "det",
+    "rank": 32,
+    "example": "He is an engineer."
+  },
+  {
+    "id": 33,
+    "en": "will",
+    "es": [
+      "voluntad"
+    ],
+    "pos": "noun",
+    "rank": 33,
+    "example": "She has a strong will to succeed."
+  },
+  {
+    "id": 34,
+    "en": "my",
+    "es": [
+      "mi"
+    ],
+    "pos": "det",
+    "rank": 34,
+    "example": "My car is in the garage."
+  },
+  {
+    "id": 35,
+    "en": "one",
+    "es": [
+      "uno"
+    ],
+    "pos": "num",
+    "rank": 35,
+    "example": "I only need one more minute."
+  },
+  {
+    "id": 36,
+    "en": "all",
+    "es": [
+      "todo",
+      "todos"
+    ],
+    "pos": "det",
+    "rank": 36,
+    "example": "All students passed the exam."
+  },
+  {
+    "id": 37,
+    "en": "would",
+    "es": [
+      "querría"
+    ],
+    "pos": "verb",
+    "rank": 37,
+    "example": "She said she would call later."
+  },
+  {
+    "id": 38,
+    "en": "there",
+    "es": [
+      "allí",
+      "ahí"
+    ],
+    "pos": "adv",
+    "rank": 38,
+    "example": "The keys are over there."
+  },
+  {
+    "id": 39,
+    "en": "their",
+    "es": [
+      "su"
+    ],
+    "pos": "det",
+    "rank": 39,
+    "example": "They finished their homework."
+  },
+  {
+    "id": 40,
+    "en": "what",
+    "es": [
+      "qué"
+    ],
+    "pos": "pron",
+    "rank": 40,
+    "example": "What is your name?"
+  },
+  {
+    "id": 41,
+    "en": "so",
+    "es": [
+      "tan",
+      "así"
+    ],
+    "pos": "adv",
+    "rank": 41,
+    "example": "The movie was so boring."
+  },
+  {
+    "id": 42,
+    "en": "up",
+    "es": [
+      "arriba"
+    ],
+    "pos": "adv",
+    "rank": 42,
+    "example": "Please stand up now."
+  },
+  {
+    "id": 43,
+    "en": "out",
+    "es": [
+      "afuera"
+    ],
+    "pos": "adv",
+    "rank": 43,
+    "example": "The cat ran out the door."
+  },
+  {
+    "id": 44,
+    "en": "if",
+    "es": [
+      "si"
+    ],
+    "pos": "conj",
+    "rank": 44,
+    "example": "If it rains, we will stay home."
+  },
+  {
+    "id": 45,
+    "en": "about",
+    "es": [
+      "sobre",
+      "acerca de"
+    ],
+    "pos": "prep",
+    "rank": 45,
+    "example": "We talked about the trip."
+  },
+  {
+    "id": 46,
+    "en": "who",
+    "es": [
+      "quién"
+    ],
+    "pos": "pron",
+    "rank": 46,
+    "example": "Who is knocking at the door?"
+  },
+  {
+    "id": 47,
+    "en": "get",
+    "es": [
+      "conseguir",
+      "obtener"
+    ],
+    "pos": "verb",
+    "rank": 47,
+    "example": "I need to get some milk."
+  },
+  {
+    "id": 48,
+    "en": "which",
+    "es": [
+      "cuál"
+    ],
+    "pos": "pron",
+    "rank": 48,
+    "example": "Which color do you prefer?"
+  },
+  {
+    "id": 49,
+    "en": "go",
+    "es": [
+      "ir"
+    ],
+    "pos": "verb",
+    "rank": 49,
+    "example": "We go to school by bus."
+  },
+  {
+    "id": 50,
+    "en": "me",
+    "es": [
+      "me",
+      "mí"
+    ],
+    "pos": "pron",
+    "rank": 50,
+    "example": "Can you help me with this?"
+  },
+  {
+    "id": 51,
+    "en": "when",
+    "es": [
+      "cuando"
+    ],
+    "pos": "conj",
+    "rank": 51,
+    "example": "Call me when you arrive."
+  },
+  {
+    "id": 52,
+    "en": "make",
+    "es": [
+      "hacer"
+    ],
+    "pos": "verb",
+    "rank": 52,
+    "example": "Let's make dinner together."
+  },
+  {
+    "id": 53,
+    "en": "can",
+    "es": [
+      "poder"
+    ],
+    "pos": "verb",
+    "rank": 53,
+    "example": "Can you open the window?"
+  },
+  {
+    "id": 54,
+    "en": "like",
+    "es": [
+      "gustar"
+    ],
+    "pos": "verb",
+    "rank": 54,
+    "example": "I like this song a lot."
+  },
+  {
+    "id": 55,
+    "en": "time",
+    "es": [
+      "tiempo"
+    ],
+    "pos": "noun",
+    "rank": 55,
+    "example": "We don't have much time left."
+  },
+  {
+    "id": 56,
+    "en": "no",
+    "es": [
+      "ningún",
+      "no"
+    ],
+    "pos": "det",
+    "rank": 56,
+    "example": "There is no milk in the fridge."
+  },
+  {
+    "id": 57,
+    "en": "just",
+    "es": [
+      "justo",
+      "solo"
+    ],
+    "pos": "adv",
+    "rank": 57,
+    "example": "I just finished my homework."
+  },
+  {
+    "id": 58,
+    "en": "him",
+    "es": [
+      "le",
+      "lo"
+    ],
+    "pos": "pron",
+    "rank": 58,
+    "example": "I saw him at the park."
+  },
+  {
+    "id": 59,
+    "en": "know",
+    "es": [
+      "saber",
+      "conocer"
+    ],
+    "pos": "verb",
+    "rank": 59,
+    "example": "I know the answer to that."
+  },
+  {
+    "id": 60,
+    "en": "take",
+    "es": [
+      "tomar",
+      "llevar"
+    ],
+    "pos": "verb",
+    "rank": 60,
+    "example": "Please take a seat here."
+  },
+  {
+    "id": 61,
+    "en": "into",
+    "es": [
+      "dentro de"
+    ],
+    "pos": "prep",
+    "rank": 61,
+    "example": "She walked into the room."
+  },
+  {
+    "id": 62,
+    "en": "your",
+    "es": [
+      "tu"
+    ],
+    "pos": "det",
+    "rank": 62,
+    "example": "Is this your umbrella?"
+  },
+  {
+    "id": 63,
+    "en": "some",
+    "es": [
+      "algunos",
+      "algo de"
+    ],
+    "pos": "det",
+    "rank": 63,
+    "example": "Would you like some tea?"
+  },
+  {
+    "id": 64,
+    "en": "could",
+    "es": [
+      "podía",
+      "podría"
+    ],
+    "pos": "verb",
+    "rank": 64,
+    "example": "She could swim very well."
+  },
+  {
+    "id": 65,
+    "en": "them",
+    "es": [
+      "los",
+      "les"
+    ],
+    "pos": "pron",
+    "rank": 65,
+    "example": "I invited them to the party."
+  },
+  {
+    "id": 66,
+    "en": "than",
+    "es": [
+      "que"
+    ],
+    "pos": "conj",
+    "rank": 66,
+    "example": "This bag is heavier than that one."
+  },
+  {
+    "id": 67,
+    "en": "then",
+    "es": [
+      "entonces",
+      "luego"
+    ],
+    "pos": "adv",
+    "rank": 67,
+    "example": "We ate dinner, then watched a movie."
+  },
+  {
+    "id": 68,
+    "en": "now",
+    "es": [
+      "ahora"
+    ],
+    "pos": "adv",
+    "rank": 68,
+    "example": "I am busy right now."
+  },
+  {
+    "id": 69,
+    "en": "only",
+    "es": [
+      "solo",
+      "solamente"
+    ],
+    "pos": "adv",
+    "rank": 69,
+    "example": "She only eats vegetables."
+  },
+  {
+    "id": 70,
+    "en": "think",
+    "es": [
+      "pensar",
+      "creer"
+    ],
+    "pos": "verb",
+    "rank": 70,
+    "example": "I think it will rain today."
+  },
+  {
+    "id": 71,
+    "en": "see",
+    "es": [
+      "ver"
+    ],
+    "pos": "verb",
+    "rank": 71,
+    "example": "Can you see the mountains from here?"
+  },
+  {
+    "id": 72,
+    "en": "come",
+    "es": [
+      "venir"
+    ],
+    "pos": "verb",
+    "rank": 72,
+    "example": "Please come to my house tonight."
+  },
+  {
+    "id": 73,
+    "en": "want",
+    "es": [
+      "querer"
+    ],
+    "pos": "verb",
+    "rank": 73,
+    "example": "I want a new phone."
+  },
+  {
+    "id": 74,
+    "en": "look",
+    "es": [
+      "mirar"
+    ],
+    "pos": "verb",
+    "rank": 74,
+    "example": "Look at the beautiful sunset."
+  },
+  {
+    "id": 75,
+    "en": "use",
+    "es": [
+      "usar"
+    ],
+    "pos": "verb",
+    "rank": 75,
+    "example": "You can use my pen."
+  },
+  {
+    "id": 76,
+    "en": "find",
+    "es": [
+      "encontrar"
+    ],
+    "pos": "verb",
+    "rank": 76,
+    "example": "I can't find my keys."
+  },
+  {
+    "id": 77,
+    "en": "give",
+    "es": [
+      "dar"
+    ],
+    "pos": "verb",
+    "rank": 77,
+    "example": "Can you give me a hand?"
+  },
+  {
+    "id": 78,
+    "en": "tell",
+    "es": [
+      "decir",
+      "contar"
+    ],
+    "pos": "verb",
+    "rank": 78,
+    "example": "Tell me what happened."
+  },
+  {
+    "id": 79,
+    "en": "work",
+    "es": [
+      "trabajar"
+    ],
+    "pos": "verb",
+    "rank": 79,
+    "example": "She works at a hospital."
+  },
+  {
+    "id": 80,
+    "en": "call",
+    "es": [
+      "llamar"
+    ],
+    "pos": "verb",
+    "rank": 80,
+    "example": "I will call you tomorrow."
+  },
+  {
+    "id": 81,
+    "en": "try",
+    "es": [
+      "intentar"
+    ],
+    "pos": "verb",
+    "rank": 81,
+    "example": "Please try this cake."
+  },
+  {
+    "id": 82,
+    "en": "ask",
+    "es": [
+      "preguntar"
+    ],
+    "pos": "verb",
+    "rank": 82,
+    "example": "I want to ask you something."
+  },
+  {
+    "id": 83,
+    "en": "need",
+    "es": [
+      "necesitar"
+    ],
+    "pos": "verb",
+    "rank": 83,
+    "example": "We need more time to finish."
+  },
+  {
+    "id": 84,
+    "en": "feel",
+    "es": [
+      "sentir"
+    ],
+    "pos": "verb",
+    "rank": 84,
+    "example": "I feel tired today."
+  },
+  {
+    "id": 85,
+    "en": "become",
+    "es": [
+      "convertirse en"
+    ],
+    "pos": "verb",
+    "rank": 85,
+    "example": "He wants to become a doctor."
+  },
+  {
+    "id": 86,
+    "en": "leave",
+    "es": [
+      "dejar",
+      "salir"
+    ],
+    "pos": "verb",
+    "rank": 86,
+    "example": "The train will leave at noon."
+  },
+  {
+    "id": 87,
+    "en": "put",
+    "es": [
+      "poner"
+    ],
+    "pos": "verb",
+    "rank": 87,
+    "example": "Put the plate on the table."
+  },
+  {
+    "id": 88,
+    "en": "mean",
+    "es": [
+      "significar"
+    ],
+    "pos": "verb",
+    "rank": 88,
+    "example": "What does this word mean?"
+  },
+  {
+    "id": 89,
+    "en": "keep",
+    "es": [
+      "mantener",
+      "guardar"
+    ],
+    "pos": "verb",
+    "rank": 89,
+    "example": "Please keep the door closed."
+  },
+  {
+    "id": 90,
+    "en": "let",
+    "es": [
+      "dejar",
+      "permitir"
+    ],
+    "pos": "verb",
+    "rank": 90,
+    "example": "Let me help you with that."
+  },
+  {
+    "id": 91,
+    "en": "begin",
+    "es": [
+      "empezar",
+      "comenzar"
+    ],
+    "pos": "verb",
+    "rank": 91,
+    "example": "The movie will begin soon."
+  },
+  {
+    "id": 92,
+    "en": "seem",
+    "es": [
+      "parecer"
+    ],
+    "pos": "verb",
+    "rank": 92,
+    "example": "You seem very happy today."
+  },
+  {
+    "id": 93,
+    "en": "help",
+    "es": [
+      "ayudar"
+    ],
+    "pos": "verb",
+    "rank": 93,
+    "example": "Can you help me carry this?"
+  },
+  {
+    "id": 94,
+    "en": "talk",
+    "es": [
+      "hablar"
+    ],
+    "pos": "verb",
+    "rank": 94,
+    "example": "We need to talk later."
+  },
+  {
+    "id": 95,
+    "en": "turn",
+    "es": [
+      "girar",
+      "voltear"
+    ],
+    "pos": "verb",
+    "rank": 95,
+    "example": "Turn left at the corner."
+  },
+  {
+    "id": 96,
+    "en": "start",
+    "es": [
+      "empezar"
+    ],
+    "pos": "verb",
+    "rank": 96,
+    "example": "The class starts at nine."
+  },
+  {
+    "id": 97,
+    "en": "show",
+    "es": [
+      "mostrar"
+    ],
+    "pos": "verb",
+    "rank": 97,
+    "example": "Show me your new phone."
+  },
+  {
+    "id": 98,
+    "en": "hear",
+    "es": [
+      "oír",
+      "escuchar"
+    ],
+    "pos": "verb",
+    "rank": 98,
+    "example": "Did you hear that noise?"
+  },
+  {
+    "id": 99,
+    "en": "play",
+    "es": [
+      "jugar",
+      "tocar"
+    ],
+    "pos": "verb",
+    "rank": 99,
+    "example": "The kids play in the park."
+  },
+  {
+    "id": 100,
+    "en": "run",
+    "es": [
+      "correr"
+    ],
+    "pos": "verb",
+    "rank": 100,
+    "example": "I run every morning."
+  },
+  {
+    "id": 101,
+    "en": "move",
+    "es": [
+      "mover",
+      "mudarse"
+    ],
+    "pos": "verb",
+    "rank": 101,
+    "example": "We will move to a new city."
+  },
+  {
+    "id": 102,
+    "en": "live",
+    "es": [
+      "vivir"
+    ],
+    "pos": "verb",
+    "rank": 102,
+    "example": "They live in a small town."
+  },
+  {
+    "id": 103,
+    "en": "believe",
+    "es": [
+      "creer"
+    ],
+    "pos": "verb",
+    "rank": 103,
+    "example": "I believe you are right."
+  },
+  {
+    "id": 104,
+    "en": "bring",
+    "es": [
+      "traer"
+    ],
+    "pos": "verb",
+    "rank": 104,
+    "example": "Please bring your notebook tomorrow."
+  },
+  {
+    "id": 105,
+    "en": "happen",
+    "es": [
+      "pasar",
+      "suceder"
+    ],
+    "pos": "verb",
+    "rank": 105,
+    "example": "What happened at the meeting?"
+  },
+  {
+    "id": 106,
+    "en": "write",
+    "es": [
+      "escribir"
+    ],
+    "pos": "verb",
+    "rank": 106,
+    "example": "She likes to write short stories."
+  },
+  {
+    "id": 107,
+    "en": "provide",
+    "es": [
+      "proporcionar"
+    ],
+    "pos": "verb",
+    "rank": 107,
+    "example": "The hotel provides free breakfast."
+  },
+  {
+    "id": 108,
+    "en": "sit",
+    "es": [
+      "sentarse"
+    ],
+    "pos": "verb",
+    "rank": 108,
+    "example": "Please sit down over there."
+  },
+  {
+    "id": 109,
+    "en": "stand",
+    "es": [
+      "pararse",
+      "estar de pie"
+    ],
+    "pos": "verb",
+    "rank": 109,
+    "example": "He stood near the window."
+  },
+  {
+    "id": 110,
+    "en": "lose",
+    "es": [
+      "perder"
+    ],
+    "pos": "verb",
+    "rank": 110,
+    "example": "Don't lose your ticket."
+  },
+  {
+    "id": 111,
+    "en": "person",
+    "es": [
+      "persona"
+    ],
+    "pos": "noun",
+    "rank": 111,
+    "example": "She is a very kind person."
+  },
+  {
+    "id": 112,
+    "en": "year",
+    "es": [
+      "año"
+    ],
+    "pos": "noun",
+    "rank": 112,
+    "example": "I moved here last year."
+  },
+  {
+    "id": 113,
+    "en": "way",
+    "es": [
+      "manera",
+      "camino"
+    ],
+    "pos": "noun",
+    "rank": 113,
+    "example": "This is the best way to learn."
+  },
+  {
+    "id": 114,
+    "en": "day",
+    "es": [
+      "día"
+    ],
+    "pos": "noun",
+    "rank": 114,
+    "example": "Today is a beautiful day."
+  },
+  {
+    "id": 115,
+    "en": "thing",
+    "es": [
+      "cosa"
+    ],
+    "pos": "noun",
+    "rank": 115,
+    "example": "I have one more thing to say."
+  },
+  {
+    "id": 116,
+    "en": "man",
+    "es": [
+      "hombre"
+    ],
+    "pos": "noun",
+    "rank": 116,
+    "example": "The man crossed the street quickly."
+  },
+  {
+    "id": 117,
+    "en": "world",
+    "es": [
+      "mundo"
+    ],
+    "pos": "noun",
+    "rank": 117,
+    "example": "She wants to travel the world."
+  },
+  {
+    "id": 118,
+    "en": "life",
+    "es": [
+      "vida"
+    ],
+    "pos": "noun",
+    "rank": 118,
+    "example": "He loves his simple life."
+  },
+  {
+    "id": 119,
+    "en": "hand",
+    "es": [
+      "mano"
+    ],
+    "pos": "noun",
+    "rank": 119,
+    "example": "She held the cup in her hand."
+  },
+  {
+    "id": 120,
+    "en": "part",
+    "es": [
+      "parte"
+    ],
+    "pos": "noun",
+    "rank": 120,
+    "example": "This is the best part of the movie."
+  },
+  {
+    "id": 121,
+    "en": "child",
+    "es": [
+      "niño",
+      "niña"
+    ],
+    "pos": "noun",
+    "rank": 121,
+    "example": "The child is playing outside."
+  },
+  {
+    "id": 122,
+    "en": "eye",
+    "es": [
+      "ojo"
+    ],
+    "pos": "noun",
+    "rank": 122,
+    "example": "She has a scar above her eye."
+  },
+  {
+    "id": 123,
+    "en": "woman",
+    "es": [
+      "mujer"
+    ],
+    "pos": "noun",
+    "rank": 123,
+    "example": "The woman smiled at me."
+  },
+  {
+    "id": 124,
+    "en": "place",
+    "es": [
+      "lugar"
+    ],
+    "pos": "noun",
+    "rank": 124,
+    "example": "This is a quiet place to study."
+  },
+  {
+    "id": 125,
+    "en": "week",
+    "es": [
+      "semana"
+    ],
+    "pos": "noun",
+    "rank": 125,
+    "example": "I will see you next week."
+  },
+  {
+    "id": 126,
+    "en": "case",
+    "es": [
+      "caso"
+    ],
+    "pos": "noun",
+    "rank": 126,
+    "example": "In this case, we should wait."
+  },
+  {
+    "id": 127,
+    "en": "point",
+    "es": [
+      "punto"
+    ],
+    "pos": "noun",
+    "rank": 127,
+    "example": "That's a good point to consider."
+  },
+  {
+    "id": 128,
+    "en": "government",
+    "es": [
+      "gobierno"
+    ],
+    "pos": "noun",
+    "rank": 128,
+    "example": "The government announced new rules."
+  },
+  {
+    "id": 129,
+    "en": "company",
+    "es": [
+      "empresa"
+    ],
+    "pos": "noun",
+    "rank": 129,
+    "example": "She works for a big company."
+  },
+  {
+    "id": 130,
+    "en": "number",
+    "es": [
+      "número"
+    ],
+    "pos": "noun",
+    "rank": 130,
+    "example": "Please write your phone number."
+  },
+  {
+    "id": 131,
+    "en": "group",
+    "es": [
+      "grupo"
+    ],
+    "pos": "noun",
+    "rank": 131,
+    "example": "We divided the class into groups."
+  },
+  {
+    "id": 132,
+    "en": "problem",
+    "es": [
+      "problema"
+    ],
+    "pos": "noun",
+    "rank": 132,
+    "example": "We solved the problem together."
+  },
+  {
+    "id": 133,
+    "en": "fact",
+    "es": [
+      "hecho"
+    ],
+    "pos": "noun",
+    "rank": 133,
+    "example": "It's a fact that plants need water."
+  },
+  {
+    "id": 134,
+    "en": "money",
+    "es": [
+      "dinero"
+    ],
+    "pos": "noun",
+    "rank": 134,
+    "example": "I don't have enough money today."
+  },
+  {
+    "id": 135,
+    "en": "month",
+    "es": [
+      "mes"
+    ],
+    "pos": "noun",
+    "rank": 135,
+    "example": "The rent is due every month."
+  },
+  {
+    "id": 136,
+    "en": "water",
+    "es": [
+      "agua"
+    ],
+    "pos": "noun",
+    "rank": 136,
+    "example": "Please drink more water daily."
+  },
+  {
+    "id": 137,
+    "en": "room",
+    "es": [
+      "habitación",
+      "cuarto"
+    ],
+    "pos": "noun",
+    "rank": 137,
+    "example": "My room is upstairs."
+  },
+  {
+    "id": 138,
+    "en": "mother",
+    "es": [
+      "madre"
+    ],
+    "pos": "noun",
+    "rank": 138,
+    "example": "My mother cooks delicious food."
+  },
+  {
+    "id": 139,
+    "en": "area",
+    "es": [
+      "área",
+      "zona"
+    ],
+    "pos": "noun",
+    "rank": 139,
+    "example": "This area is very safe."
+  },
+  {
+    "id": 140,
+    "en": "book",
+    "es": [
+      "libro"
+    ],
+    "pos": "noun",
+    "rank": 140,
+    "example": "I am reading a new book."
+  },
+  {
+    "id": 141,
+    "en": "job",
+    "es": [
+      "trabajo",
+      "empleo"
+    ],
+    "pos": "noun",
+    "rank": 141,
+    "example": "She found a great job."
+  },
+  {
+    "id": 142,
+    "en": "word",
+    "es": [
+      "palabra"
+    ],
+    "pos": "noun",
+    "rank": 142,
+    "example": "Can you spell that word?"
+  },
+  {
+    "id": 143,
+    "en": "business",
+    "es": [
+      "negocio"
+    ],
+    "pos": "noun",
+    "rank": 143,
+    "example": "He started his own business."
+  },
+  {
+    "id": 144,
+    "en": "issue",
+    "es": [
+      "problema",
+      "asunto"
+    ],
+    "pos": "noun",
+    "rank": 144,
+    "example": "We need to fix this issue."
+  },
+  {
+    "id": 145,
+    "en": "side",
+    "es": [
+      "lado"
+    ],
+    "pos": "noun",
+    "rank": 145,
+    "example": "Park the car on the other side."
+  },
+  {
+    "id": 146,
+    "en": "kind",
+    "es": [
+      "tipo",
+      "clase"
+    ],
+    "pos": "noun",
+    "rank": 146,
+    "example": "What kind of music do you like?"
+  },
+  {
+    "id": 147,
+    "en": "head",
+    "es": [
+      "cabeza"
+    ],
+    "pos": "noun",
+    "rank": 147,
+    "example": "She nodded her head in agreement."
+  },
+  {
+    "id": 148,
+    "en": "house",
+    "es": [
+      "casa"
+    ],
+    "pos": "noun",
+    "rank": 148,
+    "example": "They bought a new house."
+  },
+  {
+    "id": 149,
+    "en": "service",
+    "es": [
+      "servicio"
+    ],
+    "pos": "noun",
+    "rank": 149,
+    "example": "The restaurant has great service."
+  },
+  {
+    "id": 150,
+    "en": "friend",
+    "es": [
+      "amigo",
+      "amiga"
+    ],
+    "pos": "noun",
+    "rank": 150,
+    "example": "She is my best friend."
+  },
+  {
+    "id": 151,
+    "en": "father",
+    "es": [
+      "padre"
+    ],
+    "pos": "noun",
+    "rank": 151,
+    "example": "My father taught me to drive."
+  },
+  {
+    "id": 152,
+    "en": "power",
+    "es": [
+      "poder"
+    ],
+    "pos": "noun",
+    "rank": 152,
+    "example": "Knowledge is a kind of power."
+  },
+  {
+    "id": 153,
+    "en": "hour",
+    "es": [
+      "hora"
+    ],
+    "pos": "noun",
+    "rank": 153,
+    "example": "The meeting lasted one hour."
+  },
+  {
+    "id": 154,
+    "en": "game",
+    "es": [
+      "juego"
+    ],
+    "pos": "noun",
+    "rank": 154,
+    "example": "The kids played a fun game."
+  },
+  {
+    "id": 155,
+    "en": "line",
+    "es": [
+      "línea",
+      "fila"
+    ],
+    "pos": "noun",
+    "rank": 155,
+    "example": "Please wait in line."
+  },
+  {
+    "id": 156,
+    "en": "end",
+    "es": [
+      "fin",
+      "final"
+    ],
+    "pos": "noun",
+    "rank": 156,
+    "example": "We reached the end of the road."
+  },
+  {
+    "id": 157,
+    "en": "member",
+    "es": [
+      "miembro"
+    ],
+    "pos": "noun",
+    "rank": 157,
+    "example": "She is a member of the team."
+  },
+  {
+    "id": 158,
+    "en": "law",
+    "es": [
+      "ley"
+    ],
+    "pos": "noun",
+    "rank": 158,
+    "example": "This law protects workers' rights."
+  },
+  {
+    "id": 159,
+    "en": "car",
+    "es": [
+      "coche",
+      "carro"
+    ],
+    "pos": "noun",
+    "rank": 159,
+    "example": "He parked the car outside."
+  },
+  {
+    "id": 160,
+    "en": "city",
+    "es": [
+      "ciudad"
+    ],
+    "pos": "noun",
+    "rank": 160,
+    "example": "Madrid is a beautiful city."
+  },
+  {
+    "id": 161,
+    "en": "community",
+    "es": [
+      "comunidad"
+    ],
+    "pos": "noun",
+    "rank": 161,
+    "example": "The community built a new park."
+  },
+  {
+    "id": 162,
+    "en": "name",
+    "es": [
+      "nombre"
+    ],
+    "pos": "noun",
+    "rank": 162,
+    "example": "What is your name?"
+  },
+  {
+    "id": 163,
+    "en": "president",
+    "es": [
+      "presidente"
+    ],
+    "pos": "noun",
+    "rank": 163,
+    "example": "The president gave a speech."
+  },
+  {
+    "id": 164,
+    "en": "team",
+    "es": [
+      "equipo"
+    ],
+    "pos": "noun",
+    "rank": 164,
+    "example": "Our team won the match."
+  },
+  {
+    "id": 165,
+    "en": "minute",
+    "es": [
+      "minuto"
+    ],
+    "pos": "noun",
+    "rank": 165,
+    "example": "Wait a minute, please."
+  },
+  {
+    "id": 166,
+    "en": "idea",
+    "es": [
+      "idea"
+    ],
+    "pos": "noun",
+    "rank": 166,
+    "example": "That's a great idea for dinner."
+  },
+  {
+    "id": 167,
+    "en": "body",
+    "es": [
+      "cuerpo"
+    ],
+    "pos": "noun",
+    "rank": 167,
+    "example": "Exercise is good for the body."
+  },
+  {
+    "id": 168,
+    "en": "information",
+    "es": [
+      "información"
+    ],
+    "pos": "noun",
+    "rank": 168,
+    "example": "I need more information about the trip."
+  },
+  {
+    "id": 169,
+    "en": "back",
+    "es": [
+      "espalda"
+    ],
+    "pos": "noun",
+    "rank": 169,
+    "example": "My back hurts from sitting all day."
+  },
+  {
+    "id": 170,
+    "en": "parent",
+    "es": [
+      "padre",
+      "madre"
+    ],
+    "pos": "noun",
+    "rank": 170,
+    "example": "Every parent wants their child safe."
+  },
+  {
+    "id": 171,
+    "en": "face",
+    "es": [
+      "cara",
+      "rostro"
+    ],
+    "pos": "noun",
+    "rank": 171,
+    "example": "She washed her face this morning."
+  },
+  {
+    "id": 172,
+    "en": "level",
+    "es": [
+      "nivel"
+    ],
+    "pos": "noun",
+    "rank": 172,
+    "example": "The water level is rising fast."
+  },
+  {
+    "id": 173,
+    "en": "office",
+    "es": [
+      "oficina"
+    ],
+    "pos": "noun",
+    "rank": 173,
+    "example": "He works in an office downtown."
+  },
+  {
+    "id": 174,
+    "en": "door",
+    "es": [
+      "puerta"
+    ],
+    "pos": "noun",
+    "rank": 174,
+    "example": "Please close the door quietly."
+  },
+  {
+    "id": 175,
+    "en": "health",
+    "es": [
+      "salud"
+    ],
+    "pos": "noun",
+    "rank": 175,
+    "example": "Sleep is important for your health."
+  },
+  {
+    "id": 176,
+    "en": "art",
+    "es": [
+      "arte"
+    ],
+    "pos": "noun",
+    "rank": 176,
+    "example": "She studies art at university."
+  },
+  {
+    "id": 177,
+    "en": "war",
+    "es": [
+      "guerra"
+    ],
+    "pos": "noun",
+    "rank": 177,
+    "example": "The book describes a long war."
+  },
+  {
+    "id": 178,
+    "en": "history",
+    "es": [
+      "historia"
+    ],
+    "pos": "noun",
+    "rank": 178,
+    "example": "I love learning about history."
+  },
+  {
+    "id": 179,
+    "en": "party",
+    "es": [
+      "fiesta"
+    ],
+    "pos": "noun",
+    "rank": 179,
+    "example": "We are throwing a birthday party."
+  },
+  {
+    "id": 180,
+    "en": "result",
+    "es": [
+      "resultado"
+    ],
+    "pos": "noun",
+    "rank": 180,
+    "example": "The test result was positive."
+  },
+  {
+    "id": 181,
+    "en": "change",
+    "es": [
+      "cambio"
+    ],
+    "pos": "noun",
+    "rank": 181,
+    "example": "This town needs a big change."
+  },
+  {
+    "id": 182,
+    "en": "morning",
+    "es": [
+      "mañana"
+    ],
+    "pos": "noun",
+    "rank": 182,
+    "example": "I drink coffee every morning."
+  },
+  {
+    "id": 183,
+    "en": "reason",
+    "es": [
+      "razón",
+      "motivo"
+    ],
+    "pos": "noun",
+    "rank": 183,
+    "example": "There is a reason for everything."
+  },
+  {
+    "id": 184,
+    "en": "research",
+    "es": [
+      "investigación"
+    ],
+    "pos": "noun",
+    "rank": 184,
+    "example": "The team published new research."
+  },
+  {
+    "id": 185,
+    "en": "girl",
+    "es": [
+      "niña",
+      "chica"
+    ],
+    "pos": "noun",
+    "rank": 185,
+    "example": "The girl is reading a book."
+  },
+  {
+    "id": 186,
+    "en": "guy",
+    "es": [
+      "tipo",
+      "chico"
+    ],
+    "pos": "noun",
+    "rank": 186,
+    "example": "He is a nice guy."
+  },
+  {
+    "id": 187,
+    "en": "moment",
+    "es": [
+      "momento"
+    ],
+    "pos": "noun",
+    "rank": 187,
+    "example": "Wait a moment, please."
+  },
+  {
+    "id": 188,
+    "en": "air",
+    "es": [
+      "aire"
+    ],
+    "pos": "noun",
+    "rank": 188,
+    "example": "The mountain air is fresh and clean."
+  },
+  {
+    "id": 189,
+    "en": "teacher",
+    "es": [
+      "profesor",
+      "maestra"
+    ],
+    "pos": "noun",
+    "rank": 189,
+    "example": "My teacher explained the lesson well."
+  },
+  {
+    "id": 190,
+    "en": "force",
+    "es": [
+      "fuerza"
+    ],
+    "pos": "noun",
+    "rank": 190,
+    "example": "Gravity is a natural force."
+  },
+  {
+    "id": 191,
+    "en": "education",
+    "es": [
+      "educación"
+    ],
+    "pos": "noun",
+    "rank": 191,
+    "example": "Education opens many doors."
+  },
+  {
+    "id": 192,
+    "en": "food",
+    "es": [
+      "comida"
+    ],
+    "pos": "noun",
+    "rank": 192,
+    "example": "The food at this restaurant is delicious."
+  },
+  {
+    "id": 193,
+    "en": "school",
+    "es": [
+      "escuela"
+    ],
+    "pos": "noun",
+    "rank": 193,
+    "example": "My children walk to school."
+  },
+  {
+    "id": 194,
+    "en": "family",
+    "es": [
+      "familia"
+    ],
+    "pos": "noun",
+    "rank": 194,
+    "example": "We spend holidays with family."
+  },
+  {
+    "id": 195,
+    "en": "student",
+    "es": [
+      "estudiante"
+    ],
+    "pos": "noun",
+    "rank": 195,
+    "example": "The student studies every night."
+  },
+  {
+    "id": 196,
+    "en": "country",
+    "es": [
+      "país"
+    ],
+    "pos": "noun",
+    "rank": 196,
+    "example": "Spain is a beautiful country."
+  },
+  {
+    "id": 197,
+    "en": "night",
+    "es": [
+      "noche"
+    ],
+    "pos": "noun",
+    "rank": 197,
+    "example": "We watched the stars at night."
+  },
+  {
+    "id": 198,
+    "en": "music",
+    "es": [
+      "música"
+    ],
+    "pos": "noun",
+    "rank": 198,
+    "example": "She listens to music every day."
+  },
+  {
+    "id": 199,
+    "en": "story",
+    "es": [
+      "historia",
+      "cuento"
+    ],
+    "pos": "noun",
+    "rank": 199,
+    "example": "He told an interesting story."
+  },
+  {
+    "id": 200,
+    "en": "language",
+    "es": [
+      "idioma",
+      "lengua"
+    ],
+    "pos": "noun",
+    "rank": 200,
+    "example": "Spanish is a beautiful language."
+  },
+  {
+    "id": 201,
+    "en": "good",
+    "es": [
+      "bueno"
+    ],
+    "pos": "adj",
+    "rank": 201,
+    "example": "This is a good idea."
+  },
+  {
+    "id": 202,
+    "en": "new",
+    "es": [
+      "nuevo"
+    ],
+    "pos": "adj",
+    "rank": 202,
+    "example": "I bought a new phone."
+  },
+  {
+    "id": 203,
+    "en": "first",
+    "es": [
+      "primero"
+    ],
+    "pos": "adj",
+    "rank": 203,
+    "example": "This is my first trip abroad."
+  },
+  {
+    "id": 204,
+    "en": "last",
+    "es": [
+      "último"
+    ],
+    "pos": "adj",
+    "rank": 204,
+    "example": "This is the last chapter of the book."
+  },
+  {
+    "id": 205,
+    "en": "long",
+    "es": [
+      "largo"
+    ],
+    "pos": "adj",
+    "rank": 205,
+    "example": "It was a long journey home."
+  },
+  {
+    "id": 206,
+    "en": "great",
+    "es": [
+      "genial",
+      "estupendo"
+    ],
+    "pos": "adj",
+    "rank": 206,
+    "example": "We had a great time together."
+  },
+  {
+    "id": 207,
+    "en": "little",
+    "es": [
+      "pequeño"
+    ],
+    "pos": "adj",
+    "rank": 207,
+    "example": "She has a little dog."
+  },
+  {
+    "id": 208,
+    "en": "own",
+    "es": [
+      "propio"
+    ],
+    "pos": "adj",
+    "rank": 208,
+    "example": "He has his own apartment."
+  },
+  {
+    "id": 209,
+    "en": "other",
+    "es": [
+      "otro"
+    ],
+    "pos": "adj",
+    "rank": 209,
+    "example": "I need the other pen."
+  },
+  {
+    "id": 210,
+    "en": "old",
+    "es": [
+      "viejo"
+    ],
+    "pos": "adj",
+    "rank": 210,
+    "example": "This is an old house."
+  },
+  {
+    "id": 211,
+    "en": "right",
+    "es": [
+      "correcto",
+      "derecha"
+    ],
+    "pos": "adj",
+    "rank": 211,
+    "example": "Turn right at the next corner."
+  },
+  {
+    "id": 212,
+    "en": "big",
+    "es": [
+      "grande"
+    ],
+    "pos": "adj",
+    "rank": 212,
+    "example": "They live in a big house."
+  },
+  {
+    "id": 213,
+    "en": "high",
+    "es": [
+      "alto"
+    ],
+    "pos": "adj",
+    "rank": 213,
+    "example": "The mountain is very high."
+  },
+  {
+    "id": 214,
+    "en": "different",
+    "es": [
+      "diferente"
+    ],
+    "pos": "adj",
+    "rank": 214,
+    "example": "We have different opinions on this."
+  },
+  {
+    "id": 215,
+    "en": "small",
+    "es": [
+      "pequeño"
+    ],
+    "pos": "adj",
+    "rank": 215,
+    "example": "She lives in a small apartment."
+  },
+  {
+    "id": 216,
+    "en": "large",
+    "es": [
+      "grande"
+    ],
+    "pos": "adj",
+    "rank": 216,
+    "example": "They own a large farm."
+  },
+  {
+    "id": 217,
+    "en": "next",
+    "es": [
+      "próximo",
+      "siguiente"
+    ],
+    "pos": "adj",
+    "rank": 217,
+    "example": "See you next week."
+  },
+  {
+    "id": 218,
+    "en": "early",
+    "es": [
+      "temprano"
+    ],
+    "pos": "adj",
+    "rank": 218,
+    "example": "We had an early breakfast today."
+  },
+  {
+    "id": 219,
+    "en": "young",
+    "es": [
+      "joven"
+    ],
+    "pos": "adj",
+    "rank": 219,
+    "example": "The young boy loves soccer."
+  },
+  {
+    "id": 220,
+    "en": "important",
+    "es": [
+      "importante"
+    ],
+    "pos": "adj",
+    "rank": 220,
+    "example": "This meeting is very important."
+  },
+  {
+    "id": 221,
+    "en": "few",
+    "es": [
+      "pocos"
+    ],
+    "pos": "adj",
+    "rank": 221,
+    "example": "I have a few questions."
+  },
+  {
+    "id": 222,
+    "en": "public",
+    "es": [
+      "público"
+    ],
+    "pos": "adj",
+    "rank": 222,
+    "example": "The park is a public space."
+  },
+  {
+    "id": 223,
+    "en": "bad",
+    "es": [
+      "malo"
+    ],
+    "pos": "adj",
+    "rank": 223,
+    "example": "The weather was really bad today."
+  },
+  {
+    "id": 224,
+    "en": "same",
+    "es": [
+      "mismo"
+    ],
+    "pos": "adj",
+    "rank": 224,
+    "example": "We wear the same shoes."
+  },
+  {
+    "id": 225,
+    "en": "able",
+    "es": [
+      "capaz"
+    ],
+    "pos": "adj",
+    "rank": 225,
+    "example": "She is able to solve any problem."
+  },
+  {
+    "id": 226,
+    "en": "sure",
+    "es": [
+      "seguro"
+    ],
+    "pos": "adj",
+    "rank": 226,
+    "example": "I am sure about my answer."
+  },
+  {
+    "id": 227,
+    "en": "best",
+    "es": [
+      "mejor"
+    ],
+    "pos": "adj",
+    "rank": 227,
+    "example": "This is the best pizza in town."
+  },
+  {
+    "id": 228,
+    "en": "better",
+    "es": [
+      "mejor"
+    ],
+    "pos": "adj",
+    "rank": 228,
+    "example": "I feel better today than yesterday."
+  },
+  {
+    "id": 229,
+    "en": "low",
+    "es": [
+      "bajo"
+    ],
+    "pos": "adj",
+    "rank": 229,
+    "example": "The bridge is quite low."
+  },
+  {
+    "id": 230,
+    "en": "late",
+    "es": [
+      "tarde"
+    ],
+    "pos": "adj",
+    "rank": 230,
+    "example": "Sorry, I am running late."
+  },
+  {
+    "id": 231,
+    "en": "hard",
+    "es": [
+      "difícil",
+      "duro"
+    ],
+    "pos": "adj",
+    "rank": 231,
+    "example": "This exam was very hard."
+  },
+  {
+    "id": 232,
+    "en": "major",
+    "es": [
+      "principal"
+    ],
+    "pos": "adj",
+    "rank": 232,
+    "example": "There was a major change in plans."
+  },
+  {
+    "id": 233,
+    "en": "local",
+    "es": [
+      "local"
+    ],
+    "pos": "adj",
+    "rank": 233,
+    "example": "We shop at the local market."
+  },
+  {
+    "id": 234,
+    "en": "social",
+    "es": [
+      "social"
+    ],
+    "pos": "adj",
+    "rank": 234,
+    "example": "She has great social skills."
+  },
+  {
+    "id": 235,
+    "en": "general",
+    "es": [
+      "general"
+    ],
+    "pos": "adj",
+    "rank": 235,
+    "example": "This is a general rule for everyone."
+  },
+  {
+    "id": 236,
+    "en": "national",
+    "es": [
+      "nacional"
+    ],
+    "pos": "adj",
+    "rank": 236,
+    "example": "Today is a national holiday."
+  },
+  {
+    "id": 237,
+    "en": "red",
+    "es": [
+      "rojo"
+    ],
+    "pos": "adj",
+    "rank": 237,
+    "example": "She wore a red dress."
+  },
+  {
+    "id": 238,
+    "en": "possible",
+    "es": [
+      "posible"
+    ],
+    "pos": "adj",
+    "rank": 238,
+    "example": "It is possible to finish today."
+  },
+  {
+    "id": 239,
+    "en": "easy",
+    "es": [
+      "fácil"
+    ],
+    "pos": "adj",
+    "rank": 239,
+    "example": "This puzzle is very easy."
+  },
+  {
+    "id": 240,
+    "en": "strong",
+    "es": [
+      "fuerte"
+    ],
+    "pos": "adj",
+    "rank": 240,
+    "example": "He has strong arms from training."
+  },
+  {
+    "id": 241,
+    "en": "clear",
+    "es": [
+      "claro"
+    ],
+    "pos": "adj",
+    "rank": 241,
+    "example": "The instructions were very clear."
+  },
+  {
+    "id": 242,
+    "en": "free",
+    "es": [
+      "gratis",
+      "libre"
+    ],
+    "pos": "adj",
+    "rank": 242,
+    "example": "The tickets are free today."
+  },
+  {
+    "id": 243,
+    "en": "human",
+    "es": [
+      "humano"
+    ],
+    "pos": "adj",
+    "rank": 243,
+    "example": "This is a basic human right."
+  },
+  {
+    "id": 244,
+    "en": "whole",
+    "es": [
+      "entero",
+      "completo"
+    ],
+    "pos": "adj",
+    "rank": 244,
+    "example": "She ate the whole cake."
+  },
+  {
+    "id": 245,
+    "en": "full",
+    "es": [
+      "lleno"
+    ],
+    "pos": "adj",
+    "rank": 245,
+    "example": "The bus was completely full."
+  },
+  {
+    "id": 246,
+    "en": "special",
+    "es": [
+      "especial"
+    ],
+    "pos": "adj",
+    "rank": 246,
+    "example": "Today is a special day for us."
+  },
+  {
+    "id": 247,
+    "en": "economic",
+    "es": [
+      "económico"
+    ],
+    "pos": "adj",
+    "rank": 247,
+    "example": "The economic crisis affected many families."
+  },
+  {
+    "id": 248,
+    "en": "current",
+    "es": [
+      "actual"
+    ],
+    "pos": "adj",
+    "rank": 248,
+    "example": "What is the current situation?"
+  },
+  {
+    "id": 249,
+    "en": "international",
+    "es": [
+      "internacional"
+    ],
+    "pos": "adj",
+    "rank": 249,
+    "example": "She works for an international company."
+  },
+  {
+    "id": 250,
+    "en": "personal",
+    "es": [
+      "personal"
+    ],
+    "pos": "adj",
+    "rank": 250,
+    "example": "This is a personal matter."
+  },
+  {
+    "id": 251,
+    "en": "political",
+    "es": [
+      "político"
+    ],
+    "pos": "adj",
+    "rank": 251,
+    "example": "They had a political discussion."
+  },
+  {
+    "id": 252,
+    "en": "similar",
+    "es": [
+      "similar",
+      "parecido"
+    ],
+    "pos": "adj",
+    "rank": 252,
+    "example": "These two shirts are similar."
+  },
+  {
+    "id": 253,
+    "en": "difficult",
+    "es": [
+      "difícil"
+    ],
+    "pos": "adj",
+    "rank": 253,
+    "example": "This question is quite difficult."
+  },
+  {
+    "id": 254,
+    "en": "available",
+    "es": [
+      "disponible"
+    ],
+    "pos": "adj",
+    "rank": 254,
+    "example": "The room is available tonight."
+  },
+  {
+    "id": 255,
+    "en": "likely",
+    "es": [
+      "probable"
+    ],
+    "pos": "adj",
+    "rank": 255,
+    "example": "It is likely to rain tomorrow."
+  },
+  {
+    "id": 256,
+    "en": "also",
+    "es": [
+      "también"
+    ],
+    "pos": "adv",
+    "rank": 256,
+    "example": "She also plays the guitar."
+  },
+  {
+    "id": 257,
+    "en": "very",
+    "es": [
+      "muy"
+    ],
+    "pos": "adv",
+    "rank": 257,
+    "example": "This soup is very hot."
+  },
+  {
+    "id": 258,
+    "en": "well",
+    "es": [
+      "bien"
+    ],
+    "pos": "adv",
+    "rank": 258,
+    "example": "She sings very well."
+  },
+  {
+    "id": 259,
+    "en": "often",
+    "es": [
+      "a menudo"
+    ],
+    "pos": "adv",
+    "rank": 259,
+    "example": "We often go hiking on weekends."
+  },
+  {
+    "id": 260,
+    "en": "always",
+    "es": [
+      "siempre"
+    ],
+    "pos": "adv",
+    "rank": 260,
+    "example": "He always arrives on time."
+  },
+  {
+    "id": 261,
+    "en": "however",
+    "es": [
+      "sin embargo"
+    ],
+    "pos": "adv",
+    "rank": 261,
+    "example": "I like tea, however coffee is better."
+  },
+  {
+    "id": 262,
+    "en": "still",
+    "es": [
+      "todavía",
+      "aún"
+    ],
+    "pos": "adv",
+    "rank": 262,
+    "example": "She still lives in Paris."
+  },
+  {
+    "id": 263,
+    "en": "again",
+    "es": [
+      "otra vez",
+      "de nuevo"
+    ],
+    "pos": "adv",
+    "rank": 263,
+    "example": "Please explain that again."
+  },
+  {
+    "id": 264,
+    "en": "never",
+    "es": [
+      "nunca"
+    ],
+    "pos": "adv",
+    "rank": 264,
+    "example": "I never eat breakfast."
+  },
+  {
+    "id": 265,
+    "en": "really",
+    "es": [
+      "realmente"
+    ],
+    "pos": "adv",
+    "rank": 265,
+    "example": "I really like this song."
+  },
+  {
+    "id": 266,
+    "en": "almost",
+    "es": [
+      "casi"
+    ],
+    "pos": "adv",
+    "rank": 266,
+    "example": "We are almost home now."
+  },
+  {
+    "id": 267,
+    "en": "already",
+    "es": [
+      "ya"
+    ],
+    "pos": "adv",
+    "rank": 267,
+    "example": "She has already finished her homework."
+  },
+  {
+    "id": 268,
+    "en": "together",
+    "es": [
+      "juntos"
+    ],
+    "pos": "adv",
+    "rank": 268,
+    "example": "They walked together to school."
+  },
+  {
+    "id": 269,
+    "en": "probably",
+    "es": [
+      "probablemente"
+    ],
+    "pos": "adv",
+    "rank": 269,
+    "example": "It will probably rain tonight."
+  },
+  {
+    "id": 270,
+    "en": "quite",
+    "es": [
+      "bastante"
+    ],
+    "pos": "adv",
+    "rank": 270,
+    "example": "The movie was quite long."
+  },
+  {
+    "id": 271,
+    "en": "especially",
+    "es": [
+      "especialmente"
+    ],
+    "pos": "adv",
+    "rank": 271,
+    "example": "I love fruit, especially strawberries."
+  },
+  {
+    "id": 272,
+    "en": "perhaps",
+    "es": [
+      "quizás",
+      "tal vez"
+    ],
+    "pos": "adv",
+    "rank": 272,
+    "example": "Perhaps we should leave earlier."
+  },
+  {
+    "id": 273,
+    "en": "certainly",
+    "es": [
+      "ciertamente"
+    ],
+    "pos": "adv",
+    "rank": 273,
+    "example": "She will certainly pass the exam."
+  },
+  {
+    "id": 274,
+    "en": "finally",
+    "es": [
+      "finalmente",
+      "por fin"
+    ],
+    "pos": "adv",
+    "rank": 274,
+    "example": "We finally arrived at the hotel."
+  },
+  {
+    "id": 275,
+    "en": "recently",
+    "es": [
+      "recientemente"
+    ],
+    "pos": "adv",
+    "rank": 275,
+    "example": "I recently moved to a new city."
+  },
+  {
+    "id": 276,
+    "en": "two",
+    "es": [
+      "dos"
+    ],
+    "pos": "num",
+    "rank": 276,
+    "example": "I have two sisters."
+  },
+  {
+    "id": 277,
+    "en": "three",
+    "es": [
+      "tres"
+    ],
+    "pos": "num",
+    "rank": 277,
+    "example": "She bought three apples."
+  },
+  {
+    "id": 278,
+    "en": "second",
+    "es": [
+      "segundo"
+    ],
+    "pos": "num",
+    "rank": 278,
+    "example": "This is the second time I've called."
+  },
+  {
+    "id": 279,
+    "en": "ten",
+    "es": [
+      "diez"
+    ],
+    "pos": "num",
+    "rank": 279,
+    "example": "The store closes at ten."
+  },
+  {
+    "id": 280,
+    "en": "hundred",
+    "es": [
+      "cien"
+    ],
+    "pos": "num",
+    "rank": 280,
+    "example": "The book has one hundred pages."
+  },
+  {
+    "id": 281,
+    "en": "thousand",
+    "es": [
+      "mil"
+    ],
+    "pos": "num",
+    "rank": 281,
+    "example": "The city has ten thousand residents."
+  },
+  {
+    "id": 282,
+    "en": "million",
+    "es": [
+      "millón"
+    ],
+    "pos": "num",
+    "rank": 282,
+    "example": "The company earned a million dollars."
+  },
+  {
+    "id": 283,
+    "en": "zero",
+    "es": [
+      "cero"
+    ],
+    "pos": "num",
+    "rank": 283,
+    "example": "The temperature dropped to zero."
+  },
+  {
+    "id": 284,
+    "en": "four",
+    "es": [
+      "cuatro"
+    ],
+    "pos": "num",
+    "rank": 284,
+    "example": "We waited for four hours."
+  },
+  {
+    "id": 285,
+    "en": "five",
+    "es": [
+      "cinco"
+    ],
+    "pos": "num",
+    "rank": 285,
+    "example": "She has five books on her desk."
+  },
+  {
+    "id": 286,
+    "en": "yes",
+    "es": [
+      "sí"
+    ],
+    "pos": "interj",
+    "rank": 286,
+    "example": "Yes, I would love to come."
+  },
+  {
+    "id": 287,
+    "en": "hello",
+    "es": [
+      "hola"
+    ],
+    "pos": "interj",
+    "rank": 287,
+    "example": "Hello, how are you today?"
+  },
+  {
+    "id": 288,
+    "en": "thanks",
+    "es": [
+      "gracias"
+    ],
+    "pos": "interj",
+    "rank": 288,
+    "example": "Thanks for your help today."
+  },
+  {
+    "id": 289,
+    "en": "sorry",
+    "es": [
+      "lo siento"
+    ],
+    "pos": "interj",
+    "rank": 289,
+    "example": "Sorry, I didn't mean to interrupt."
+  },
+  {
+    "id": 290,
+    "en": "please",
+    "es": [
+      "por favor"
+    ],
+    "pos": "interj",
+    "rank": 290,
+    "example": "Please close the door quietly."
+  },
+  {
+    "id": 291,
+    "en": "understand",
+    "es": [
+      "entender",
+      "comprender"
+    ],
+    "pos": "verb",
+    "rank": 291,
+    "example": "I don't understand this question."
+  },
+  {
+    "id": 292,
+    "en": "remember",
+    "es": [
+      "recordar"
+    ],
+    "pos": "verb",
+    "rank": 292,
+    "example": "Do you remember her name?"
+  },
+  {
+    "id": 293,
+    "en": "wait",
+    "es": [
+      "esperar"
+    ],
+    "pos": "verb",
+    "rank": 293,
+    "example": "Please wait for me outside."
+  },
+  {
+    "id": 294,
+    "en": "answer",
+    "es": [
+      "respuesta"
+    ],
+    "pos": "noun",
+    "rank": 294,
+    "example": "She knew the correct answer."
+  },
+  {
+    "id": 295,
+    "en": "question",
+    "es": [
+      "pregunta"
+    ],
+    "pos": "noun",
+    "rank": 295,
+    "example": "He asked a difficult question."
+  },
+  {
+    "id": 296,
+    "en": "difference",
+    "es": [
+      "diferencia"
+    ],
+    "pos": "noun",
+    "rank": 296,
+    "example": "There is a big difference between them."
+  },
+  {
+    "id": 297,
+    "en": "example",
+    "es": [
+      "ejemplo"
+    ],
+    "pos": "noun",
+    "rank": 297,
+    "example": "Can you give me an example?"
+  },
+  {
+    "id": 298,
+    "en": "system",
+    "es": [
+      "sistema"
+    ],
+    "pos": "noun",
+    "rank": 298,
+    "example": "The new system works very well."
+  },
+  {
+    "id": 299,
+    "en": "society",
+    "es": [
+      "sociedad"
+    ],
+    "pos": "noun",
+    "rank": 299,
+    "example": "Technology has changed our society."
+  },
+  {
+    "id": 300,
+    "en": "experience",
+    "es": [
+      "experiencia"
+    ],
+    "pos": "noun",
+    "rank": 300,
+    "example": "Traveling is a great experience."
+  },
+  {
+    "id": 301,
+    "en": "season",
+    "es": [
+      "estación"
+    ],
+    "pos": "noun",
+    "rank": 301,
+    "example": "Summer is my favorite season."
+  },
+  {
+    "id": 302,
+    "en": "holiday",
+    "es": [
+      "vacaciones"
+    ],
+    "pos": "noun",
+    "rank": 302,
+    "example": "We are planning a holiday in July."
+  },
+  {
+    "id": 303,
+    "en": "birthday",
+    "es": [
+      "cumpleaños"
+    ],
+    "pos": "noun",
+    "rank": 303,
+    "example": "Her birthday is next Friday."
+  },
+  {
+    "id": 304,
+    "en": "weekend",
+    "es": [
+      "fin de semana"
+    ],
+    "pos": "noun",
+    "rank": 304,
+    "example": "We relax a lot on the weekend."
+  },
+  {
+    "id": 305,
+    "en": "century",
+    "es": [
+      "siglo"
+    ],
+    "pos": "noun",
+    "rank": 305,
+    "example": "This castle is over a century old."
+  },
+  {
+    "id": 306,
+    "en": "decade",
+    "es": [
+      "década"
+    ],
+    "pos": "noun",
+    "rank": 306,
+    "example": "A decade passed since we met."
+  },
+  {
+    "id": 307,
+    "en": "doctor",
+    "es": [
+      "médico",
+      "doctor"
+    ],
+    "pos": "noun",
+    "rank": 307,
+    "example": "The doctor checked my heart."
+  },
+  {
+    "id": 308,
+    "en": "nurse",
+    "es": [
+      "enfermera",
+      "enfermero"
+    ],
+    "pos": "noun",
+    "rank": 308,
+    "example": "The nurse gave him an injection."
+  },
+  {
+    "id": 309,
+    "en": "lawyer",
+    "es": [
+      "abogado"
+    ],
+    "pos": "noun",
+    "rank": 309,
+    "example": "She hired a lawyer for the case."
+  },
+  {
+    "id": 310,
+    "en": "engineer",
+    "es": [
+      "ingeniero"
+    ],
+    "pos": "noun",
+    "rank": 310,
+    "example": "He works as a software engineer."
+  },
+  {
+    "id": 311,
+    "en": "artist",
+    "es": [
+      "artista"
+    ],
+    "pos": "noun",
+    "rank": 311,
+    "example": "The artist painted a colorful mural."
+  },
+  {
+    "id": 312,
+    "en": "writer",
+    "es": [
+      "escritor"
+    ],
+    "pos": "noun",
+    "rank": 312,
+    "example": "She is a famous writer of novels."
+  },
+  {
+    "id": 313,
+    "en": "actor",
+    "es": [
+      "actor"
+    ],
+    "pos": "noun",
+    "rank": 313,
+    "example": "The actor forgot his lines."
+  },
+  {
+    "id": 314,
+    "en": "driver",
+    "es": [
+      "conductor"
+    ],
+    "pos": "noun",
+    "rank": 314,
+    "example": "The taxi driver knew every street."
+  },
+  {
+    "id": 315,
+    "en": "manager",
+    "es": [
+      "gerente"
+    ],
+    "pos": "noun",
+    "rank": 315,
+    "example": "The manager approved my vacation."
+  },
+  {
+    "id": 316,
+    "en": "employee",
+    "es": [
+      "empleado"
+    ],
+    "pos": "noun",
+    "rank": 316,
+    "example": "Every employee got a bonus."
+  },
+  {
+    "id": 317,
+    "en": "customer",
+    "es": [
+      "cliente"
+    ],
+    "pos": "noun",
+    "rank": 317,
+    "example": "The customer complained about the price."
+  },
+  {
+    "id": 318,
+    "en": "neighbor",
+    "es": [
+      "vecino"
+    ],
+    "pos": "noun",
+    "rank": 318,
+    "example": "My neighbor waters my plants."
+  },
+  {
+    "id": 319,
+    "en": "stranger",
+    "es": [
+      "desconocido"
+    ],
+    "pos": "noun",
+    "rank": 319,
+    "example": "Don't talk to strangers."
+  },
+  {
+    "id": 320,
+    "en": "soldier",
+    "es": [
+      "soldado"
+    ],
+    "pos": "noun",
+    "rank": 320,
+    "example": "The soldier returned home safely."
+  },
+  {
+    "id": 321,
+    "en": "farmer",
+    "es": [
+      "agricultor",
+      "granjero"
+    ],
+    "pos": "noun",
+    "rank": 321,
+    "example": "The farmer grows corn and wheat."
+  },
+  {
+    "id": 322,
+    "en": "scientist",
+    "es": [
+      "científico"
+    ],
+    "pos": "noun",
+    "rank": 322,
+    "example": "The scientist published new results."
+  },
+  {
+    "id": 323,
+    "en": "athlete",
+    "es": [
+      "atleta"
+    ],
+    "pos": "noun",
+    "rank": 323,
+    "example": "The athlete trains every morning."
+  },
+  {
+    "id": 324,
+    "en": "musician",
+    "es": [
+      "músico"
+    ],
+    "pos": "noun",
+    "rank": 324,
+    "example": "The musician played the violin."
+  },
+  {
+    "id": 325,
+    "en": "chef",
+    "es": [
+      "chef",
+      "cocinero"
+    ],
+    "pos": "noun",
+    "rank": 325,
+    "example": "The chef prepared a special dish."
+  },
+  {
+    "id": 326,
+    "en": "officer",
+    "es": [
+      "oficial"
+    ],
+    "pos": "noun",
+    "rank": 326,
+    "example": "The officer directed traffic downtown."
+  },
+  {
+    "id": 327,
+    "en": "judge",
+    "es": [
+      "juez"
+    ],
+    "pos": "noun",
+    "rank": 327,
+    "example": "The judge read the final verdict."
+  },
+  {
+    "id": 328,
+    "en": "king",
+    "es": [
+      "rey"
+    ],
+    "pos": "noun",
+    "rank": 328,
+    "example": "The king ruled for forty years."
+  },
+  {
+    "id": 329,
+    "en": "queen",
+    "es": [
+      "reina"
+    ],
+    "pos": "noun",
+    "rank": 329,
+    "example": "The queen wore a golden crown."
+  },
+  {
+    "id": 330,
+    "en": "baby",
+    "es": [
+      "bebé"
+    ],
+    "pos": "noun",
+    "rank": 330,
+    "example": "The baby slept through the night."
+  },
+  {
+    "id": 331,
+    "en": "adult",
+    "es": [
+      "adulto"
+    ],
+    "pos": "noun",
+    "rank": 331,
+    "example": "Only adults can buy this ticket."
+  },
+  {
+    "id": 332,
+    "en": "teenager",
+    "es": [
+      "adolescente"
+    ],
+    "pos": "noun",
+    "rank": 332,
+    "example": "My teenager sleeps until noon."
+  },
+  {
+    "id": 333,
+    "en": "couple",
+    "es": [
+      "pareja"
+    ],
+    "pos": "noun",
+    "rank": 333,
+    "example": "The couple danced all night."
+  },
+  {
+    "id": 334,
+    "en": "crowd",
+    "es": [
+      "multitud"
+    ],
+    "pos": "noun",
+    "rank": 334,
+    "example": "A crowd gathered outside the stadium."
+  },
+  {
+    "id": 335,
+    "en": "audience",
+    "es": [
+      "público",
+      "audiencia"
+    ],
+    "pos": "noun",
+    "rank": 335,
+    "example": "The audience clapped loudly."
+  },
+  {
+    "id": 336,
+    "en": "guest",
+    "es": [
+      "invitado"
+    ],
+    "pos": "noun",
+    "rank": 336,
+    "example": "We welcomed every guest warmly."
+  },
+  {
+    "id": 337,
+    "en": "visitor",
+    "es": [
+      "visitante"
+    ],
+    "pos": "noun",
+    "rank": 337,
+    "example": "The museum had many visitors today."
+  },
+  {
+    "id": 338,
+    "en": "tourist",
+    "es": [
+      "turista"
+    ],
+    "pos": "noun",
+    "rank": 338,
+    "example": "Tourists take photos of the tower."
+  },
+  {
+    "id": 339,
+    "en": "citizen",
+    "es": [
+      "ciudadano"
+    ],
+    "pos": "noun",
+    "rank": 339,
+    "example": "Every citizen has the right to vote."
+  },
+  {
+    "id": 340,
+    "en": "leader",
+    "es": [
+      "líder"
+    ],
+    "pos": "noun",
+    "rank": 340,
+    "example": "She became the leader of the team."
+  },
+  {
+    "id": 341,
+    "en": "boss",
+    "es": [
+      "jefe"
+    ],
+    "pos": "noun",
+    "rank": 341,
+    "example": "My boss praised my report."
+  },
+  {
+    "id": 342,
+    "en": "owner",
+    "es": [
+      "dueño",
+      "propietario"
+    ],
+    "pos": "noun",
+    "rank": 342,
+    "example": "The owner closed the shop early."
+  },
+  {
+    "id": 343,
+    "en": "partner",
+    "es": [
+      "socio",
+      "pareja"
+    ],
+    "pos": "noun",
+    "rank": 343,
+    "example": "He is my business partner."
+  },
+  {
+    "id": 344,
+    "en": "colleague",
+    "es": [
+      "colega"
+    ],
+    "pos": "noun",
+    "rank": 344,
+    "example": "I had lunch with a colleague."
+  },
+  {
+    "id": 345,
+    "en": "staff",
+    "es": [
+      "personal"
+    ],
+    "pos": "noun",
+    "rank": 345,
+    "example": "The hotel staff was very friendly."
+  },
+  {
+    "id": 346,
+    "en": "decide",
+    "es": [
+      "decidir"
+    ],
+    "pos": "verb",
+    "rank": 346,
+    "example": "We need to decide today."
+  },
+  {
+    "id": 347,
+    "en": "agree",
+    "es": [
+      "estar de acuerdo"
+    ],
+    "pos": "verb",
+    "rank": 347,
+    "example": "I agree with your plan."
+  },
+  {
+    "id": 348,
+    "en": "disagree",
+    "es": [
+      "no estar de acuerdo"
+    ],
+    "pos": "verb",
+    "rank": 348,
+    "example": "They disagree about the price."
+  },
+  {
+    "id": 349,
+    "en": "explain",
+    "es": [
+      "explicar"
+    ],
+    "pos": "verb",
+    "rank": 349,
+    "example": "Can you explain this rule?"
+  },
+  {
+    "id": 350,
+    "en": "describe",
+    "es": [
+      "describir"
+    ],
+    "pos": "verb",
+    "rank": 350,
+    "example": "Describe your ideal vacation."
+  },
+  {
+    "id": 351,
+    "en": "suggest",
+    "es": [
+      "sugerir"
+    ],
+    "pos": "verb",
+    "rank": 351,
+    "example": "She suggested a new restaurant."
+  },
+  {
+    "id": 352,
+    "en": "allow",
+    "es": [
+      "permitir"
+    ],
+    "pos": "verb",
+    "rank": 352,
+    "example": "They allow pets in this park."
+  },
+  {
+    "id": 353,
+    "en": "accept",
+    "es": [
+      "aceptar"
+    ],
+    "pos": "verb",
+    "rank": 353,
+    "example": "He accepted the job offer."
+  },
+  {
+    "id": 354,
+    "en": "refuse",
+    "es": [
+      "rechazar"
+    ],
+    "pos": "verb",
+    "rank": 354,
+    "example": "She refused to sign the form."
+  },
+  {
+    "id": 355,
+    "en": "offer",
+    "es": [
+      "ofrecer"
+    ],
+    "pos": "verb",
+    "rank": 355,
+    "example": "The store offers a discount today."
+  },
+  {
+    "id": 356,
+    "en": "receive",
+    "es": [
+      "recibir"
+    ],
+    "pos": "verb",
+    "rank": 356,
+    "example": "I received your letter yesterday."
+  },
+  {
+    "id": 357,
+    "en": "deliver",
+    "es": [
+      "entregar"
+    ],
+    "pos": "verb",
+    "rank": 357,
+    "example": "They deliver pizza to your door."
+  },
+  {
+    "id": 358,
+    "en": "send",
+    "es": [
+      "enviar"
+    ],
+    "pos": "verb",
+    "rank": 358,
+    "example": "Please send me the file."
+  },
+  {
+    "id": 359,
+    "en": "collect",
+    "es": [
+      "recolectar",
+      "coleccionar"
+    ],
+    "pos": "verb",
+    "rank": 359,
+    "example": "He collects old coins."
+  },
+  {
+    "id": 360,
+    "en": "organize",
+    "es": [
+      "organizar"
+    ],
+    "pos": "verb",
+    "rank": 360,
+    "example": "We need to organize this closet."
+  },
+  {
+    "id": 361,
+    "en": "arrange",
+    "es": [
+      "arreglar",
+      "organizar"
+    ],
+    "pos": "verb",
+    "rank": 361,
+    "example": "Let's arrange a meeting soon."
+  },
+  {
+    "id": 362,
+    "en": "consider",
+    "es": [
+      "considerar"
+    ],
+    "pos": "verb",
+    "rank": 362,
+    "example": "Please consider my proposal."
+  },
+  {
+    "id": 363,
+    "en": "prepare",
+    "es": [
+      "preparar"
+    ],
+    "pos": "verb",
+    "rank": 363,
+    "example": "She prepared dinner for us."
+  },
+  {
+    "id": 364,
+    "en": "create",
+    "es": [
+      "crear"
+    ],
+    "pos": "verb",
+    "rank": 364,
+    "example": "Artists create beautiful things."
+  },
+  {
+    "id": 365,
+    "en": "produce",
+    "es": [
+      "producir"
+    ],
+    "pos": "verb",
+    "rank": 365,
+    "example": "The farm produces fresh milk."
+  },
+  {
+    "id": 366,
+    "en": "build",
+    "es": [
+      "construir"
+    ],
+    "pos": "verb",
+    "rank": 366,
+    "example": "They will build a new bridge."
+  },
+  {
+    "id": 367,
+    "en": "break",
+    "es": [
+      "romper"
+    ],
+    "pos": "verb",
+    "rank": 367,
+    "example": "Don't break the glass vase."
+  },
+  {
+    "id": 368,
+    "en": "fix",
+    "es": [
+      "reparar",
+      "arreglar"
+    ],
+    "pos": "verb",
+    "rank": 368,
+    "example": "Can you fix my bicycle?"
+  },
+  {
+    "id": 369,
+    "en": "improve",
+    "es": [
+      "mejorar"
+    ],
+    "pos": "verb",
+    "rank": 369,
+    "example": "Practice will improve your skills."
+  },
+  {
+    "id": 370,
+    "en": "develop",
+    "es": [
+      "desarrollar"
+    ],
+    "pos": "verb",
+    "rank": 370,
+    "example": "The team develops new software."
+  },
+  {
+    "id": 371,
+    "en": "happy",
+    "es": [
+      "feliz"
+    ],
+    "pos": "adj",
+    "rank": 371,
+    "example": "She looks very happy today."
+  },
+  {
+    "id": 372,
+    "en": "sad",
+    "es": [
+      "triste"
+    ],
+    "pos": "adj",
+    "rank": 372,
+    "example": "The movie made me sad."
+  },
+  {
+    "id": 373,
+    "en": "angry",
+    "es": [
+      "enojado"
+    ],
+    "pos": "adj",
+    "rank": 373,
+    "example": "He was angry about the delay."
+  },
+  {
+    "id": 374,
+    "en": "afraid",
+    "es": [
+      "asustado"
+    ],
+    "pos": "adj",
+    "rank": 374,
+    "example": "The child is afraid of dogs."
+  },
+  {
+    "id": 375,
+    "en": "worried",
+    "es": [
+      "preocupado"
+    ],
+    "pos": "adj",
+    "rank": 375,
+    "example": "I am worried about the exam."
+  },
+  {
+    "id": 376,
+    "en": "excited",
+    "es": [
+      "emocionado"
+    ],
+    "pos": "adj",
+    "rank": 376,
+    "example": "We are excited about the trip."
+  },
+  {
+    "id": 377,
+    "en": "nervous",
+    "es": [
+      "nervioso"
+    ],
+    "pos": "adj",
+    "rank": 377,
+    "example": "She felt nervous before the interview."
+  },
+  {
+    "id": 378,
+    "en": "calm",
+    "es": [
+      "tranquilo"
+    ],
+    "pos": "adj",
+    "rank": 378,
+    "example": "The lake was calm and quiet."
+  },
+  {
+    "id": 379,
+    "en": "comfortable",
+    "es": [
+      "cómodo"
+    ],
+    "pos": "adj",
+    "rank": 379,
+    "example": "This chair is very comfortable."
+  },
+  {
+    "id": 380,
+    "en": "confident",
+    "es": [
+      "seguro de sí mismo"
+    ],
+    "pos": "adj",
+    "rank": 380,
+    "example": "He is confident about winning."
+  },
+  {
+    "id": 381,
+    "en": "proud",
+    "es": [
+      "orgulloso"
+    ],
+    "pos": "adj",
+    "rank": 381,
+    "example": "Her parents are very proud."
+  },
+  {
+    "id": 382,
+    "en": "surprised",
+    "es": [
+      "sorprendido"
+    ],
+    "pos": "adj",
+    "rank": 382,
+    "example": "I was surprised by the news."
+  },
+  {
+    "id": 383,
+    "en": "confused",
+    "es": [
+      "confundido"
+    ],
+    "pos": "adj",
+    "rank": 383,
+    "example": "The map left us confused."
+  },
+  {
+    "id": 384,
+    "en": "curious",
+    "es": [
+      "curioso"
+    ],
+    "pos": "adj",
+    "rank": 384,
+    "example": "The cat is curious about everything."
+  },
+  {
+    "id": 385,
+    "en": "interested",
+    "es": [
+      "interesado"
+    ],
+    "pos": "adj",
+    "rank": 385,
+    "example": "She is interested in art."
+  },
+  {
+    "id": 386,
+    "en": "bored",
+    "es": [
+      "aburrido"
+    ],
+    "pos": "adj",
+    "rank": 386,
+    "example": "The kids got bored quickly."
+  },
+  {
+    "id": 387,
+    "en": "tired",
+    "es": [
+      "cansado"
+    ],
+    "pos": "adj",
+    "rank": 387,
+    "example": "I am too tired to cook."
+  },
+  {
+    "id": 388,
+    "en": "hungry",
+    "es": [
+      "hambriento"
+    ],
+    "pos": "adj",
+    "rank": 388,
+    "example": "The dog looked hungry."
+  },
+  {
+    "id": 389,
+    "en": "thirsty",
+    "es": [
+      "sediento"
+    ],
+    "pos": "adj",
+    "rank": 389,
+    "example": "Running makes me thirsty."
+  },
+  {
+    "id": 390,
+    "en": "sick",
+    "es": [
+      "enfermo"
+    ],
+    "pos": "adj",
+    "rank": 390,
+    "example": "He stayed home because he was sick."
+  },
+  {
+    "id": 391,
+    "en": "healthy",
+    "es": [
+      "saludable"
+    ],
+    "pos": "adj",
+    "rank": 391,
+    "example": "Fruits and vegetables are healthy."
+  },
+  {
+    "id": 392,
+    "en": "weak",
+    "es": [
+      "débil"
+    ],
+    "pos": "adj",
+    "rank": 392,
+    "example": "He felt weak after the flu."
+  },
+  {
+    "id": 393,
+    "en": "quickly",
+    "es": [
+      "rápidamente"
+    ],
+    "pos": "adv",
+    "rank": 393,
+    "example": "She finished her homework quickly."
+  },
+  {
+    "id": 394,
+    "en": "slowly",
+    "es": [
+      "lentamente"
+    ],
+    "pos": "adv",
+    "rank": 394,
+    "example": "He walked slowly up the hill."
+  },
+  {
+    "id": 395,
+    "en": "suddenly",
+    "es": [
+      "de repente"
+    ],
+    "pos": "adv",
+    "rank": 395,
+    "example": "Suddenly, the lights went out."
+  },
+  {
+    "id": 396,
+    "en": "eventually",
+    "es": [
+      "eventualmente",
+      "finalmente"
+    ],
+    "pos": "adv",
+    "rank": 396,
+    "example": "We eventually found the way home."
+  },
+  {
+    "id": 397,
+    "en": "gradually",
+    "es": [
+      "gradualmente"
+    ],
+    "pos": "adv",
+    "rank": 397,
+    "example": "The sky gradually turned dark."
+  },
+  {
+    "id": 398,
+    "en": "constantly",
+    "es": [
+      "constantemente"
+    ],
+    "pos": "adv",
+    "rank": 398,
+    "example": "She is constantly checking her phone."
+  },
+  {
+    "id": 399,
+    "en": "frequently",
+    "es": [
+      "frecuentemente"
+    ],
+    "pos": "adv",
+    "rank": 399,
+    "example": "They frequently travel for work."
+  },
+  {
+    "id": 400,
+    "en": "occasionally",
+    "es": [
+      "ocasionalmente"
+    ],
+    "pos": "adv",
+    "rank": 400,
+    "example": "We occasionally eat out on weekends."
+  },
+  {
+    "id": 401,
+    "en": "park",
+    "es": [
+      "parque"
+    ],
+    "pos": "noun",
+    "rank": 401,
+    "example": "We had a picnic in the park."
+  },
+  {
+    "id": 402,
+    "en": "beach",
+    "es": [
+      "playa"
+    ],
+    "pos": "noun",
+    "rank": 402,
+    "example": "They swam at the beach all day."
+  },
+  {
+    "id": 403,
+    "en": "mountain",
+    "es": [
+      "montaña"
+    ],
+    "pos": "noun",
+    "rank": 403,
+    "example": "We hiked up the tall mountain."
+  },
+  {
+    "id": 404,
+    "en": "river",
+    "es": [
+      "río"
+    ],
+    "pos": "noun",
+    "rank": 404,
+    "example": "The river flows through the valley."
+  },
+  {
+    "id": 405,
+    "en": "lake",
+    "es": [
+      "lago"
+    ],
+    "pos": "noun",
+    "rank": 405,
+    "example": "We fished in the quiet lake."
+  },
+  {
+    "id": 406,
+    "en": "ocean",
+    "es": [
+      "océano"
+    ],
+    "pos": "noun",
+    "rank": 406,
+    "example": "The ocean waves were huge today."
+  },
+  {
+    "id": 407,
+    "en": "forest",
+    "es": [
+      "bosque"
+    ],
+    "pos": "noun",
+    "rank": 407,
+    "example": "They walked through the dark forest."
+  },
+  {
+    "id": 408,
+    "en": "desert",
+    "es": [
+      "desierto"
+    ],
+    "pos": "noun",
+    "rank": 408,
+    "example": "The desert gets very hot at noon."
+  },
+  {
+    "id": 409,
+    "en": "island",
+    "es": [
+      "isla"
+    ],
+    "pos": "noun",
+    "rank": 409,
+    "example": "We took a boat to the island."
+  },
+  {
+    "id": 410,
+    "en": "village",
+    "es": [
+      "pueblo"
+    ],
+    "pos": "noun",
+    "rank": 410,
+    "example": "The village has only one shop."
+  },
+  {
+    "id": 411,
+    "en": "capital",
+    "es": [
+      "capital"
+    ],
+    "pos": "noun",
+    "rank": 411,
+    "example": "Paris is the capital of France."
+  },
+  {
+    "id": 412,
+    "en": "region",
+    "es": [
+      "región"
+    ],
+    "pos": "noun",
+    "rank": 412,
+    "example": "This region grows a lot of wine."
+  },
+  {
+    "id": 413,
+    "en": "border",
+    "es": [
+      "frontera"
+    ],
+    "pos": "noun",
+    "rank": 413,
+    "example": "The border was closed for repairs."
+  },
+  {
+    "id": 414,
+    "en": "valley",
+    "es": [
+      "valle"
+    ],
+    "pos": "noun",
+    "rank": 414,
+    "example": "A river runs through the valley."
+  },
+  {
+    "id": 415,
+    "en": "hill",
+    "es": [
+      "colina"
+    ],
+    "pos": "noun",
+    "rank": 415,
+    "example": "Their house sits on a small hill."
+  },
+  {
+    "id": 416,
+    "en": "field",
+    "es": [
+      "campo"
+    ],
+    "pos": "noun",
+    "rank": 416,
+    "example": "The cows grazed in the field."
+  },
+  {
+    "id": 417,
+    "en": "farm",
+    "es": [
+      "granja"
+    ],
+    "pos": "noun",
+    "rank": 417,
+    "example": "They live on a dairy farm."
+  },
+  {
+    "id": 418,
+    "en": "garden",
+    "es": [
+      "jardín"
+    ],
+    "pos": "noun",
+    "rank": 418,
+    "example": "She grows tomatoes in her garden."
+  },
+  {
+    "id": 419,
+    "en": "yard",
+    "es": [
+      "patio"
+    ],
+    "pos": "noun",
+    "rank": 419,
+    "example": "The kids played in the yard."
+  },
+  {
+    "id": 420,
+    "en": "street",
+    "es": [
+      "calle"
+    ],
+    "pos": "noun",
+    "rank": 420,
+    "example": "Cross the street at the light."
+  },
+  {
+    "id": 421,
+    "en": "road",
+    "es": [
+      "carretera",
+      "camino"
+    ],
+    "pos": "noun",
+    "rank": 421,
+    "example": "This road leads to the city."
+  },
+  {
+    "id": 422,
+    "en": "highway",
+    "es": [
+      "autopista"
+    ],
+    "pos": "noun",
+    "rank": 422,
+    "example": "We drove on the highway all night."
+  },
+  {
+    "id": 423,
+    "en": "bridge",
+    "es": [
+      "puente"
+    ],
+    "pos": "noun",
+    "rank": 423,
+    "example": "The bridge crosses the wide river."
+  },
+  {
+    "id": 424,
+    "en": "airport",
+    "es": [
+      "aeropuerto"
+    ],
+    "pos": "noun",
+    "rank": 424,
+    "example": "We arrived at the airport early."
+  },
+  {
+    "id": 425,
+    "en": "station",
+    "es": [
+      "estación"
+    ],
+    "pos": "noun",
+    "rank": 425,
+    "example": "Meet me at the train station."
+  },
+  {
+    "id": 426,
+    "en": "harbor",
+    "es": [
+      "puerto"
+    ],
+    "pos": "noun",
+    "rank": 426,
+    "example": "Boats rested in the calm harbor."
+  },
+  {
+    "id": 427,
+    "en": "market",
+    "es": [
+      "mercado"
+    ],
+    "pos": "noun",
+    "rank": 427,
+    "example": "She buys vegetables at the market."
+  },
+  {
+    "id": 428,
+    "en": "mall",
+    "es": [
+      "centro comercial"
+    ],
+    "pos": "noun",
+    "rank": 428,
+    "example": "They shop at the mall on weekends."
+  },
+  {
+    "id": 429,
+    "en": "shop",
+    "es": [
+      "tienda"
+    ],
+    "pos": "noun",
+    "rank": 429,
+    "example": "He owns a small coffee shop."
+  },
+  {
+    "id": 430,
+    "en": "restaurant",
+    "es": [
+      "restaurante"
+    ],
+    "pos": "noun",
+    "rank": 430,
+    "example": "We ate dinner at a nice restaurant."
+  },
+  {
+    "id": 431,
+    "en": "hotel",
+    "es": [
+      "hotel"
+    ],
+    "pos": "noun",
+    "rank": 431,
+    "example": "The hotel room had a sea view."
+  },
+  {
+    "id": 432,
+    "en": "hospital",
+    "es": [
+      "hospital"
+    ],
+    "pos": "noun",
+    "rank": 432,
+    "example": "She works at the local hospital."
+  },
+  {
+    "id": 433,
+    "en": "church",
+    "es": [
+      "iglesia"
+    ],
+    "pos": "noun",
+    "rank": 433,
+    "example": "They got married in a small church."
+  },
+  {
+    "id": 434,
+    "en": "museum",
+    "es": [
+      "museo"
+    ],
+    "pos": "noun",
+    "rank": 434,
+    "example": "We visited an art museum yesterday."
+  },
+  {
+    "id": 435,
+    "en": "theater",
+    "es": [
+      "teatro"
+    ],
+    "pos": "noun",
+    "rank": 435,
+    "example": "They watched a play at the theater."
+  },
+  {
+    "id": 436,
+    "en": "stadium",
+    "es": [
+      "estadio"
+    ],
+    "pos": "noun",
+    "rank": 436,
+    "example": "The stadium was full of fans."
+  },
+  {
+    "id": 437,
+    "en": "gym",
+    "es": [
+      "gimnasio"
+    ],
+    "pos": "noun",
+    "rank": 437,
+    "example": "He goes to the gym every morning."
+  },
+  {
+    "id": 438,
+    "en": "library",
+    "es": [
+      "biblioteca"
+    ],
+    "pos": "noun",
+    "rank": 438,
+    "example": "She studies at the library daily."
+  },
+  {
+    "id": 439,
+    "en": "university",
+    "es": [
+      "universidad"
+    ],
+    "pos": "noun",
+    "rank": 439,
+    "example": "He studies medicine at university."
+  },
+  {
+    "id": 440,
+    "en": "college",
+    "es": [
+      "facultad",
+      "universidad"
+    ],
+    "pos": "noun",
+    "rank": 440,
+    "example": "She just started college this fall."
+  },
+  {
+    "id": 441,
+    "en": "kitchen",
+    "es": [
+      "cocina"
+    ],
+    "pos": "noun",
+    "rank": 441,
+    "example": "She cooked dinner in the kitchen."
+  },
+  {
+    "id": 442,
+    "en": "bathroom",
+    "es": [
+      "baño"
+    ],
+    "pos": "noun",
+    "rank": 442,
+    "example": "The bathroom is down the hall."
+  },
+  {
+    "id": 443,
+    "en": "bedroom",
+    "es": [
+      "dormitorio",
+      "habitación"
+    ],
+    "pos": "noun",
+    "rank": 443,
+    "example": "His bedroom has blue walls."
+  },
+  {
+    "id": 444,
+    "en": "garage",
+    "es": [
+      "garaje"
+    ],
+    "pos": "noun",
+    "rank": 444,
+    "example": "He parked the car in the garage."
+  },
+  {
+    "id": 445,
+    "en": "roof",
+    "es": [
+      "tejado",
+      "techo"
+    ],
+    "pos": "noun",
+    "rank": 445,
+    "example": "Snow covered the roof completely."
+  },
+  {
+    "id": 446,
+    "en": "grow",
+    "es": [
+      "crecer"
+    ],
+    "pos": "verb",
+    "rank": 446,
+    "example": "Plants grow faster in sunlight."
+  },
+  {
+    "id": 447,
+    "en": "increase",
+    "es": [
+      "aumentar"
+    ],
+    "pos": "verb",
+    "rank": 447,
+    "example": "Prices increase every year."
+  },
+  {
+    "id": 448,
+    "en": "decrease",
+    "es": [
+      "disminuir"
+    ],
+    "pos": "verb",
+    "rank": 448,
+    "example": "Sales decreased last month."
+  },
+  {
+    "id": 449,
+    "en": "reduce",
+    "es": [
+      "reducir"
+    ],
+    "pos": "verb",
+    "rank": 449,
+    "example": "We should reduce our waste."
+  },
+  {
+    "id": 450,
+    "en": "continue",
+    "es": [
+      "continuar"
+    ],
+    "pos": "verb",
+    "rank": 450,
+    "example": "Please continue with your story."
+  },
+  {
+    "id": 451,
+    "en": "stop",
+    "es": [
+      "parar",
+      "detener"
+    ],
+    "pos": "verb",
+    "rank": 451,
+    "example": "The bus stopped at the corner."
+  },
+  {
+    "id": 452,
+    "en": "finish",
+    "es": [
+      "terminar"
+    ],
+    "pos": "verb",
+    "rank": 452,
+    "example": "Did you finish your homework?"
+  },
+  {
+    "id": 453,
+    "en": "complete",
+    "es": [
+      "completar"
+    ],
+    "pos": "verb",
+    "rank": 453,
+    "example": "Please complete the form below."
+  },
+  {
+    "id": 454,
+    "en": "achieve",
+    "es": [
+      "lograr"
+    ],
+    "pos": "verb",
+    "rank": 454,
+    "example": "She worked hard to achieve her goal."
+  },
+  {
+    "id": 455,
+    "en": "succeed",
+    "es": [
+      "tener éxito"
+    ],
+    "pos": "verb",
+    "rank": 455,
+    "example": "He succeeded in his new business."
+  },
+  {
+    "id": 456,
+    "en": "fail",
+    "es": [
+      "fracasar",
+      "fallar"
+    ],
+    "pos": "verb",
+    "rank": 456,
+    "example": "The plan failed completely."
+  },
+  {
+    "id": 457,
+    "en": "check",
+    "es": [
+      "revisar",
+      "comprobar"
+    ],
+    "pos": "verb",
+    "rank": 457,
+    "example": "Please check your email today."
+  },
+  {
+    "id": 458,
+    "en": "examine",
+    "es": [
+      "examinar"
+    ],
+    "pos": "verb",
+    "rank": 458,
+    "example": "The doctor examined the patient."
+  },
+  {
+    "id": 459,
+    "en": "discover",
+    "es": [
+      "descubrir"
+    ],
+    "pos": "verb",
+    "rank": 459,
+    "example": "Scientists discovered a new species."
+  },
+  {
+    "id": 460,
+    "en": "invent",
+    "es": [
+      "inventar"
+    ],
+    "pos": "verb",
+    "rank": 460,
+    "example": "Who invented the telephone?"
+  },
+  {
+    "id": 461,
+    "en": "design",
+    "es": [
+      "diseñar"
+    ],
+    "pos": "verb",
+    "rank": 461,
+    "example": "She designs clothes for a living."
+  },
+  {
+    "id": 462,
+    "en": "draw",
+    "es": [
+      "dibujar"
+    ],
+    "pos": "verb",
+    "rank": 462,
+    "example": "The child likes to draw animals."
+  },
+  {
+    "id": 463,
+    "en": "prove",
+    "es": [
+      "probar",
+      "demostrar"
+    ],
+    "pos": "verb",
+    "rank": 463,
+    "example": "Can you prove your theory?"
+  },
+  {
+    "id": 464,
+    "en": "confirm",
+    "es": [
+      "confirmar"
+    ],
+    "pos": "verb",
+    "rank": 464,
+    "example": "Please confirm your reservation."
+  },
+  {
+    "id": 465,
+    "en": "deny",
+    "es": [
+      "negar"
+    ],
+    "pos": "verb",
+    "rank": 465,
+    "example": "He denied breaking the window."
+  },
+  {
+    "id": 466,
+    "en": "admit",
+    "es": [
+      "admitir"
+    ],
+    "pos": "verb",
+    "rank": 466,
+    "example": "She admitted she was wrong."
+  },
+  {
+    "id": 467,
+    "en": "announce",
+    "es": [
+      "anunciar"
+    ],
+    "pos": "verb",
+    "rank": 467,
+    "example": "They announced the winner today."
+  },
+  {
+    "id": 468,
+    "en": "inform",
+    "es": [
+      "informar"
+    ],
+    "pos": "verb",
+    "rank": 468,
+    "example": "Please inform us of any changes."
+  },
+  {
+    "id": 469,
+    "en": "warn",
+    "es": [
+      "advertir"
+    ],
+    "pos": "verb",
+    "rank": 469,
+    "example": "The sign warns of the danger."
+  },
+  {
+    "id": 470,
+    "en": "advise",
+    "es": [
+      "aconsejar"
+    ],
+    "pos": "verb",
+    "rank": 470,
+    "example": "I advise you to rest today."
+  },
+  {
+    "id": 471,
+    "en": "rich",
+    "es": [
+      "rico"
+    ],
+    "pos": "adj",
+    "rank": 471,
+    "example": "That family is very rich."
+  },
+  {
+    "id": 472,
+    "en": "poor",
+    "es": [
+      "pobre"
+    ],
+    "pos": "adj",
+    "rank": 472,
+    "example": "They helped the poor family."
+  },
+  {
+    "id": 473,
+    "en": "wealthy",
+    "es": [
+      "adinerado"
+    ],
+    "pos": "adj",
+    "rank": 473,
+    "example": "He is a wealthy businessman."
+  },
+  {
+    "id": 474,
+    "en": "generous",
+    "es": [
+      "generoso"
+    ],
+    "pos": "adj",
+    "rank": 474,
+    "example": "She is generous with her time."
+  },
+  {
+    "id": 475,
+    "en": "honest",
+    "es": [
+      "honesto"
+    ],
+    "pos": "adj",
+    "rank": 475,
+    "example": "Please give me an honest answer."
+  },
+  {
+    "id": 476,
+    "en": "polite",
+    "es": [
+      "educado",
+      "cortés"
+    ],
+    "pos": "adj",
+    "rank": 476,
+    "example": "The waiter was very polite."
+  },
+  {
+    "id": 477,
+    "en": "rude",
+    "es": [
+      "grosero"
+    ],
+    "pos": "adj",
+    "rank": 477,
+    "example": "It was rude to interrupt her."
+  },
+  {
+    "id": 478,
+    "en": "friendly",
+    "es": [
+      "amistoso",
+      "amigable"
+    ],
+    "pos": "adj",
+    "rank": 478,
+    "example": "Our new neighbor is very friendly."
+  },
+  {
+    "id": 479,
+    "en": "shy",
+    "es": [
+      "tímido"
+    ],
+    "pos": "adj",
+    "rank": 479,
+    "example": "The shy boy rarely speaks."
+  },
+  {
+    "id": 480,
+    "en": "brave",
+    "es": [
+      "valiente"
+    ],
+    "pos": "adj",
+    "rank": 480,
+    "example": "The brave firefighter saved the cat."
+  },
+  {
+    "id": 481,
+    "en": "lazy",
+    "es": [
+      "perezoso"
+    ],
+    "pos": "adj",
+    "rank": 481,
+    "example": "Don't be lazy on Sunday mornings."
+  },
+  {
+    "id": 482,
+    "en": "careful",
+    "es": [
+      "cuidadoso"
+    ],
+    "pos": "adj",
+    "rank": 482,
+    "example": "Be careful on the icy road."
+  },
+  {
+    "id": 483,
+    "en": "careless",
+    "es": [
+      "descuidado"
+    ],
+    "pos": "adj",
+    "rank": 483,
+    "example": "That was a careless mistake."
+  },
+  {
+    "id": 484,
+    "en": "patient",
+    "es": [
+      "paciente"
+    ],
+    "pos": "adj",
+    "rank": 484,
+    "example": "The nurse was patient with him."
+  },
+  {
+    "id": 485,
+    "en": "serious",
+    "es": [
+      "serio"
+    ],
+    "pos": "adj",
+    "rank": 485,
+    "example": "This is a serious problem."
+  },
+  {
+    "id": 486,
+    "en": "funny",
+    "es": [
+      "gracioso",
+      "divertido"
+    ],
+    "pos": "adj",
+    "rank": 486,
+    "example": "That joke was really funny."
+  },
+  {
+    "id": 487,
+    "en": "silly",
+    "es": [
+      "tonto"
+    ],
+    "pos": "adj",
+    "rank": 487,
+    "example": "Don't be silly, it's just a game."
+  },
+  {
+    "id": 488,
+    "en": "clever",
+    "es": [
+      "astuto",
+      "ingenioso"
+    ],
+    "pos": "adj",
+    "rank": 488,
+    "example": "That was a clever solution."
+  },
+  {
+    "id": 489,
+    "en": "smart",
+    "es": [
+      "inteligente"
+    ],
+    "pos": "adj",
+    "rank": 489,
+    "example": "She is a very smart student."
+  },
+  {
+    "id": 490,
+    "en": "stupid",
+    "es": [
+      "estúpido"
+    ],
+    "pos": "adj",
+    "rank": 490,
+    "example": "That was a stupid decision."
+  },
+  {
+    "id": 491,
+    "en": "wise",
+    "es": [
+      "sabio"
+    ],
+    "pos": "adj",
+    "rank": 491,
+    "example": "The wise old man gave advice."
+  },
+  {
+    "id": 492,
+    "en": "creative",
+    "es": [
+      "creativo"
+    ],
+    "pos": "adj",
+    "rank": 492,
+    "example": "He found a creative way to fix it."
+  },
+  {
+    "id": 493,
+    "en": "rarely",
+    "es": [
+      "rara vez",
+      "raramente"
+    ],
+    "pos": "adv",
+    "rank": 493,
+    "example": "She rarely eats meat."
+  },
+  {
+    "id": 494,
+    "en": "hardly",
+    "es": [
+      "apenas"
+    ],
+    "pos": "adv",
+    "rank": 494,
+    "example": "I hardly know him."
+  },
+  {
+    "id": 495,
+    "en": "barely",
+    "es": [
+      "casi no",
+      "apenas"
+    ],
+    "pos": "adv",
+    "rank": 495,
+    "example": "We barely made it on time."
+  },
+  {
+    "id": 496,
+    "en": "nearly",
+    "es": [
+      "casi"
+    ],
+    "pos": "adv",
+    "rank": 496,
+    "example": "We are nearly finished."
+  },
+  {
+    "id": 497,
+    "en": "completely",
+    "es": [
+      "completamente"
+    ],
+    "pos": "adv",
+    "rank": 497,
+    "example": "The room was completely empty."
+  },
+  {
+    "id": 498,
+    "en": "totally",
+    "es": [
+      "totalmente"
+    ],
+    "pos": "adv",
+    "rank": 498,
+    "example": "I totally agree with you."
+  },
+  {
+    "id": 499,
+    "en": "entirely",
+    "es": [
+      "enteramente",
+      "completamente"
+    ],
+    "pos": "adv",
+    "rank": 499,
+    "example": "This is entirely your decision."
+  },
+  {
+    "id": 500,
+    "en": "absolutely",
+    "es": [
+      "absolutamente"
+    ],
+    "pos": "adv",
+    "rank": 500,
+    "example": "That is absolutely true."
+  },
+  {
+    "id": 501,
+    "en": "wall",
+    "es": [
+      "pared"
+    ],
+    "pos": "noun",
+    "rank": 501,
+    "example": "They painted the wall blue."
+  },
+  {
+    "id": 502,
+    "en": "floor",
+    "es": [
+      "suelo",
+      "piso"
+    ],
+    "pos": "noun",
+    "rank": 502,
+    "example": "The floor was cold and hard."
+  },
+  {
+    "id": 503,
+    "en": "ceiling",
+    "es": [
+      "techo"
+    ],
+    "pos": "noun",
+    "rank": 503,
+    "example": "A lamp hung from the ceiling."
+  },
+  {
+    "id": 504,
+    "en": "stairs",
+    "es": [
+      "escaleras"
+    ],
+    "pos": "noun",
+    "rank": 504,
+    "example": "She climbed the stairs quickly."
+  },
+  {
+    "id": 505,
+    "en": "corner",
+    "es": [
+      "esquina"
+    ],
+    "pos": "noun",
+    "rank": 505,
+    "example": "The store is on the corner."
+  },
+  {
+    "id": 506,
+    "en": "entrance",
+    "es": [
+      "entrada"
+    ],
+    "pos": "noun",
+    "rank": 506,
+    "example": "Meet me at the main entrance."
+  },
+  {
+    "id": 507,
+    "en": "table",
+    "es": [
+      "mesa"
+    ],
+    "pos": "noun",
+    "rank": 507,
+    "example": "We ate dinner at the table."
+  },
+  {
+    "id": 508,
+    "en": "chair",
+    "es": [
+      "silla"
+    ],
+    "pos": "noun",
+    "rank": 508,
+    "example": "Please take a chair and sit."
+  },
+  {
+    "id": 509,
+    "en": "bed",
+    "es": [
+      "cama"
+    ],
+    "pos": "noun",
+    "rank": 509,
+    "example": "The cat sleeps on my bed."
+  },
+  {
+    "id": 510,
+    "en": "sofa",
+    "es": [
+      "sofá"
+    ],
+    "pos": "noun",
+    "rank": 510,
+    "example": "He fell asleep on the sofa."
+  },
+  {
+    "id": 511,
+    "en": "shelf",
+    "es": [
+      "estante"
+    ],
+    "pos": "noun",
+    "rank": 511,
+    "example": "Put the books on the shelf."
+  },
+  {
+    "id": 512,
+    "en": "mirror",
+    "es": [
+      "espejo"
+    ],
+    "pos": "noun",
+    "rank": 512,
+    "example": "She looked at herself in the mirror."
+  },
+  {
+    "id": 513,
+    "en": "lamp",
+    "es": [
+      "lámpara"
+    ],
+    "pos": "noun",
+    "rank": 513,
+    "example": "Turn off the lamp before bed."
+  },
+  {
+    "id": 514,
+    "en": "clock",
+    "es": [
+      "reloj"
+    ],
+    "pos": "noun",
+    "rank": 514,
+    "example": "The clock on the wall stopped."
+  },
+  {
+    "id": 515,
+    "en": "watch",
+    "es": [
+      "reloj de pulsera"
+    ],
+    "pos": "noun",
+    "rank": 515,
+    "example": "He wears a silver watch."
+  },
+  {
+    "id": 516,
+    "en": "phone",
+    "es": [
+      "teléfono"
+    ],
+    "pos": "noun",
+    "rank": 516,
+    "example": "My phone battery is almost dead."
+  },
+  {
+    "id": 517,
+    "en": "computer",
+    "es": [
+      "computadora",
+      "ordenador"
+    ],
+    "pos": "noun",
+    "rank": 517,
+    "example": "She works on her computer all day."
+  },
+  {
+    "id": 518,
+    "en": "camera",
+    "es": [
+      "cámara"
+    ],
+    "pos": "noun",
+    "rank": 518,
+    "example": "He took photos with his camera."
+  },
+  {
+    "id": 519,
+    "en": "television",
+    "es": [
+      "televisión"
+    ],
+    "pos": "noun",
+    "rank": 519,
+    "example": "They watch television every evening."
+  },
+  {
+    "id": 520,
+    "en": "radio",
+    "es": [
+      "radio"
+    ],
+    "pos": "noun",
+    "rank": 520,
+    "example": "We listened to music on the radio."
+  },
+  {
+    "id": 521,
+    "en": "key",
+    "es": [
+      "llave"
+    ],
+    "pos": "noun",
+    "rank": 521,
+    "example": "I lost the key to my house."
+  },
+  {
+    "id": 522,
+    "en": "lock",
+    "es": [
+      "cerradura"
+    ],
+    "pos": "noun",
+    "rank": 522,
+    "example": "Check that the lock is secure."
+  },
+  {
+    "id": 523,
+    "en": "box",
+    "es": [
+      "caja"
+    ],
+    "pos": "noun",
+    "rank": 523,
+    "example": "She packed her books in a box."
+  },
+  {
+    "id": 524,
+    "en": "bag",
+    "es": [
+      "bolsa"
+    ],
+    "pos": "noun",
+    "rank": 524,
+    "example": "She carried a heavy bag."
+  },
+  {
+    "id": 525,
+    "en": "basket",
+    "es": [
+      "cesta",
+      "canasta"
+    ],
+    "pos": "noun",
+    "rank": 525,
+    "example": "He put apples in the basket."
+  },
+  {
+    "id": 526,
+    "en": "bottle",
+    "es": [
+      "botella"
+    ],
+    "pos": "noun",
+    "rank": 526,
+    "example": "Fill the bottle with water."
+  },
+  {
+    "id": 527,
+    "en": "cup",
+    "es": [
+      "taza"
+    ],
+    "pos": "noun",
+    "rank": 527,
+    "example": "He drank a cup of tea."
+  },
+  {
+    "id": 528,
+    "en": "glass",
+    "es": [
+      "vaso"
+    ],
+    "pos": "noun",
+    "rank": 528,
+    "example": "She filled the glass with juice."
+  },
+  {
+    "id": 529,
+    "en": "plate",
+    "es": [
+      "plato"
+    ],
+    "pos": "noun",
+    "rank": 529,
+    "example": "Put the food on your plate."
+  },
+  {
+    "id": 530,
+    "en": "bowl",
+    "es": [
+      "tazón",
+      "cuenco"
+    ],
+    "pos": "noun",
+    "rank": 530,
+    "example": "She mixed the salad in a bowl."
+  },
+  {
+    "id": 531,
+    "en": "towel",
+    "es": [
+      "toalla"
+    ],
+    "pos": "noun",
+    "rank": 531,
+    "example": "He dried his hands with a towel."
+  },
+  {
+    "id": 532,
+    "en": "blanket",
+    "es": [
+      "manta"
+    ],
+    "pos": "noun",
+    "rank": 532,
+    "example": "She wrapped the baby in a blanket."
+  },
+  {
+    "id": 533,
+    "en": "pillow",
+    "es": [
+      "almohada"
+    ],
+    "pos": "noun",
+    "rank": 533,
+    "example": "He fluffed his pillow before sleeping."
+  },
+  {
+    "id": 534,
+    "en": "carpet",
+    "es": [
+      "alfombra"
+    ],
+    "pos": "noun",
+    "rank": 534,
+    "example": "The carpet in the hall is red."
+  },
+  {
+    "id": 535,
+    "en": "closet",
+    "es": [
+      "armario"
+    ],
+    "pos": "noun",
+    "rank": 535,
+    "example": "She hung her coat in the closet."
+  },
+  {
+    "id": 536,
+    "en": "drawer",
+    "es": [
+      "cajón"
+    ],
+    "pos": "noun",
+    "rank": 536,
+    "example": "He keeps socks in the top drawer."
+  },
+  {
+    "id": 537,
+    "en": "umbrella",
+    "es": [
+      "paraguas"
+    ],
+    "pos": "noun",
+    "rank": 537,
+    "example": "Bring an umbrella, it might rain."
+  },
+  {
+    "id": 538,
+    "en": "wallet",
+    "es": [
+      "cartera",
+      "billetera"
+    ],
+    "pos": "noun",
+    "rank": 538,
+    "example": "He left his wallet at home."
+  },
+  {
+    "id": 539,
+    "en": "suitcase",
+    "es": [
+      "maleta"
+    ],
+    "pos": "noun",
+    "rank": 539,
+    "example": "She packed her suitcase for the trip."
+  },
+  {
+    "id": 540,
+    "en": "backpack",
+    "es": [
+      "mochila"
+    ],
+    "pos": "noun",
+    "rank": 540,
+    "example": "He carries his books in a backpack."
+  },
+  {
+    "id": 541,
+    "en": "ticket",
+    "es": [
+      "boleto",
+      "entrada"
+    ],
+    "pos": "noun",
+    "rank": 541,
+    "example": "I bought a ticket for the concert."
+  },
+  {
+    "id": 542,
+    "en": "map",
+    "es": [
+      "mapa"
+    ],
+    "pos": "noun",
+    "rank": 542,
+    "example": "We used a map to find the trail."
+  },
+  {
+    "id": 543,
+    "en": "letter",
+    "es": [
+      "carta"
+    ],
+    "pos": "noun",
+    "rank": 543,
+    "example": "She wrote a letter to her friend."
+  },
+  {
+    "id": 544,
+    "en": "newspaper",
+    "es": [
+      "periódico"
+    ],
+    "pos": "noun",
+    "rank": 544,
+    "example": "He reads the newspaper every morning."
+  },
+  {
+    "id": 545,
+    "en": "magazine",
+    "es": [
+      "revista"
+    ],
+    "pos": "noun",
+    "rank": 545,
+    "example": "She reads a fashion magazine monthly."
+  },
+  {
+    "id": 546,
+    "en": "encourage",
+    "es": [
+      "animar",
+      "alentar"
+    ],
+    "pos": "verb",
+    "rank": 546,
+    "example": "Her coach encourages her every day."
+  },
+  {
+    "id": 547,
+    "en": "support",
+    "es": [
+      "apoyar"
+    ],
+    "pos": "verb",
+    "rank": 547,
+    "example": "My family supports my decisions."
+  },
+  {
+    "id": 548,
+    "en": "oppose",
+    "es": [
+      "oponerse a"
+    ],
+    "pos": "verb",
+    "rank": 548,
+    "example": "They oppose the new law."
+  },
+  {
+    "id": 549,
+    "en": "defend",
+    "es": [
+      "defender"
+    ],
+    "pos": "verb",
+    "rank": 549,
+    "example": "The lawyer defended her client."
+  },
+  {
+    "id": 550,
+    "en": "attack",
+    "es": [
+      "atacar"
+    ],
+    "pos": "verb",
+    "rank": 550,
+    "example": "The dog attacked the mailman."
+  },
+  {
+    "id": 551,
+    "en": "protect",
+    "es": [
+      "proteger"
+    ],
+    "pos": "verb",
+    "rank": 551,
+    "example": "Sunscreen protects your skin."
+  },
+  {
+    "id": 552,
+    "en": "save",
+    "es": [
+      "ahorrar",
+      "salvar"
+    ],
+    "pos": "verb",
+    "rank": 552,
+    "example": "She saves money every month."
+  },
+  {
+    "id": 553,
+    "en": "rescue",
+    "es": [
+      "rescatar"
+    ],
+    "pos": "verb",
+    "rank": 553,
+    "example": "Firefighters rescued the cat."
+  },
+  {
+    "id": 554,
+    "en": "escape",
+    "es": [
+      "escapar"
+    ],
+    "pos": "verb",
+    "rank": 554,
+    "example": "The prisoner tried to escape."
+  },
+  {
+    "id": 555,
+    "en": "survive",
+    "es": [
+      "sobrevivir"
+    ],
+    "pos": "verb",
+    "rank": 555,
+    "example": "Few plants survive the winter."
+  },
+  {
+    "id": 556,
+    "en": "die",
+    "es": [
+      "morir"
+    ],
+    "pos": "verb",
+    "rank": 556,
+    "example": "The old tree finally died."
+  },
+  {
+    "id": 557,
+    "en": "kill",
+    "es": [
+      "matar"
+    ],
+    "pos": "verb",
+    "rank": 557,
+    "example": "The frost killed the flowers."
+  },
+  {
+    "id": 558,
+    "en": "hurt",
+    "es": [
+      "lastimar",
+      "doler"
+    ],
+    "pos": "verb",
+    "rank": 558,
+    "example": "She hurt her ankle running."
+  },
+  {
+    "id": 559,
+    "en": "damage",
+    "es": [
+      "dañar"
+    ],
+    "pos": "verb",
+    "rank": 559,
+    "example": "The storm damaged the roof."
+  },
+  {
+    "id": 560,
+    "en": "heal",
+    "es": [
+      "sanar",
+      "curar"
+    ],
+    "pos": "verb",
+    "rank": 560,
+    "example": "The wound will heal soon."
+  },
+  {
+    "id": 561,
+    "en": "treat",
+    "es": [
+      "tratar"
+    ],
+    "pos": "verb",
+    "rank": 561,
+    "example": "Doctors treat many patients daily."
+  },
+  {
+    "id": 562,
+    "en": "worry",
+    "es": [
+      "preocuparse"
+    ],
+    "pos": "verb",
+    "rank": 562,
+    "example": "Don't worry about the exam."
+  },
+  {
+    "id": 563,
+    "en": "imagine",
+    "es": [
+      "imaginar"
+    ],
+    "pos": "verb",
+    "rank": 563,
+    "example": "Imagine living on the moon."
+  },
+  {
+    "id": 564,
+    "en": "hope",
+    "es": [
+      "esperar"
+    ],
+    "pos": "verb",
+    "rank": 564,
+    "example": "I hope you feel better soon."
+  },
+  {
+    "id": 565,
+    "en": "expect",
+    "es": [
+      "prever",
+      "esperar"
+    ],
+    "pos": "verb",
+    "rank": 565,
+    "example": "We expect rain this weekend."
+  },
+  {
+    "id": 566,
+    "en": "predict",
+    "es": [
+      "predecir"
+    ],
+    "pos": "verb",
+    "rank": 566,
+    "example": "Can you predict the weather?"
+  },
+  {
+    "id": 567,
+    "en": "assume",
+    "es": [
+      "suponer"
+    ],
+    "pos": "verb",
+    "rank": 567,
+    "example": "I assume you already ate."
+  },
+  {
+    "id": 568,
+    "en": "realize",
+    "es": [
+      "darse cuenta de"
+    ],
+    "pos": "verb",
+    "rank": 568,
+    "example": "She realized her mistake immediately."
+  },
+  {
+    "id": 569,
+    "en": "recognize",
+    "es": [
+      "reconocer"
+    ],
+    "pos": "verb",
+    "rank": 569,
+    "example": "I didn't recognize him with a beard."
+  },
+  {
+    "id": 570,
+    "en": "notice",
+    "es": [
+      "notar"
+    ],
+    "pos": "verb",
+    "rank": 570,
+    "example": "Did you notice the new sign?"
+  },
+  {
+    "id": 571,
+    "en": "talented",
+    "es": [
+      "talentoso"
+    ],
+    "pos": "adj",
+    "rank": 571,
+    "example": "She is a talented young singer."
+  },
+  {
+    "id": 572,
+    "en": "skilled",
+    "es": [
+      "hábil",
+      "capacitado"
+    ],
+    "pos": "adj",
+    "rank": 572,
+    "example": "He is a skilled carpenter."
+  },
+  {
+    "id": 573,
+    "en": "experienced",
+    "es": [
+      "experimentado"
+    ],
+    "pos": "adj",
+    "rank": 573,
+    "example": "We need an experienced pilot."
+  },
+  {
+    "id": 574,
+    "en": "professional",
+    "es": [
+      "profesional"
+    ],
+    "pos": "adj",
+    "rank": 574,
+    "example": "She gave a very professional presentation."
+  },
+  {
+    "id": 575,
+    "en": "famous",
+    "es": [
+      "famoso"
+    ],
+    "pos": "adj",
+    "rank": 575,
+    "example": "He became famous overnight."
+  },
+  {
+    "id": 576,
+    "en": "popular",
+    "es": [
+      "popular"
+    ],
+    "pos": "adj",
+    "rank": 576,
+    "example": "This song is very popular now."
+  },
+  {
+    "id": 577,
+    "en": "common",
+    "es": [
+      "común"
+    ],
+    "pos": "adj",
+    "rank": 577,
+    "example": "Colds are common in winter."
+  },
+  {
+    "id": 578,
+    "en": "rare",
+    "es": [
+      "raro",
+      "poco común"
+    ],
+    "pos": "adj",
+    "rank": 578,
+    "example": "This stamp is extremely rare."
+  },
+  {
+    "id": 579,
+    "en": "unique",
+    "es": [
+      "único"
+    ],
+    "pos": "adj",
+    "rank": 579,
+    "example": "Every snowflake is unique."
+  },
+  {
+    "id": 580,
+    "en": "ordinary",
+    "es": [
+      "ordinario",
+      "común y corriente"
+    ],
+    "pos": "adj",
+    "rank": 580,
+    "example": "It was just an ordinary day."
+  },
+  {
+    "id": 581,
+    "en": "normal",
+    "es": [
+      "normal"
+    ],
+    "pos": "adj",
+    "rank": 581,
+    "example": "It's normal to feel nervous."
+  },
+  {
+    "id": 582,
+    "en": "strange",
+    "es": [
+      "extraño"
+    ],
+    "pos": "adj",
+    "rank": 582,
+    "example": "I heard a strange noise outside."
+  },
+  {
+    "id": 583,
+    "en": "unusual",
+    "es": [
+      "inusual"
+    ],
+    "pos": "adj",
+    "rank": 583,
+    "example": "That's an unusual name for a cat."
+  },
+  {
+    "id": 584,
+    "en": "typical",
+    "es": [
+      "típico"
+    ],
+    "pos": "adj",
+    "rank": 584,
+    "example": "This is typical weather for spring."
+  },
+  {
+    "id": 585,
+    "en": "natural",
+    "es": [
+      "natural"
+    ],
+    "pos": "adj",
+    "rank": 585,
+    "example": "Honey is a natural sweetener."
+  },
+  {
+    "id": 586,
+    "en": "artificial",
+    "es": [
+      "artificial"
+    ],
+    "pos": "adj",
+    "rank": 586,
+    "example": "The lake has an artificial waterfall."
+  },
+  {
+    "id": 587,
+    "en": "real",
+    "es": [
+      "real",
+      "verdadero"
+    ],
+    "pos": "adj",
+    "rank": 587,
+    "example": "Is that a real diamond?"
+  },
+  {
+    "id": 588,
+    "en": "fake",
+    "es": [
+      "falso"
+    ],
+    "pos": "adj",
+    "rank": 588,
+    "example": "He sold her a fake watch."
+  },
+  {
+    "id": 589,
+    "en": "genuine",
+    "es": [
+      "genuino",
+      "auténtico"
+    ],
+    "pos": "adj",
+    "rank": 589,
+    "example": "She showed genuine interest in art."
+  },
+  {
+    "id": 590,
+    "en": "accurate",
+    "es": [
+      "preciso",
+      "correcto"
+    ],
+    "pos": "adj",
+    "rank": 590,
+    "example": "The forecast was very accurate."
+  },
+  {
+    "id": 591,
+    "en": "exact",
+    "es": [
+      "exacto"
+    ],
+    "pos": "adj",
+    "rank": 591,
+    "example": "Tell me the exact time, please."
+  },
+  {
+    "id": 592,
+    "en": "adequate",
+    "es": [
+      "adecuado"
+    ],
+    "pos": "adj",
+    "rank": 592,
+    "example": "The room is adequate for two people."
+  },
+  {
+    "id": 593,
+    "en": "definitely",
+    "es": [
+      "definitivamente"
+    ],
+    "pos": "adv",
+    "rank": 593,
+    "example": "She will definitely come to the party."
+  },
+  {
+    "id": 594,
+    "en": "obviously",
+    "es": [
+      "obviamente"
+    ],
+    "pos": "adv",
+    "rank": 594,
+    "example": "Obviously, he forgot his keys."
+  },
+  {
+    "id": 595,
+    "en": "simply",
+    "es": [
+      "simplemente"
+    ],
+    "pos": "adv",
+    "rank": 595,
+    "example": "It's simply the best option."
+  },
+  {
+    "id": 596,
+    "en": "easily",
+    "es": [
+      "fácilmente"
+    ],
+    "pos": "adv",
+    "rank": 596,
+    "example": "She easily won the race."
+  },
+  {
+    "id": 597,
+    "en": "carefully",
+    "es": [
+      "cuidadosamente"
+    ],
+    "pos": "adv",
+    "rank": 597,
+    "example": "He carefully wrapped the gift."
+  },
+  {
+    "id": 598,
+    "en": "seriously",
+    "es": [
+      "seriamente"
+    ],
+    "pos": "adv",
+    "rank": 598,
+    "example": "Please take this seriously."
+  },
+  {
+    "id": 599,
+    "en": "actually",
+    "es": [
+      "en realidad"
+    ],
+    "pos": "adv",
+    "rank": 599,
+    "example": "Actually, I prefer tea over coffee."
+  },
+  {
+    "id": 600,
+    "en": "basically",
+    "es": [
+      "básicamente"
+    ],
+    "pos": "adv",
+    "rank": 600,
+    "example": "Basically, we agree on everything."
+  },
+  {
+    "id": 601,
+    "en": "opportunity",
+    "es": [
+      "oportunidad"
+    ],
+    "pos": "noun",
+    "rank": 601,
+    "example": "This job is a great opportunity."
+  },
+  {
+    "id": 602,
+    "en": "decision",
+    "es": [
+      "decisión"
+    ],
+    "pos": "noun",
+    "rank": 602,
+    "example": "She made a difficult decision."
+  },
+  {
+    "id": 603,
+    "en": "choice",
+    "es": [
+      "elección",
+      "opción"
+    ],
+    "pos": "noun",
+    "rank": 603,
+    "example": "You made the right choice."
+  },
+  {
+    "id": 604,
+    "en": "plan",
+    "es": [
+      "plan"
+    ],
+    "pos": "noun",
+    "rank": 604,
+    "example": "We have a plan for summer."
+  },
+  {
+    "id": 605,
+    "en": "goal",
+    "es": [
+      "meta",
+      "objetivo"
+    ],
+    "pos": "noun",
+    "rank": 605,
+    "example": "His goal is to run a marathon."
+  },
+  {
+    "id": 606,
+    "en": "purpose",
+    "es": [
+      "propósito"
+    ],
+    "pos": "noun",
+    "rank": 606,
+    "example": "What is the purpose of this meeting?"
+  },
+  {
+    "id": 607,
+    "en": "effort",
+    "es": [
+      "esfuerzo"
+    ],
+    "pos": "noun",
+    "rank": 607,
+    "example": "She put a lot of effort into it."
+  },
+  {
+    "id": 608,
+    "en": "chance",
+    "es": [
+      "posibilidad",
+      "oportunidad"
+    ],
+    "pos": "noun",
+    "rank": 608,
+    "example": "Give him a second chance."
+  },
+  {
+    "id": 609,
+    "en": "risk",
+    "es": [
+      "riesgo"
+    ],
+    "pos": "noun",
+    "rank": 609,
+    "example": "There is a risk of rain today."
+  },
+  {
+    "id": 610,
+    "en": "danger",
+    "es": [
+      "peligro"
+    ],
+    "pos": "noun",
+    "rank": 610,
+    "example": "The sign warns of danger ahead."
+  },
+  {
+    "id": 611,
+    "en": "safety",
+    "es": [
+      "seguridad"
+    ],
+    "pos": "noun",
+    "rank": 611,
+    "example": "Wear a helmet for safety."
+  },
+  {
+    "id": 612,
+    "en": "freedom",
+    "es": [
+      "libertad"
+    ],
+    "pos": "noun",
+    "rank": 612,
+    "example": "They fought for their freedom."
+  },
+  {
+    "id": 613,
+    "en": "truth",
+    "es": [
+      "verdad"
+    ],
+    "pos": "noun",
+    "rank": 613,
+    "example": "Tell me the truth, please."
+  },
+  {
+    "id": 614,
+    "en": "secret",
+    "es": [
+      "secreto"
+    ],
+    "pos": "noun",
+    "rank": 614,
+    "example": "She kept the secret for years."
+  },
+  {
+    "id": 615,
+    "en": "mystery",
+    "es": [
+      "misterio"
+    ],
+    "pos": "noun",
+    "rank": 615,
+    "example": "The movie is a great mystery."
+  },
+  {
+    "id": 616,
+    "en": "fear",
+    "es": [
+      "miedo"
+    ],
+    "pos": "noun",
+    "rank": 616,
+    "example": "He has a fear of heights."
+  },
+  {
+    "id": 617,
+    "en": "wish",
+    "es": [
+      "deseo"
+    ],
+    "pos": "noun",
+    "rank": 617,
+    "example": "She made a wish before blowing out the candles."
+  },
+  {
+    "id": 618,
+    "en": "dream",
+    "es": [
+      "sueño"
+    ],
+    "pos": "noun",
+    "rank": 618,
+    "example": "She had a strange dream last night."
+  },
+  {
+    "id": 619,
+    "en": "memory",
+    "es": [
+      "memoria",
+      "recuerdo"
+    ],
+    "pos": "noun",
+    "rank": 619,
+    "example": "I have a good memory for names."
+  },
+  {
+    "id": 620,
+    "en": "emotion",
+    "es": [
+      "emoción"
+    ],
+    "pos": "noun",
+    "rank": 620,
+    "example": "She showed a lot of emotion."
+  },
+  {
+    "id": 621,
+    "en": "feeling",
+    "es": [
+      "sentimiento"
+    ],
+    "pos": "noun",
+    "rank": 621,
+    "example": "I have a strange feeling about this."
+  },
+  {
+    "id": 622,
+    "en": "mood",
+    "es": [
+      "humor",
+      "estado de ánimo"
+    ],
+    "pos": "noun",
+    "rank": 622,
+    "example": "He is in a good mood today."
+  },
+  {
+    "id": 623,
+    "en": "behavior",
+    "es": [
+      "comportamiento"
+    ],
+    "pos": "noun",
+    "rank": 623,
+    "example": "His behavior surprised everyone."
+  },
+  {
+    "id": 624,
+    "en": "habit",
+    "es": [
+      "hábito",
+      "costumbre"
+    ],
+    "pos": "noun",
+    "rank": 624,
+    "example": "Reading before bed is a good habit."
+  },
+  {
+    "id": 625,
+    "en": "custom",
+    "es": [
+      "costumbre"
+    ],
+    "pos": "noun",
+    "rank": 625,
+    "example": "It is a local custom to bow."
+  },
+  {
+    "id": 626,
+    "en": "tradition",
+    "es": [
+      "tradición"
+    ],
+    "pos": "noun",
+    "rank": 626,
+    "example": "This meal is a family tradition."
+  },
+  {
+    "id": 627,
+    "en": "culture",
+    "es": [
+      "cultura"
+    ],
+    "pos": "noun",
+    "rank": 627,
+    "example": "They study different world cultures."
+  },
+  {
+    "id": 628,
+    "en": "value",
+    "es": [
+      "valor"
+    ],
+    "pos": "noun",
+    "rank": 628,
+    "example": "Honesty is an important value."
+  },
+  {
+    "id": 629,
+    "en": "belief",
+    "es": [
+      "creencia"
+    ],
+    "pos": "noun",
+    "rank": 629,
+    "example": "This is a common belief in many cultures."
+  },
+  {
+    "id": 630,
+    "en": "knowledge",
+    "es": [
+      "conocimiento"
+    ],
+    "pos": "noun",
+    "rank": 630,
+    "example": "Knowledge is power."
+  },
+  {
+    "id": 631,
+    "en": "skill",
+    "es": [
+      "habilidad",
+      "destreza"
+    ],
+    "pos": "noun",
+    "rank": 631,
+    "example": "Cooking is a useful skill."
+  },
+  {
+    "id": 632,
+    "en": "ability",
+    "es": [
+      "capacidad",
+      "habilidad"
+    ],
+    "pos": "noun",
+    "rank": 632,
+    "example": "She has the ability to solve problems."
+  },
+  {
+    "id": 633,
+    "en": "talent",
+    "es": [
+      "talento"
+    ],
+    "pos": "noun",
+    "rank": 633,
+    "example": "He has a real talent for music."
+  },
+  {
+    "id": 634,
+    "en": "quality",
+    "es": [
+      "calidad"
+    ],
+    "pos": "noun",
+    "rank": 634,
+    "example": "This fabric is of high quality."
+  },
+  {
+    "id": 635,
+    "en": "amount",
+    "es": [
+      "cantidad"
+    ],
+    "pos": "noun",
+    "rank": 635,
+    "example": "Add a small amount of salt."
+  },
+  {
+    "id": 636,
+    "en": "condition",
+    "es": [
+      "condición"
+    ],
+    "pos": "noun",
+    "rank": 636,
+    "example": "The car is in great condition."
+  },
+  {
+    "id": 637,
+    "en": "situation",
+    "es": [
+      "situación"
+    ],
+    "pos": "noun",
+    "rank": 637,
+    "example": "We are in a difficult situation."
+  },
+  {
+    "id": 638,
+    "en": "environment",
+    "es": [
+      "medio ambiente",
+      "entorno"
+    ],
+    "pos": "noun",
+    "rank": 638,
+    "example": "We must protect the environment."
+  },
+  {
+    "id": 639,
+    "en": "weather",
+    "es": [
+      "clima",
+      "tiempo"
+    ],
+    "pos": "noun",
+    "rank": 639,
+    "example": "The weather is nice today."
+  },
+  {
+    "id": 640,
+    "en": "energy",
+    "es": [
+      "energía"
+    ],
+    "pos": "noun",
+    "rank": 640,
+    "example": "Solar panels produce clean energy."
+  },
+  {
+    "id": 641,
+    "en": "structure",
+    "es": [
+      "estructura"
+    ],
+    "pos": "noun",
+    "rank": 641,
+    "example": "The bridge has a strong structure."
+  },
+  {
+    "id": 642,
+    "en": "pattern",
+    "es": [
+      "patrón",
+      "diseño"
+    ],
+    "pos": "noun",
+    "rank": 642,
+    "example": "This fabric has a floral pattern."
+  },
+  {
+    "id": 643,
+    "en": "shape",
+    "es": [
+      "forma"
+    ],
+    "pos": "noun",
+    "rank": 643,
+    "example": "The cookie has a star shape."
+  },
+  {
+    "id": 644,
+    "en": "size",
+    "es": [
+      "tamaño"
+    ],
+    "pos": "noun",
+    "rank": 644,
+    "example": "What size shoe do you wear?"
+  },
+  {
+    "id": 645,
+    "en": "weight",
+    "es": [
+      "peso"
+    ],
+    "pos": "noun",
+    "rank": 645,
+    "example": "He lost weight after the diet."
+  },
+  {
+    "id": 646,
+    "en": "observe",
+    "es": [
+      "observar"
+    ],
+    "pos": "verb",
+    "rank": 646,
+    "example": "Scientists observe the stars at night."
+  },
+  {
+    "id": 647,
+    "en": "ignore",
+    "es": [
+      "ignorar"
+    ],
+    "pos": "verb",
+    "rank": 647,
+    "example": "Please don't ignore my messages."
+  },
+  {
+    "id": 648,
+    "en": "miss",
+    "es": [
+      "extrañar",
+      "perder"
+    ],
+    "pos": "verb",
+    "rank": 648,
+    "example": "I miss my family a lot."
+  },
+  {
+    "id": 649,
+    "en": "forget",
+    "es": [
+      "olvidar"
+    ],
+    "pos": "verb",
+    "rank": 649,
+    "example": "Don't forget your umbrella."
+  },
+  {
+    "id": 650,
+    "en": "remind",
+    "es": [
+      "recordar"
+    ],
+    "pos": "verb",
+    "rank": 650,
+    "example": "Remind me to call him later."
+  },
+  {
+    "id": 651,
+    "en": "learn",
+    "es": [
+      "aprender"
+    ],
+    "pos": "verb",
+    "rank": 651,
+    "example": "Children learn languages quickly."
+  },
+  {
+    "id": 652,
+    "en": "teach",
+    "es": [
+      "enseñar"
+    ],
+    "pos": "verb",
+    "rank": 652,
+    "example": "She teaches math at school."
+  },
+  {
+    "id": 653,
+    "en": "study",
+    "es": [
+      "estudiar"
+    ],
+    "pos": "verb",
+    "rank": 653,
+    "example": "He studies every night for exams."
+  },
+  {
+    "id": 654,
+    "en": "train",
+    "es": [
+      "entrenar"
+    ],
+    "pos": "verb",
+    "rank": 654,
+    "example": "Athletes train for the Olympics."
+  },
+  {
+    "id": 655,
+    "en": "practice",
+    "es": [
+      "practicar"
+    ],
+    "pos": "verb",
+    "rank": 655,
+    "example": "She practices piano every day."
+  },
+  {
+    "id": 656,
+    "en": "compete",
+    "es": [
+      "competir"
+    ],
+    "pos": "verb",
+    "rank": 656,
+    "example": "Teams compete for the championship."
+  },
+  {
+    "id": 657,
+    "en": "win",
+    "es": [
+      "ganar"
+    ],
+    "pos": "verb",
+    "rank": 657,
+    "example": "Our team won the game."
+  },
+  {
+    "id": 658,
+    "en": "beat",
+    "es": [
+      "vencer",
+      "derrotar"
+    ],
+    "pos": "verb",
+    "rank": 658,
+    "example": "They beat the champions easily."
+  },
+  {
+    "id": 659,
+    "en": "join",
+    "es": [
+      "unirse a"
+    ],
+    "pos": "verb",
+    "rank": 659,
+    "example": "He joined the soccer club."
+  },
+  {
+    "id": 660,
+    "en": "connect",
+    "es": [
+      "conectar"
+    ],
+    "pos": "verb",
+    "rank": 660,
+    "example": "This cable connects to the printer."
+  },
+  {
+    "id": 661,
+    "en": "combine",
+    "es": [
+      "combinar"
+    ],
+    "pos": "verb",
+    "rank": 661,
+    "example": "Combine the flour and sugar."
+  },
+  {
+    "id": 662,
+    "en": "separate",
+    "es": [
+      "separar"
+    ],
+    "pos": "verb",
+    "rank": 662,
+    "example": "Separate the whites from the yolks."
+  },
+  {
+    "id": 663,
+    "en": "divide",
+    "es": [
+      "dividir"
+    ],
+    "pos": "verb",
+    "rank": 663,
+    "example": "Divide the pizza into eight slices."
+  },
+  {
+    "id": 664,
+    "en": "share",
+    "es": [
+      "compartir"
+    ],
+    "pos": "verb",
+    "rank": 664,
+    "example": "Please share your notes with me."
+  },
+  {
+    "id": 665,
+    "en": "distribute",
+    "es": [
+      "distribuir"
+    ],
+    "pos": "verb",
+    "rank": 665,
+    "example": "Volunteers distributed food to families."
+  },
+  {
+    "id": 666,
+    "en": "spread",
+    "es": [
+      "esparcir",
+      "difundir"
+    ],
+    "pos": "verb",
+    "rank": 666,
+    "example": "News spreads fast on social media."
+  },
+  {
+    "id": 667,
+    "en": "wrap",
+    "es": [
+      "envolver"
+    ],
+    "pos": "verb",
+    "rank": 667,
+    "example": "She wrapped the gift in blue paper."
+  },
+  {
+    "id": 668,
+    "en": "cut",
+    "es": [
+      "cortar"
+    ],
+    "pos": "verb",
+    "rank": 668,
+    "example": "Cut the vegetables into small pieces."
+  },
+  {
+    "id": 669,
+    "en": "bend",
+    "es": [
+      "doblar"
+    ],
+    "pos": "verb",
+    "rank": 669,
+    "example": "Bend your knees when you lift."
+  },
+  {
+    "id": 670,
+    "en": "stretch",
+    "es": [
+      "estirar"
+    ],
+    "pos": "verb",
+    "rank": 670,
+    "example": "Stretch before you exercise."
+  },
+  {
+    "id": 671,
+    "en": "perfect",
+    "es": [
+      "perfecto"
+    ],
+    "pos": "adj",
+    "rank": 671,
+    "example": "Today is a perfect day for a walk."
+  },
+  {
+    "id": 672,
+    "en": "clean",
+    "es": [
+      "limpio"
+    ],
+    "pos": "adj",
+    "rank": 672,
+    "example": "Keep your room clean."
+  },
+  {
+    "id": 673,
+    "en": "dirty",
+    "es": [
+      "sucio"
+    ],
+    "pos": "adj",
+    "rank": 673,
+    "example": "His shoes were covered in dirty mud."
+  },
+  {
+    "id": 674,
+    "en": "neat",
+    "es": [
+      "ordenado"
+    ],
+    "pos": "adj",
+    "rank": 674,
+    "example": "Her desk is always neat."
+  },
+  {
+    "id": 675,
+    "en": "messy",
+    "es": [
+      "desordenado"
+    ],
+    "pos": "adj",
+    "rank": 675,
+    "example": "His room is really messy."
+  },
+  {
+    "id": 676,
+    "en": "empty",
+    "es": [
+      "vacío"
+    ],
+    "pos": "adj",
+    "rank": 676,
+    "example": "The bottle is completely empty."
+  },
+  {
+    "id": 677,
+    "en": "heavy",
+    "es": [
+      "pesado"
+    ],
+    "pos": "adj",
+    "rank": 677,
+    "example": "This suitcase is very heavy."
+  },
+  {
+    "id": 678,
+    "en": "light",
+    "es": [
+      "ligero"
+    ],
+    "pos": "adj",
+    "rank": 678,
+    "example": "Her backpack felt light today."
+  },
+  {
+    "id": 679,
+    "en": "thick",
+    "es": [
+      "grueso"
+    ],
+    "pos": "adj",
+    "rank": 679,
+    "example": "He wore a thick winter coat."
+  },
+  {
+    "id": 680,
+    "en": "thin",
+    "es": [
+      "delgado"
+    ],
+    "pos": "adj",
+    "rank": 680,
+    "example": "The paper is very thin."
+  },
+  {
+    "id": 681,
+    "en": "wide",
+    "es": [
+      "ancho"
+    ],
+    "pos": "adj",
+    "rank": 681,
+    "example": "The river is quite wide here."
+  },
+  {
+    "id": 682,
+    "en": "narrow",
+    "es": [
+      "estrecho"
+    ],
+    "pos": "adj",
+    "rank": 682,
+    "example": "They walked down a narrow street."
+  },
+  {
+    "id": 683,
+    "en": "deep",
+    "es": [
+      "profundo"
+    ],
+    "pos": "adj",
+    "rank": 683,
+    "example": "The pool is very deep."
+  },
+  {
+    "id": 684,
+    "en": "shallow",
+    "es": [
+      "poco profundo"
+    ],
+    "pos": "adj",
+    "rank": 684,
+    "example": "Children swim in the shallow end."
+  },
+  {
+    "id": 685,
+    "en": "flat",
+    "es": [
+      "plano"
+    ],
+    "pos": "adj",
+    "rank": 685,
+    "example": "The land here is completely flat."
+  },
+  {
+    "id": 686,
+    "en": "round",
+    "es": [
+      "redondo"
+    ],
+    "pos": "adj",
+    "rank": 686,
+    "example": "The table is perfectly round."
+  },
+  {
+    "id": 687,
+    "en": "square",
+    "es": [
+      "cuadrado"
+    ],
+    "pos": "adj",
+    "rank": 687,
+    "example": "She drew a square on the paper."
+  },
+  {
+    "id": 688,
+    "en": "straight",
+    "es": [
+      "recto"
+    ],
+    "pos": "adj",
+    "rank": 688,
+    "example": "Draw a straight line here."
+  },
+  {
+    "id": 689,
+    "en": "curved",
+    "es": [
+      "curvo"
+    ],
+    "pos": "adj",
+    "rank": 689,
+    "example": "The road has a sharp curved section."
+  },
+  {
+    "id": 690,
+    "en": "smooth",
+    "es": [
+      "liso",
+      "suave"
+    ],
+    "pos": "adj",
+    "rank": 690,
+    "example": "The stone felt smooth in her hand."
+  },
+  {
+    "id": 691,
+    "en": "rough",
+    "es": [
+      "áspero"
+    ],
+    "pos": "adj",
+    "rank": 691,
+    "example": "The wall had a rough surface."
+  },
+  {
+    "id": 692,
+    "en": "soft",
+    "es": [
+      "suave"
+    ],
+    "pos": "adj",
+    "rank": 692,
+    "example": "The blanket felt very soft."
+  },
+  {
+    "id": 693,
+    "en": "generally",
+    "es": [
+      "generalmente"
+    ],
+    "pos": "adv",
+    "rank": 693,
+    "example": "Generally, the weather is mild here."
+  },
+  {
+    "id": 694,
+    "en": "usually",
+    "es": [
+      "usualmente",
+      "normalmente"
+    ],
+    "pos": "adv",
+    "rank": 694,
+    "example": "I usually wake up at seven."
+  },
+  {
+    "id": 695,
+    "en": "normally",
+    "es": [
+      "normalmente"
+    ],
+    "pos": "adv",
+    "rank": 695,
+    "example": "Normally, the store opens at nine."
+  },
+  {
+    "id": 696,
+    "en": "typically",
+    "es": [
+      "típicamente"
+    ],
+    "pos": "adv",
+    "rank": 696,
+    "example": "Typically, meetings start on time."
+  },
+  {
+    "id": 697,
+    "en": "mostly",
+    "es": [
+      "mayormente",
+      "principalmente"
+    ],
+    "pos": "adv",
+    "rank": 697,
+    "example": "The crowd was mostly students."
+  },
+  {
+    "id": 698,
+    "en": "mainly",
+    "es": [
+      "principalmente"
+    ],
+    "pos": "adv",
+    "rank": 698,
+    "example": "It rains mainly in autumn."
+  },
+  {
+    "id": 699,
+    "en": "particularly",
+    "es": [
+      "particularmente"
+    ],
+    "pos": "adv",
+    "rank": 699,
+    "example": "She likes particularly spicy food."
+  },
+  {
+    "id": 700,
+    "en": "specifically",
+    "es": [
+      "específicamente"
+    ],
+    "pos": "adv",
+    "rank": 700,
+    "example": "He asked specifically for you."
+  },
+  {
+    "id": 701,
+    "en": "height",
+    "es": [
+      "altura"
+    ],
+    "pos": "noun",
+    "rank": 701,
+    "example": "The height of the tower is impressive."
+  },
+  {
+    "id": 702,
+    "en": "length",
+    "es": [
+      "longitud"
+    ],
+    "pos": "noun",
+    "rank": 702,
+    "example": "Measure the length of the table."
+  },
+  {
+    "id": 703,
+    "en": "distance",
+    "es": [
+      "distancia"
+    ],
+    "pos": "noun",
+    "rank": 703,
+    "example": "They live a short distance away."
+  },
+  {
+    "id": 704,
+    "en": "speed",
+    "es": [
+      "velocidad"
+    ],
+    "pos": "noun",
+    "rank": 704,
+    "example": "The car reached top speed quickly."
+  },
+  {
+    "id": 705,
+    "en": "direction",
+    "es": [
+      "dirección"
+    ],
+    "pos": "noun",
+    "rank": 705,
+    "example": "We walked in the wrong direction."
+  },
+  {
+    "id": 706,
+    "en": "position",
+    "es": [
+      "posición"
+    ],
+    "pos": "noun",
+    "rank": 706,
+    "example": "She holds a senior position."
+  },
+  {
+    "id": 707,
+    "en": "location",
+    "es": [
+      "ubicación"
+    ],
+    "pos": "noun",
+    "rank": 707,
+    "example": "The hotel has a great location."
+  },
+  {
+    "id": 708,
+    "en": "edge",
+    "es": [
+      "borde"
+    ],
+    "pos": "noun",
+    "rank": 708,
+    "example": "Don't stand near the edge."
+  },
+  {
+    "id": 709,
+    "en": "surface",
+    "es": [
+      "superficie"
+    ],
+    "pos": "noun",
+    "rank": 709,
+    "example": "The lake surface was calm."
+  },
+  {
+    "id": 710,
+    "en": "section",
+    "es": [
+      "sección"
+    ],
+    "pos": "noun",
+    "rank": 710,
+    "example": "This section of the store sells shoes."
+  },
+  {
+    "id": 711,
+    "en": "piece",
+    "es": [
+      "pieza",
+      "trozo"
+    ],
+    "pos": "noun",
+    "rank": 711,
+    "example": "She ate a piece of cake."
+  },
+  {
+    "id": 712,
+    "en": "sample",
+    "es": [
+      "muestra"
+    ],
+    "pos": "noun",
+    "rank": 712,
+    "example": "They gave us a free sample."
+  },
+  {
+    "id": 713,
+    "en": "category",
+    "es": [
+      "categoría"
+    ],
+    "pos": "noun",
+    "rank": 713,
+    "example": "This book fits the fiction category."
+  },
+  {
+    "id": 714,
+    "en": "series",
+    "es": [
+      "serie"
+    ],
+    "pos": "noun",
+    "rank": 714,
+    "example": "We watched a new TV series."
+  },
+  {
+    "id": 715,
+    "en": "sequence",
+    "es": [
+      "secuencia"
+    ],
+    "pos": "noun",
+    "rank": 715,
+    "example": "Follow the sequence of steps carefully."
+  },
+  {
+    "id": 716,
+    "en": "balance",
+    "es": [
+      "equilibrio",
+      "saldo"
+    ],
+    "pos": "noun",
+    "rank": 716,
+    "example": "She lost her balance on the ice."
+  },
+  {
+    "id": 717,
+    "en": "contrast",
+    "es": [
+      "contraste"
+    ],
+    "pos": "noun",
+    "rank": 717,
+    "example": "There is a clear contrast between them."
+  },
+  {
+    "id": 718,
+    "en": "comparison",
+    "es": [
+      "comparación"
+    ],
+    "pos": "noun",
+    "rank": 718,
+    "example": "There's no comparison between the two."
+  },
+  {
+    "id": 719,
+    "en": "connection",
+    "es": [
+      "conexión"
+    ],
+    "pos": "noun",
+    "rank": 719,
+    "example": "The internet connection is slow."
+  },
+  {
+    "id": 720,
+    "en": "relationship",
+    "es": [
+      "relación"
+    ],
+    "pos": "noun",
+    "rank": 720,
+    "example": "They have a close relationship."
+  },
+  {
+    "id": 721,
+    "en": "contact",
+    "es": [
+      "contacto"
+    ],
+    "pos": "noun",
+    "rank": 721,
+    "example": "Please keep in contact with us."
+  },
+  {
+    "id": 722,
+    "en": "conversation",
+    "es": [
+      "conversación"
+    ],
+    "pos": "noun",
+    "rank": 722,
+    "example": "We had a long conversation."
+  },
+  {
+    "id": 723,
+    "en": "discussion",
+    "es": [
+      "debate",
+      "discusión"
+    ],
+    "pos": "noun",
+    "rank": 723,
+    "example": "The class had a lively discussion."
+  },
+  {
+    "id": 724,
+    "en": "argument",
+    "es": [
+      "discusión",
+      "pelea"
+    ],
+    "pos": "noun",
+    "rank": 724,
+    "example": "They had an argument about money."
+  },
+  {
+    "id": 725,
+    "en": "agreement",
+    "es": [
+      "acuerdo"
+    ],
+    "pos": "noun",
+    "rank": 725,
+    "example": "They reached an agreement quickly."
+  },
+  {
+    "id": 726,
+    "en": "conflict",
+    "es": [
+      "conflicto"
+    ],
+    "pos": "noun",
+    "rank": 726,
+    "example": "The conflict lasted many years."
+  },
+  {
+    "id": 727,
+    "en": "peace",
+    "es": [
+      "paz"
+    ],
+    "pos": "noun",
+    "rank": 727,
+    "example": "They finally made peace."
+  },
+  {
+    "id": 728,
+    "en": "battle",
+    "es": [
+      "batalla"
+    ],
+    "pos": "noun",
+    "rank": 728,
+    "example": "The battle lasted three days."
+  },
+  {
+    "id": 729,
+    "en": "victory",
+    "es": [
+      "victoria"
+    ],
+    "pos": "noun",
+    "rank": 729,
+    "example": "The team celebrated their victory."
+  },
+  {
+    "id": 730,
+    "en": "competition",
+    "es": [
+      "competencia",
+      "competición"
+    ],
+    "pos": "noun",
+    "rank": 730,
+    "example": "There is strong competition in this market."
+  },
+  {
+    "id": 731,
+    "en": "contest",
+    "es": [
+      "concurso"
+    ],
+    "pos": "noun",
+    "rank": 731,
+    "example": "She won first place in the contest."
+  },
+  {
+    "id": 732,
+    "en": "prize",
+    "es": [
+      "premio"
+    ],
+    "pos": "noun",
+    "rank": 732,
+    "example": "He won a prize for his painting."
+  },
+  {
+    "id": 733,
+    "en": "award",
+    "es": [
+      "galardón",
+      "premio"
+    ],
+    "pos": "noun",
+    "rank": 733,
+    "example": "She received an award for her research."
+  },
+  {
+    "id": 734,
+    "en": "punishment",
+    "es": [
+      "castigo"
+    ],
+    "pos": "noun",
+    "rank": 734,
+    "example": "The punishment was too harsh."
+  },
+  {
+    "id": 735,
+    "en": "budget",
+    "es": [
+      "presupuesto"
+    ],
+    "pos": "noun",
+    "rank": 735,
+    "example": "We need to plan our budget."
+  },
+  {
+    "id": 736,
+    "en": "cost",
+    "es": [
+      "costo",
+      "coste"
+    ],
+    "pos": "noun",
+    "rank": 736,
+    "example": "The cost of living keeps rising."
+  },
+  {
+    "id": 737,
+    "en": "price",
+    "es": [
+      "precio"
+    ],
+    "pos": "noun",
+    "rank": 737,
+    "example": "The price of gas went up."
+  },
+  {
+    "id": 738,
+    "en": "profit",
+    "es": [
+      "ganancia",
+      "beneficio"
+    ],
+    "pos": "noun",
+    "rank": 738,
+    "example": "The company made a huge profit."
+  },
+  {
+    "id": 739,
+    "en": "debt",
+    "es": [
+      "deuda"
+    ],
+    "pos": "noun",
+    "rank": 739,
+    "example": "They paid off their debt."
+  },
+  {
+    "id": 740,
+    "en": "loan",
+    "es": [
+      "préstamo"
+    ],
+    "pos": "noun",
+    "rank": 740,
+    "example": "He took out a loan for the car."
+  },
+  {
+    "id": 741,
+    "en": "investment",
+    "es": [
+      "inversión"
+    ],
+    "pos": "noun",
+    "rank": 741,
+    "example": "This is a good investment."
+  },
+  {
+    "id": 742,
+    "en": "income",
+    "es": [
+      "ingresos"
+    ],
+    "pos": "noun",
+    "rank": 742,
+    "example": "Her income increased this year."
+  },
+  {
+    "id": 743,
+    "en": "salary",
+    "es": [
+      "salario",
+      "sueldo"
+    ],
+    "pos": "noun",
+    "rank": 743,
+    "example": "He negotiated a higher salary."
+  },
+  {
+    "id": 744,
+    "en": "expense",
+    "es": [
+      "gasto"
+    ],
+    "pos": "noun",
+    "rank": 744,
+    "example": "Rent is our biggest expense."
+  },
+  {
+    "id": 745,
+    "en": "bill",
+    "es": [
+      "factura",
+      "cuenta"
+    ],
+    "pos": "noun",
+    "rank": 745,
+    "example": "Please pay the electricity bill."
+  },
+  {
+    "id": 746,
+    "en": "squeeze",
+    "es": [
+      "apretar",
+      "exprimir"
+    ],
+    "pos": "verb",
+    "rank": 746,
+    "example": "Squeeze the lemon over the fish."
+  },
+  {
+    "id": 747,
+    "en": "press",
+    "es": [
+      "presionar",
+      "apretar"
+    ],
+    "pos": "verb",
+    "rank": 747,
+    "example": "Press the button to start."
+  },
+  {
+    "id": 748,
+    "en": "push",
+    "es": [
+      "empujar"
+    ],
+    "pos": "verb",
+    "rank": 748,
+    "example": "Push the door to open it."
+  },
+  {
+    "id": 749,
+    "en": "pull",
+    "es": [
+      "tirar de",
+      "jalar"
+    ],
+    "pos": "verb",
+    "rank": 749,
+    "example": "Pull the rope with both hands."
+  },
+  {
+    "id": 750,
+    "en": "lift",
+    "es": [
+      "levantar"
+    ],
+    "pos": "verb",
+    "rank": 750,
+    "example": "He lifted the heavy box easily."
+  },
+  {
+    "id": 751,
+    "en": "drop",
+    "es": [
+      "dejar caer",
+      "soltar"
+    ],
+    "pos": "verb",
+    "rank": 751,
+    "example": "Don't drop the glass plate."
+  },
+  {
+    "id": 752,
+    "en": "throw",
+    "es": [
+      "lanzar",
+      "tirar"
+    ],
+    "pos": "verb",
+    "rank": 752,
+    "example": "Throw the ball to me."
+  },
+  {
+    "id": 753,
+    "en": "catch",
+    "es": [
+      "atrapar",
+      "agarrar"
+    ],
+    "pos": "verb",
+    "rank": 753,
+    "example": "Catch the ball with both hands."
+  },
+  {
+    "id": 754,
+    "en": "hold",
+    "es": [
+      "sostener",
+      "sujetar"
+    ],
+    "pos": "verb",
+    "rank": 754,
+    "example": "Hold my hand while we cross."
+  },
+  {
+    "id": 755,
+    "en": "grab",
+    "es": [
+      "agarrar"
+    ],
+    "pos": "verb",
+    "rank": 755,
+    "example": "He grabbed his coat and left."
+  },
+  {
+    "id": 756,
+    "en": "touch",
+    "es": [
+      "tocar"
+    ],
+    "pos": "verb",
+    "rank": 756,
+    "example": "Please don't touch the paintings."
+  },
+  {
+    "id": 757,
+    "en": "hit",
+    "es": [
+      "golpear"
+    ],
+    "pos": "verb",
+    "rank": 757,
+    "example": "The ball hit the window."
+  },
+  {
+    "id": 758,
+    "en": "jump",
+    "es": [
+      "saltar"
+    ],
+    "pos": "verb",
+    "rank": 758,
+    "example": "The dog jumped over the fence."
+  },
+  {
+    "id": 759,
+    "en": "climb",
+    "es": [
+      "escalar",
+      "subir"
+    ],
+    "pos": "verb",
+    "rank": 759,
+    "example": "They climbed the tall mountain."
+  },
+  {
+    "id": 760,
+    "en": "march",
+    "es": [
+      "marchar"
+    ],
+    "pos": "verb",
+    "rank": 760,
+    "example": "Soldiers marched through the town."
+  },
+  {
+    "id": 761,
+    "en": "swim",
+    "es": [
+      "nadar"
+    ],
+    "pos": "verb",
+    "rank": 761,
+    "example": "We swim in the lake every summer."
+  },
+  {
+    "id": 762,
+    "en": "fly",
+    "es": [
+      "volar"
+    ],
+    "pos": "verb",
+    "rank": 762,
+    "example": "Birds fly south for the winter."
+  },
+  {
+    "id": 763,
+    "en": "drive",
+    "es": [
+      "conducir",
+      "manejar"
+    ],
+    "pos": "verb",
+    "rank": 763,
+    "example": "She drives to work every day."
+  },
+  {
+    "id": 764,
+    "en": "ride",
+    "es": [
+      "montar",
+      "andar en"
+    ],
+    "pos": "verb",
+    "rank": 764,
+    "example": "He rides his bike to school."
+  },
+  {
+    "id": 765,
+    "en": "arrive",
+    "es": [
+      "llegar"
+    ],
+    "pos": "verb",
+    "rank": 765,
+    "example": "The train will arrive at noon."
+  },
+  {
+    "id": 766,
+    "en": "depart",
+    "es": [
+      "partir",
+      "salir"
+    ],
+    "pos": "verb",
+    "rank": 766,
+    "example": "The flight departs at midnight."
+  },
+  {
+    "id": 767,
+    "en": "return",
+    "es": [
+      "regresar",
+      "volver"
+    ],
+    "pos": "verb",
+    "rank": 767,
+    "example": "She will return next week."
+  },
+  {
+    "id": 768,
+    "en": "enter",
+    "es": [
+      "entrar"
+    ],
+    "pos": "verb",
+    "rank": 768,
+    "example": "Please enter through the side door."
+  },
+  {
+    "id": 769,
+    "en": "pass",
+    "es": [
+      "pasar"
+    ],
+    "pos": "verb",
+    "rank": 769,
+    "example": "Cars pass by our house all day."
+  },
+  {
+    "id": 770,
+    "en": "cross",
+    "es": [
+      "cruzar"
+    ],
+    "pos": "verb",
+    "rank": 770,
+    "example": "Look both ways before you cross."
+  },
+  {
+    "id": 771,
+    "en": "sharp",
+    "es": [
+      "afilado"
+    ],
+    "pos": "adj",
+    "rank": 771,
+    "example": "Be careful, that knife is sharp."
+  },
+  {
+    "id": 772,
+    "en": "dull",
+    "es": [
+      "desafilado",
+      "aburrido"
+    ],
+    "pos": "adj",
+    "rank": 772,
+    "example": "The old knife is quite dull."
+  },
+  {
+    "id": 773,
+    "en": "bright",
+    "es": [
+      "brillante"
+    ],
+    "pos": "adj",
+    "rank": 773,
+    "example": "The stars were very bright tonight."
+  },
+  {
+    "id": 774,
+    "en": "dark",
+    "es": [
+      "oscuro"
+    ],
+    "pos": "adj",
+    "rank": 774,
+    "example": "The room was too dark to read."
+  },
+  {
+    "id": 775,
+    "en": "colorful",
+    "es": [
+      "colorido"
+    ],
+    "pos": "adj",
+    "rank": 775,
+    "example": "The market sells colorful fabrics."
+  },
+  {
+    "id": 776,
+    "en": "beautiful",
+    "es": [
+      "hermoso",
+      "bello"
+    ],
+    "pos": "adj",
+    "rank": 776,
+    "example": "The sunset was absolutely beautiful."
+  },
+  {
+    "id": 777,
+    "en": "ugly",
+    "es": [
+      "feo"
+    ],
+    "pos": "adj",
+    "rank": 777,
+    "example": "The old building looked ugly."
+  },
+  {
+    "id": 778,
+    "en": "pretty",
+    "es": [
+      "bonito"
+    ],
+    "pos": "adj",
+    "rank": 778,
+    "example": "She wore a pretty blue dress."
+  },
+  {
+    "id": 779,
+    "en": "handsome",
+    "es": [
+      "guapo"
+    ],
+    "pos": "adj",
+    "rank": 779,
+    "example": "He looked handsome in his suit."
+  },
+  {
+    "id": 780,
+    "en": "attractive",
+    "es": [
+      "atractivo"
+    ],
+    "pos": "adj",
+    "rank": 780,
+    "example": "She has an attractive smile."
+  },
+  {
+    "id": 781,
+    "en": "cute",
+    "es": [
+      "lindo",
+      "mono"
+    ],
+    "pos": "adj",
+    "rank": 781,
+    "example": "The puppy is so cute."
+  },
+  {
+    "id": 782,
+    "en": "delicious",
+    "es": [
+      "delicioso"
+    ],
+    "pos": "adj",
+    "rank": 782,
+    "example": "This soup is absolutely delicious."
+  },
+  {
+    "id": 783,
+    "en": "tasty",
+    "es": [
+      "sabroso"
+    ],
+    "pos": "adj",
+    "rank": 783,
+    "example": "The tacos were really tasty."
+  },
+  {
+    "id": 784,
+    "en": "sweet",
+    "es": [
+      "dulce"
+    ],
+    "pos": "adj",
+    "rank": 784,
+    "example": "The cake was too sweet for me."
+  },
+  {
+    "id": 785,
+    "en": "sour",
+    "es": [
+      "agrio"
+    ],
+    "pos": "adj",
+    "rank": 785,
+    "example": "The lemon tasted very sour."
+  },
+  {
+    "id": 786,
+    "en": "bitter",
+    "es": [
+      "amargo"
+    ],
+    "pos": "adj",
+    "rank": 786,
+    "example": "He drinks his coffee bitter."
+  },
+  {
+    "id": 787,
+    "en": "spicy",
+    "es": [
+      "picante"
+    ],
+    "pos": "adj",
+    "rank": 787,
+    "example": "This curry is extremely spicy."
+  },
+  {
+    "id": 788,
+    "en": "fresh",
+    "es": [
+      "fresco"
+    ],
+    "pos": "adj",
+    "rank": 788,
+    "example": "We bought fresh bread this morning."
+  },
+  {
+    "id": 789,
+    "en": "warm",
+    "es": [
+      "cálido",
+      "tibio"
+    ],
+    "pos": "adj",
+    "rank": 789,
+    "example": "The soup is nice and warm."
+  },
+  {
+    "id": 790,
+    "en": "cool",
+    "es": [
+      "fresco"
+    ],
+    "pos": "adj",
+    "rank": 790,
+    "example": "The evening air felt cool."
+  },
+  {
+    "id": 791,
+    "en": "cold",
+    "es": [
+      "frío"
+    ],
+    "pos": "adj",
+    "rank": 791,
+    "example": "The water in the lake is cold."
+  },
+  {
+    "id": 792,
+    "en": "wet",
+    "es": [
+      "mojado"
+    ],
+    "pos": "adj",
+    "rank": 792,
+    "example": "His shoes were completely wet."
+  },
+  {
+    "id": 793,
+    "en": "exactly",
+    "es": [
+      "exactamente"
+    ],
+    "pos": "adv",
+    "rank": 793,
+    "example": "That's exactly what I meant."
+  },
+  {
+    "id": 794,
+    "en": "precisely",
+    "es": [
+      "precisamente"
+    ],
+    "pos": "adv",
+    "rank": 794,
+    "example": "He arrived precisely at noon."
+  },
+  {
+    "id": 795,
+    "en": "roughly",
+    "es": [
+      "más o menos",
+      "aproximadamente"
+    ],
+    "pos": "adv",
+    "rank": 795,
+    "example": "The trip takes roughly two hours."
+  },
+  {
+    "id": 796,
+    "en": "approximately",
+    "es": [
+      "aproximadamente"
+    ],
+    "pos": "adv",
+    "rank": 796,
+    "example": "The event lasts approximately one hour."
+  },
+  {
+    "id": 797,
+    "en": "directly",
+    "es": [
+      "directamente"
+    ],
+    "pos": "adv",
+    "rank": 797,
+    "example": "Please speak directly to the manager."
+  },
+  {
+    "id": 798,
+    "en": "indirectly",
+    "es": [
+      "indirectamente"
+    ],
+    "pos": "adv",
+    "rank": 798,
+    "example": "He indirectly answered the question."
+  },
+  {
+    "id": 799,
+    "en": "personally",
+    "es": [
+      "personalmente"
+    ],
+    "pos": "adv",
+    "rank": 799,
+    "example": "I personally prefer tea to coffee."
+  },
+  {
+    "id": 800,
+    "en": "officially",
+    "es": [
+      "oficialmente"
+    ],
+    "pos": "adv",
+    "rank": 800,
+    "example": "The results were officially announced."
+  },
+  {
+    "id": 801,
+    "en": "receipt",
+    "es": [
+      "recibo"
+    ],
+    "pos": "noun",
+    "rank": 801,
+    "example": "Keep the receipt for your records."
+  },
+  {
+    "id": 802,
+    "en": "account",
+    "es": [
+      "cuenta"
+    ],
+    "pos": "noun",
+    "rank": 802,
+    "example": "She opened a new bank account."
+  },
+  {
+    "id": 803,
+    "en": "bank",
+    "es": [
+      "banco"
+    ],
+    "pos": "noun",
+    "rank": 803,
+    "example": "He works at a bank downtown."
+  },
+  {
+    "id": 804,
+    "en": "currency",
+    "es": [
+      "moneda"
+    ],
+    "pos": "noun",
+    "rank": 804,
+    "example": "The local currency is the peso."
+  },
+  {
+    "id": 805,
+    "en": "economy",
+    "es": [
+      "economía"
+    ],
+    "pos": "noun",
+    "rank": 805,
+    "example": "The economy grew this year."
+  },
+  {
+    "id": 806,
+    "en": "industry",
+    "es": [
+      "industria"
+    ],
+    "pos": "noun",
+    "rank": 806,
+    "example": "The car industry is very competitive."
+  },
+  {
+    "id": 807,
+    "en": "factory",
+    "es": [
+      "fábrica"
+    ],
+    "pos": "noun",
+    "rank": 807,
+    "example": "He works at a shoe factory."
+  },
+  {
+    "id": 808,
+    "en": "agriculture",
+    "es": [
+      "agricultura"
+    ],
+    "pos": "noun",
+    "rank": 808,
+    "example": "Agriculture is vital to this region."
+  },
+  {
+    "id": 809,
+    "en": "technology",
+    "es": [
+      "tecnología"
+    ],
+    "pos": "noun",
+    "rank": 809,
+    "example": "New technology changes fast."
+  },
+  {
+    "id": 810,
+    "en": "chemistry",
+    "es": [
+      "química"
+    ],
+    "pos": "noun",
+    "rank": 810,
+    "example": "She teaches high school chemistry."
+  },
+  {
+    "id": 811,
+    "en": "physics",
+    "es": [
+      "física"
+    ],
+    "pos": "noun",
+    "rank": 811,
+    "example": "He studies physics at university."
+  },
+  {
+    "id": 812,
+    "en": "biology",
+    "es": [
+      "biología"
+    ],
+    "pos": "noun",
+    "rank": 812,
+    "example": "Biology explains how living things work."
+  },
+  {
+    "id": 813,
+    "en": "mathematics",
+    "es": [
+      "matemáticas"
+    ],
+    "pos": "noun",
+    "rank": 813,
+    "example": "Mathematics is her favorite subject."
+  },
+  {
+    "id": 814,
+    "en": "medicine",
+    "es": [
+      "medicina"
+    ],
+    "pos": "noun",
+    "rank": 814,
+    "example": "He studies medicine in Madrid."
+  },
+  {
+    "id": 815,
+    "en": "engineering",
+    "es": [
+      "ingeniería"
+    ],
+    "pos": "noun",
+    "rank": 815,
+    "example": "She works in civil engineering."
+  },
+  {
+    "id": 816,
+    "en": "architecture",
+    "es": [
+      "arquitectura"
+    ],
+    "pos": "noun",
+    "rank": 816,
+    "example": "The building has modern architecture."
+  },
+  {
+    "id": 817,
+    "en": "literature",
+    "es": [
+      "literatura"
+    ],
+    "pos": "noun",
+    "rank": 817,
+    "example": "She teaches Spanish literature."
+  },
+  {
+    "id": 818,
+    "en": "poetry",
+    "es": [
+      "poesía"
+    ],
+    "pos": "noun",
+    "rank": 818,
+    "example": "He writes poetry in his free time."
+  },
+  {
+    "id": 819,
+    "en": "novel",
+    "es": [
+      "novela"
+    ],
+    "pos": "noun",
+    "rank": 819,
+    "example": "I just finished reading a novel."
+  },
+  {
+    "id": 820,
+    "en": "chapter",
+    "es": [
+      "capítulo"
+    ],
+    "pos": "noun",
+    "rank": 820,
+    "example": "This chapter explains the main theme."
+  },
+  {
+    "id": 821,
+    "en": "sentence",
+    "es": [
+      "oración",
+      "frase"
+    ],
+    "pos": "noun",
+    "rank": 821,
+    "example": "Write a sentence using this word."
+  },
+  {
+    "id": 822,
+    "en": "paragraph",
+    "es": [
+      "párrafo"
+    ],
+    "pos": "noun",
+    "rank": 822,
+    "example": "Read the first paragraph carefully."
+  },
+  {
+    "id": 823,
+    "en": "alphabet",
+    "es": [
+      "alfabeto"
+    ],
+    "pos": "noun",
+    "rank": 823,
+    "example": "Children learn the alphabet first."
+  },
+  {
+    "id": 824,
+    "en": "grammar",
+    "es": [
+      "gramática"
+    ],
+    "pos": "noun",
+    "rank": 824,
+    "example": "English grammar can be tricky."
+  },
+  {
+    "id": 825,
+    "en": "vocabulary",
+    "es": [
+      "vocabulario"
+    ],
+    "pos": "noun",
+    "rank": 825,
+    "example": "Reading improves your vocabulary."
+  },
+  {
+    "id": 826,
+    "en": "translation",
+    "es": [
+      "traducción"
+    ],
+    "pos": "noun",
+    "rank": 826,
+    "example": "The translation was very accurate."
+  },
+  {
+    "id": 827,
+    "en": "definition",
+    "es": [
+      "definición"
+    ],
+    "pos": "noun",
+    "rank": 827,
+    "example": "Look up the definition of this word."
+  },
+  {
+    "id": 828,
+    "en": "dictionary",
+    "es": [
+      "diccionario"
+    ],
+    "pos": "noun",
+    "rank": 828,
+    "example": "She checked the word in a dictionary."
+  },
+  {
+    "id": 829,
+    "en": "article",
+    "es": [
+      "artículo"
+    ],
+    "pos": "noun",
+    "rank": 829,
+    "example": "I read an interesting article today."
+  },
+  {
+    "id": 830,
+    "en": "headline",
+    "es": [
+      "titular"
+    ],
+    "pos": "noun",
+    "rank": 830,
+    "example": "The headline caught my attention."
+  },
+  {
+    "id": 831,
+    "en": "report",
+    "es": [
+      "informe",
+      "reporte"
+    ],
+    "pos": "noun",
+    "rank": 831,
+    "example": "She wrote a detailed report."
+  },
+  {
+    "id": 832,
+    "en": "essay",
+    "es": [
+      "ensayo"
+    ],
+    "pos": "noun",
+    "rank": 832,
+    "example": "He wrote an essay about climate change."
+  },
+  {
+    "id": 833,
+    "en": "review",
+    "es": [
+      "reseña",
+      "crítica"
+    ],
+    "pos": "noun",
+    "rank": 833,
+    "example": "The movie got a great review."
+  },
+  {
+    "id": 834,
+    "en": "comment",
+    "es": [
+      "comentario"
+    ],
+    "pos": "noun",
+    "rank": 834,
+    "example": "She left a kind comment online."
+  },
+  {
+    "id": 835,
+    "en": "opinion",
+    "es": [
+      "opinión"
+    ],
+    "pos": "noun",
+    "rank": 835,
+    "example": "What is your opinion on this?"
+  },
+  {
+    "id": 836,
+    "en": "evidence",
+    "es": [
+      "evidencia",
+      "prueba"
+    ],
+    "pos": "noun",
+    "rank": 836,
+    "example": "There is no evidence of a crime."
+  },
+  {
+    "id": 837,
+    "en": "proof",
+    "es": [
+      "prueba"
+    ],
+    "pos": "noun",
+    "rank": 837,
+    "example": "He showed proof of purchase."
+  },
+  {
+    "id": 838,
+    "en": "statement",
+    "es": [
+      "declaración"
+    ],
+    "pos": "noun",
+    "rank": 838,
+    "example": "The company released a statement."
+  },
+  {
+    "id": 839,
+    "en": "announcement",
+    "es": [
+      "anuncio"
+    ],
+    "pos": "noun",
+    "rank": 839,
+    "example": "They made an important announcement."
+  },
+  {
+    "id": 840,
+    "en": "promise",
+    "es": [
+      "promesa"
+    ],
+    "pos": "noun",
+    "rank": 840,
+    "example": "He kept his promise to call."
+  },
+  {
+    "id": 841,
+    "en": "warning",
+    "es": [
+      "advertencia"
+    ],
+    "pos": "noun",
+    "rank": 841,
+    "example": "The weather service issued a warning."
+  },
+  {
+    "id": 842,
+    "en": "advice",
+    "es": [
+      "consejo"
+    ],
+    "pos": "noun",
+    "rank": 842,
+    "example": "She gave me great advice."
+  },
+  {
+    "id": 843,
+    "en": "suggestion",
+    "es": [
+      "sugerencia"
+    ],
+    "pos": "noun",
+    "rank": 843,
+    "example": "Thank you for your suggestion."
+  },
+  {
+    "id": 844,
+    "en": "recommendation",
+    "es": [
+      "recomendación"
+    ],
+    "pos": "noun",
+    "rank": 844,
+    "example": "I have a book recommendation for you."
+  },
+  {
+    "id": 845,
+    "en": "instruction",
+    "es": [
+      "instrucción"
+    ],
+    "pos": "noun",
+    "rank": 845,
+    "example": "Follow the instructions carefully."
+  },
+  {
+    "id": 846,
+    "en": "follow",
+    "es": [
+      "seguir"
+    ],
+    "pos": "verb",
+    "rank": 846,
+    "example": "Please follow me to the office."
+  },
+  {
+    "id": 847,
+    "en": "lead",
+    "es": [
+      "liderar",
+      "dirigir"
+    ],
+    "pos": "verb",
+    "rank": 847,
+    "example": "She leads a team of ten people."
+  },
+  {
+    "id": 848,
+    "en": "guide",
+    "es": [
+      "guiar"
+    ],
+    "pos": "verb",
+    "rank": 848,
+    "example": "He guided us through the museum."
+  },
+  {
+    "id": 849,
+    "en": "control",
+    "es": [
+      "controlar"
+    ],
+    "pos": "verb",
+    "rank": 849,
+    "example": "She controls the company's budget."
+  },
+  {
+    "id": 850,
+    "en": "manage",
+    "es": [
+      "administrar",
+      "gestionar"
+    ],
+    "pos": "verb",
+    "rank": 850,
+    "example": "He manages a small restaurant."
+  },
+  {
+    "id": 851,
+    "en": "operate",
+    "es": [
+      "operar"
+    ],
+    "pos": "verb",
+    "rank": 851,
+    "example": "This machine operates automatically."
+  },
+  {
+    "id": 852,
+    "en": "function",
+    "es": [
+      "funcionar"
+    ],
+    "pos": "verb",
+    "rank": 852,
+    "example": "The printer doesn't function anymore."
+  },
+  {
+    "id": 853,
+    "en": "perform",
+    "es": [
+      "actuar",
+      "interpretar"
+    ],
+    "pos": "verb",
+    "rank": 853,
+    "example": "The band performed for two hours."
+  },
+  {
+    "id": 854,
+    "en": "behave",
+    "es": [
+      "comportarse"
+    ],
+    "pos": "verb",
+    "rank": 854,
+    "example": "The children behaved very well."
+  },
+  {
+    "id": 855,
+    "en": "react",
+    "es": [
+      "reaccionar"
+    ],
+    "pos": "verb",
+    "rank": 855,
+    "example": "She reacted calmly to the news."
+  },
+  {
+    "id": 856,
+    "en": "respond",
+    "es": [
+      "responder"
+    ],
+    "pos": "verb",
+    "rank": 856,
+    "example": "Please respond to my email soon."
+  },
+  {
+    "id": 857,
+    "en": "reply",
+    "es": [
+      "contestar",
+      "responder"
+    ],
+    "pos": "verb",
+    "rank": 857,
+    "example": "He replied to her message quickly."
+  },
+  {
+    "id": 858,
+    "en": "request",
+    "es": [
+      "solicitar",
+      "pedir"
+    ],
+    "pos": "verb",
+    "rank": 858,
+    "example": "She requested extra time for the exam."
+  },
+  {
+    "id": 859,
+    "en": "demand",
+    "es": [
+      "exigir"
+    ],
+    "pos": "verb",
+    "rank": 859,
+    "example": "Workers demanded higher wages."
+  },
+  {
+    "id": 860,
+    "en": "require",
+    "es": [
+      "requerir"
+    ],
+    "pos": "verb",
+    "rank": 860,
+    "example": "This job requires a driver's license."
+  },
+  {
+    "id": 861,
+    "en": "deserve",
+    "es": [
+      "merecer"
+    ],
+    "pos": "verb",
+    "rank": 861,
+    "example": "You deserve a break after all that work."
+  },
+  {
+    "id": 862,
+    "en": "earn",
+    "es": [
+      "percibir",
+      "ganar"
+    ],
+    "pos": "verb",
+    "rank": 862,
+    "example": "She earns a good salary."
+  },
+  {
+    "id": 863,
+    "en": "spend",
+    "es": [
+      "gastar"
+    ],
+    "pos": "verb",
+    "rank": 863,
+    "example": "They spend too much money on clothes."
+  },
+  {
+    "id": 864,
+    "en": "waste",
+    "es": [
+      "desperdiciar",
+      "malgastar"
+    ],
+    "pos": "verb",
+    "rank": 864,
+    "example": "Don't waste your time on that."
+  },
+  {
+    "id": 865,
+    "en": "borrow",
+    "es": [
+      "pedir prestado"
+    ],
+    "pos": "verb",
+    "rank": 865,
+    "example": "Can I borrow your pen?"
+  },
+  {
+    "id": 866,
+    "en": "lend",
+    "es": [
+      "prestar"
+    ],
+    "pos": "verb",
+    "rank": 866,
+    "example": "She lent me her car for the day."
+  },
+  {
+    "id": 867,
+    "en": "pay",
+    "es": [
+      "pagar"
+    ],
+    "pos": "verb",
+    "rank": 867,
+    "example": "He paid the bill in cash."
+  },
+  {
+    "id": 868,
+    "en": "owe",
+    "es": [
+      "deber"
+    ],
+    "pos": "verb",
+    "rank": 868,
+    "example": "I owe you twenty dollars."
+  },
+  {
+    "id": 869,
+    "en": "afford",
+    "es": [
+      "permitirse"
+    ],
+    "pos": "verb",
+    "rank": 869,
+    "example": "We can't afford a new car right now."
+  },
+  {
+    "id": 870,
+    "en": "sell",
+    "es": [
+      "vender"
+    ],
+    "pos": "verb",
+    "rank": 870,
+    "example": "They sell fresh fruit at the market."
+  },
+  {
+    "id": 871,
+    "en": "dry",
+    "es": [
+      "seco"
+    ],
+    "pos": "adj",
+    "rank": 871,
+    "example": "The desert air is very dry."
+  },
+  {
+    "id": 872,
+    "en": "sunny",
+    "es": [
+      "soleado"
+    ],
+    "pos": "adj",
+    "rank": 872,
+    "example": "Tomorrow will be sunny and warm."
+  },
+  {
+    "id": 873,
+    "en": "cloudy",
+    "es": [
+      "nublado"
+    ],
+    "pos": "adj",
+    "rank": 873,
+    "example": "The sky is cloudy this morning."
+  },
+  {
+    "id": 874,
+    "en": "rainy",
+    "es": [
+      "lluvioso"
+    ],
+    "pos": "adj",
+    "rank": 874,
+    "example": "April is usually a rainy month."
+  },
+  {
+    "id": 875,
+    "en": "quiet",
+    "es": [
+      "silencioso",
+      "tranquilo"
+    ],
+    "pos": "adj",
+    "rank": 875,
+    "example": "The library is always quiet."
+  },
+  {
+    "id": 876,
+    "en": "loud",
+    "es": [
+      "ruidoso"
+    ],
+    "pos": "adj",
+    "rank": 876,
+    "example": "The music was too loud."
+  },
+  {
+    "id": 877,
+    "en": "noisy",
+    "es": [
+      "bullicioso",
+      "ruidoso"
+    ],
+    "pos": "adj",
+    "rank": 877,
+    "example": "The street is very noisy at night."
+  },
+  {
+    "id": 878,
+    "en": "crowded",
+    "es": [
+      "lleno de gente",
+      "abarrotado"
+    ],
+    "pos": "adj",
+    "rank": 878,
+    "example": "The train was extremely crowded."
+  },
+  {
+    "id": 879,
+    "en": "busy",
+    "es": [
+      "ocupado"
+    ],
+    "pos": "adj",
+    "rank": 879,
+    "example": "She is very busy this week."
+  },
+  {
+    "id": 880,
+    "en": "convenient",
+    "es": [
+      "conveniente"
+    ],
+    "pos": "adj",
+    "rank": 880,
+    "example": "This location is very convenient."
+  },
+  {
+    "id": 881,
+    "en": "useful",
+    "es": [
+      "útil"
+    ],
+    "pos": "adj",
+    "rank": 881,
+    "example": "This tool is really useful."
+  },
+  {
+    "id": 882,
+    "en": "useless",
+    "es": [
+      "inútil"
+    ],
+    "pos": "adj",
+    "rank": 882,
+    "example": "That old phone is useless now."
+  },
+  {
+    "id": 883,
+    "en": "helpful",
+    "es": [
+      "servicial",
+      "útil"
+    ],
+    "pos": "adj",
+    "rank": 883,
+    "example": "The staff was very helpful."
+  },
+  {
+    "id": 884,
+    "en": "harmful",
+    "es": [
+      "dañino",
+      "perjudicial"
+    ],
+    "pos": "adj",
+    "rank": 884,
+    "example": "Smoking is harmful to your health."
+  },
+  {
+    "id": 885,
+    "en": "dangerous",
+    "es": [
+      "peligroso"
+    ],
+    "pos": "adj",
+    "rank": 885,
+    "example": "That road is very dangerous."
+  },
+  {
+    "id": 886,
+    "en": "safe",
+    "es": [
+      "a salvo",
+      "seguro"
+    ],
+    "pos": "adj",
+    "rank": 886,
+    "example": "This neighborhood is very safe."
+  },
+  {
+    "id": 887,
+    "en": "risky",
+    "es": [
+      "arriesgado"
+    ],
+    "pos": "adj",
+    "rank": 887,
+    "example": "Investing all your savings is risky."
+  },
+  {
+    "id": 888,
+    "en": "fragile",
+    "es": [
+      "frágil"
+    ],
+    "pos": "adj",
+    "rank": 888,
+    "example": "Handle the glass vase, it's fragile."
+  },
+  {
+    "id": 889,
+    "en": "solid",
+    "es": [
+      "sólido"
+    ],
+    "pos": "adj",
+    "rank": 889,
+    "example": "Ice is water in a solid state."
+  },
+  {
+    "id": 890,
+    "en": "flexible",
+    "es": [
+      "flexible"
+    ],
+    "pos": "adj",
+    "rank": 890,
+    "example": "Yoga makes your body flexible."
+  },
+  {
+    "id": 891,
+    "en": "ancient",
+    "es": [
+      "antiguo"
+    ],
+    "pos": "adj",
+    "rank": 891,
+    "example": "They found ancient ruins in the desert."
+  },
+  {
+    "id": 892,
+    "en": "modern",
+    "es": [
+      "moderno"
+    ],
+    "pos": "adj",
+    "rank": 892,
+    "example": "They live in a modern apartment."
+  },
+  {
+    "id": 893,
+    "en": "publicly",
+    "es": [
+      "públicamente"
+    ],
+    "pos": "adv",
+    "rank": 893,
+    "example": "He publicly apologized for the mistake."
+  },
+  {
+    "id": 894,
+    "en": "privately",
+    "es": [
+      "en privado",
+      "privadamente"
+    ],
+    "pos": "adv",
+    "rank": 894,
+    "example": "They discussed it privately."
+  },
+  {
+    "id": 895,
+    "en": "secretly",
+    "es": [
+      "secretamente",
+      "en secreto"
+    ],
+    "pos": "adv",
+    "rank": 895,
+    "example": "She secretly planned the surprise party."
+  },
+  {
+    "id": 896,
+    "en": "honestly",
+    "es": [
+      "honestamente",
+      "francamente"
+    ],
+    "pos": "adv",
+    "rank": 896,
+    "example": "Honestly, I don't know the answer."
+  },
+  {
+    "id": 897,
+    "en": "truly",
+    "es": [
+      "verdaderamente"
+    ],
+    "pos": "adv",
+    "rank": 897,
+    "example": "I am truly sorry for the delay."
+  },
+  {
+    "id": 898,
+    "en": "sincerely",
+    "es": [
+      "sinceramente"
+    ],
+    "pos": "adv",
+    "rank": 898,
+    "example": "She sincerely apologized to her friend."
+  },
+  {
+    "id": 899,
+    "en": "unfortunately",
+    "es": [
+      "desafortunadamente",
+      "lamentablemente"
+    ],
+    "pos": "adv",
+    "rank": 899,
+    "example": "Unfortunately, the flight was canceled."
+  },
+  {
+    "id": 900,
+    "en": "fortunately",
+    "es": [
+      "afortunadamente"
+    ],
+    "pos": "adv",
+    "rank": 900,
+    "example": "Fortunately, no one was hurt."
+  },
+  {
+    "id": 901,
+    "en": "regulation",
+    "es": [
+      "regulación",
+      "reglamento"
+    ],
+    "pos": "noun",
+    "rank": 901,
+    "example": "The new regulation affects small businesses."
+  },
+  {
+    "id": 902,
+    "en": "permission",
+    "es": [
+      "permiso"
+    ],
+    "pos": "noun",
+    "rank": 902,
+    "example": "Ask permission before you leave."
+  },
+  {
+    "id": 903,
+    "en": "license",
+    "es": [
+      "licencia"
+    ],
+    "pos": "noun",
+    "rank": 903,
+    "example": "She got her driver's license last week."
+  },
+  {
+    "id": 904,
+    "en": "certificate",
+    "es": [
+      "certificado"
+    ],
+    "pos": "noun",
+    "rank": 904,
+    "example": "He received a certificate of completion."
+  },
+  {
+    "id": 905,
+    "en": "diploma",
+    "es": [
+      "diploma"
+    ],
+    "pos": "noun",
+    "rank": 905,
+    "example": "She proudly framed her diploma."
+  },
+  {
+    "id": 906,
+    "en": "exam",
+    "es": [
+      "examen"
+    ],
+    "pos": "noun",
+    "rank": 906,
+    "example": "He studied all night for the exam."
+  },
+  {
+    "id": 907,
+    "en": "quiz",
+    "es": [
+      "cuestionario",
+      "prueba corta"
+    ],
+    "pos": "noun",
+    "rank": 907,
+    "example": "We have a quiz tomorrow in class."
+  },
+  {
+    "id": 908,
+    "en": "grade",
+    "es": [
+      "calificación",
+      "nota"
+    ],
+    "pos": "noun",
+    "rank": 908,
+    "example": "She got a good grade on her essay."
+  },
+  {
+    "id": 909,
+    "en": "score",
+    "es": [
+      "puntuación",
+      "marcador"
+    ],
+    "pos": "noun",
+    "rank": 909,
+    "example": "The final score was three to two."
+  },
+  {
+    "id": 910,
+    "en": "record",
+    "es": [
+      "récord",
+      "registro"
+    ],
+    "pos": "noun",
+    "rank": 910,
+    "example": "He broke the world record."
+  },
+  {
+    "id": 911,
+    "en": "achievement",
+    "es": [
+      "logro"
+    ],
+    "pos": "noun",
+    "rank": 911,
+    "example": "Graduating was a huge achievement."
+  },
+  {
+    "id": 912,
+    "en": "success",
+    "es": [
+      "éxito"
+    ],
+    "pos": "noun",
+    "rank": 912,
+    "example": "Hard work leads to success."
+  },
+  {
+    "id": 913,
+    "en": "failure",
+    "es": [
+      "fracaso"
+    ],
+    "pos": "noun",
+    "rank": 913,
+    "example": "He learned from his failure."
+  },
+  {
+    "id": 914,
+    "en": "mistake",
+    "es": [
+      "error",
+      "equivocación"
+    ],
+    "pos": "noun",
+    "rank": 914,
+    "example": "Everyone makes mistakes sometimes."
+  },
+  {
+    "id": 915,
+    "en": "error",
+    "es": [
+      "fallo",
+      "error"
+    ],
+    "pos": "noun",
+    "rank": 915,
+    "example": "The system showed an error message."
+  },
+  {
+    "id": 916,
+    "en": "accident",
+    "es": [
+      "accidente"
+    ],
+    "pos": "noun",
+    "rank": 916,
+    "example": "They were in a car accident."
+  },
+  {
+    "id": 917,
+    "en": "disaster",
+    "es": [
+      "desastre"
+    ],
+    "pos": "noun",
+    "rank": 917,
+    "example": "The flood was a natural disaster."
+  },
+  {
+    "id": 918,
+    "en": "emergency",
+    "es": [
+      "emergencia"
+    ],
+    "pos": "noun",
+    "rank": 918,
+    "example": "Call 911 in case of emergency."
+  },
+  {
+    "id": 919,
+    "en": "crisis",
+    "es": [
+      "crisis"
+    ],
+    "pos": "noun",
+    "rank": 919,
+    "example": "The company survived the financial crisis."
+  },
+  {
+    "id": 920,
+    "en": "solution",
+    "es": [
+      "solución"
+    ],
+    "pos": "noun",
+    "rank": 920,
+    "example": "We found a solution to the problem."
+  },
+  {
+    "id": 921,
+    "en": "cause",
+    "es": [
+      "causa"
+    ],
+    "pos": "noun",
+    "rank": 921,
+    "example": "Smoking is a leading cause of illness."
+  },
+  {
+    "id": 922,
+    "en": "effect",
+    "es": [
+      "efecto"
+    ],
+    "pos": "noun",
+    "rank": 922,
+    "example": "The medicine had no effect."
+  },
+  {
+    "id": 923,
+    "en": "impact",
+    "es": [
+      "impacto"
+    ],
+    "pos": "noun",
+    "rank": 923,
+    "example": "The storm had a big impact on the town."
+  },
+  {
+    "id": 924,
+    "en": "influence",
+    "es": [
+      "influencia"
+    ],
+    "pos": "noun",
+    "rank": 924,
+    "example": "Parents have a big influence on children."
+  },
+  {
+    "id": 925,
+    "en": "benefit",
+    "es": [
+      "beneficio"
+    ],
+    "pos": "noun",
+    "rank": 925,
+    "example": "Exercise has many health benefits."
+  },
+  {
+    "id": 926,
+    "en": "advantage",
+    "es": [
+      "ventaja"
+    ],
+    "pos": "noun",
+    "rank": 926,
+    "example": "Speaking two languages is an advantage."
+  },
+  {
+    "id": 927,
+    "en": "disadvantage",
+    "es": [
+      "desventaja"
+    ],
+    "pos": "noun",
+    "rank": 927,
+    "example": "Being short is a disadvantage in basketball."
+  },
+  {
+    "id": 928,
+    "en": "jury",
+    "es": [
+      "jurado"
+    ],
+    "pos": "noun",
+    "rank": 928,
+    "example": "The jury reached a verdict."
+  },
+  {
+    "id": 929,
+    "en": "victim",
+    "es": [
+      "víctima"
+    ],
+    "pos": "noun",
+    "rank": 929,
+    "example": "The victim received help quickly."
+  },
+  {
+    "id": 930,
+    "en": "criminal",
+    "es": [
+      "criminal"
+    ],
+    "pos": "noun",
+    "rank": 930,
+    "example": "The criminal was arrested last night."
+  },
+  {
+    "id": 931,
+    "en": "thief",
+    "es": [
+      "ladrón"
+    ],
+    "pos": "noun",
+    "rank": 931,
+    "example": "The thief stole her purse."
+  },
+  {
+    "id": 932,
+    "en": "hero",
+    "es": [
+      "héroe"
+    ],
+    "pos": "noun",
+    "rank": 932,
+    "example": "The firefighter was a true hero."
+  },
+  {
+    "id": 933,
+    "en": "enemy",
+    "es": [
+      "enemigo"
+    ],
+    "pos": "noun",
+    "rank": 933,
+    "example": "They became enemies after the argument."
+  },
+  {
+    "id": 934,
+    "en": "committee",
+    "es": [
+      "comité"
+    ],
+    "pos": "noun",
+    "rank": 934,
+    "example": "The committee approved the new budget."
+  },
+  {
+    "id": 935,
+    "en": "psychology",
+    "es": [
+      "psicología"
+    ],
+    "pos": "noun",
+    "rank": 935,
+    "example": "She studies psychology at college."
+  },
+  {
+    "id": 936,
+    "en": "philosophy",
+    "es": [
+      "filosofía"
+    ],
+    "pos": "noun",
+    "rank": 936,
+    "example": "He teaches philosophy at the university."
+  },
+  {
+    "id": 937,
+    "en": "religion",
+    "es": [
+      "religión"
+    ],
+    "pos": "noun",
+    "rank": 937,
+    "example": "They study world religions."
+  },
+  {
+    "id": 938,
+    "en": "faith",
+    "es": [
+      "fe"
+    ],
+    "pos": "noun",
+    "rank": 938,
+    "example": "She has great faith in her friends."
+  },
+  {
+    "id": 939,
+    "en": "wisdom",
+    "es": [
+      "sabiduría"
+    ],
+    "pos": "noun",
+    "rank": 939,
+    "example": "With age comes wisdom."
+  },
+  {
+    "id": 940,
+    "en": "intelligence",
+    "es": [
+      "inteligencia"
+    ],
+    "pos": "noun",
+    "rank": 940,
+    "example": "The test measures general intelligence."
+  },
+  {
+    "id": 941,
+    "en": "limit",
+    "es": [
+      "límite"
+    ],
+    "pos": "noun",
+    "rank": 941,
+    "example": "There is a speed limit on this road."
+  },
+  {
+    "id": 942,
+    "en": "boundary",
+    "es": [
+      "confín",
+      "límite"
+    ],
+    "pos": "noun",
+    "rank": 942,
+    "example": "The fence marks the property boundary."
+  },
+  {
+    "id": 943,
+    "en": "gap",
+    "es": [
+      "brecha",
+      "hueco"
+    ],
+    "pos": "noun",
+    "rank": 943,
+    "example": "There is a big gap between the rich and poor."
+  },
+  {
+    "id": 944,
+    "en": "layer",
+    "es": [
+      "capa"
+    ],
+    "pos": "noun",
+    "rank": 944,
+    "example": "Add a layer of cheese on top."
+  },
+  {
+    "id": 945,
+    "en": "portion",
+    "es": [
+      "porción"
+    ],
+    "pos": "noun",
+    "rank": 945,
+    "example": "She ate only a small portion."
+  },
+  {
+    "id": 946,
+    "en": "buy",
+    "es": [
+      "comprar"
+    ],
+    "pos": "verb",
+    "rank": 946,
+    "example": "She bought a new dress yesterday."
+  },
+  {
+    "id": 947,
+    "en": "trade",
+    "es": [
+      "comerciar",
+      "intercambiar"
+    ],
+    "pos": "verb",
+    "rank": 947,
+    "example": "They trade goods with other countries."
+  },
+  {
+    "id": 948,
+    "en": "exchange",
+    "es": [
+      "intercambiar"
+    ],
+    "pos": "verb",
+    "rank": 948,
+    "example": "We exchanged phone numbers."
+  },
+  {
+    "id": 949,
+    "en": "bargain",
+    "es": [
+      "regatear"
+    ],
+    "pos": "verb",
+    "rank": 949,
+    "example": "They bargained over the price."
+  },
+  {
+    "id": 950,
+    "en": "negotiate",
+    "es": [
+      "negociar"
+    ],
+    "pos": "verb",
+    "rank": 950,
+    "example": "The two companies negotiated a deal."
+  },
+  {
+    "id": 951,
+    "en": "hire",
+    "es": [
+      "contratar"
+    ],
+    "pos": "verb",
+    "rank": 951,
+    "example": "The company hired ten new employees."
+  },
+  {
+    "id": 952,
+    "en": "employ",
+    "es": [
+      "emplear"
+    ],
+    "pos": "verb",
+    "rank": 952,
+    "example": "The factory employs two hundred workers."
+  },
+  {
+    "id": 953,
+    "en": "fire",
+    "es": [
+      "despedir"
+    ],
+    "pos": "verb",
+    "rank": 953,
+    "example": "They fired him for being late."
+  },
+  {
+    "id": 954,
+    "en": "quit",
+    "es": [
+      "renunciar",
+      "dejar"
+    ],
+    "pos": "verb",
+    "rank": 954,
+    "example": "She quit her job last month."
+  },
+  {
+    "id": 955,
+    "en": "retire",
+    "es": [
+      "jubilarse"
+    ],
+    "pos": "verb",
+    "rank": 955,
+    "example": "My father retired at sixty-five."
+  },
+  {
+    "id": 956,
+    "en": "apply",
+    "es": [
+      "postularse",
+      "solicitar"
+    ],
+    "pos": "verb",
+    "rank": 956,
+    "example": "She applied for the manager position."
+  },
+  {
+    "id": 957,
+    "en": "elect",
+    "es": [
+      "elegir"
+    ],
+    "pos": "verb",
+    "rank": 957,
+    "example": "They elected a new president."
+  },
+  {
+    "id": 958,
+    "en": "vote",
+    "es": [
+      "votar"
+    ],
+    "pos": "verb",
+    "rank": 958,
+    "example": "Everyone should vote in elections."
+  },
+  {
+    "id": 959,
+    "en": "govern",
+    "es": [
+      "gobernar"
+    ],
+    "pos": "verb",
+    "rank": 959,
+    "example": "The council governs the small town."
+  },
+  {
+    "id": 960,
+    "en": "punish",
+    "es": [
+      "castigar"
+    ],
+    "pos": "verb",
+    "rank": 960,
+    "example": "Parents shouldn't punish out of anger."
+  },
+  {
+    "id": 961,
+    "en": "forgive",
+    "es": [
+      "perdonar"
+    ],
+    "pos": "verb",
+    "rank": 961,
+    "example": "She forgave him for the mistake."
+  },
+  {
+    "id": 962,
+    "en": "blame",
+    "es": [
+      "culpar"
+    ],
+    "pos": "verb",
+    "rank": 962,
+    "example": "Don't blame yourself for the accident."
+  },
+  {
+    "id": 963,
+    "en": "accuse",
+    "es": [
+      "acusar"
+    ],
+    "pos": "verb",
+    "rank": 963,
+    "example": "They accused him of lying."
+  },
+  {
+    "id": 964,
+    "en": "suspect",
+    "es": [
+      "sospechar"
+    ],
+    "pos": "verb",
+    "rank": 964,
+    "example": "Police suspect he was involved."
+  },
+  {
+    "id": 965,
+    "en": "arrest",
+    "es": [
+      "arrestar"
+    ],
+    "pos": "verb",
+    "rank": 965,
+    "example": "The police arrested the suspect."
+  },
+  {
+    "id": 966,
+    "en": "release",
+    "es": [
+      "liberar",
+      "soltar"
+    ],
+    "pos": "verb",
+    "rank": 966,
+    "example": "They released the animal into the wild."
+  },
+  {
+    "id": 967,
+    "en": "wander",
+    "es": [
+      "vagar",
+      "deambular"
+    ],
+    "pos": "verb",
+    "rank": 967,
+    "example": "They wandered through the old town."
+  },
+  {
+    "id": 968,
+    "en": "shout",
+    "es": [
+      "gritar"
+    ],
+    "pos": "verb",
+    "rank": 968,
+    "example": "He shouted for help."
+  },
+  {
+    "id": 969,
+    "en": "whisper",
+    "es": [
+      "susurrar"
+    ],
+    "pos": "verb",
+    "rank": 969,
+    "example": "She whispered the secret to me."
+  },
+  {
+    "id": 970,
+    "en": "laugh",
+    "es": [
+      "reír"
+    ],
+    "pos": "verb",
+    "rank": 970,
+    "example": "The joke made everyone laugh."
+  },
+  {
+    "id": 971,
+    "en": "recent",
+    "es": [
+      "reciente"
+    ],
+    "pos": "adj",
+    "rank": 971,
+    "example": "This is a recent photo of my family."
+  },
+  {
+    "id": 972,
+    "en": "future",
+    "es": [
+      "futuro"
+    ],
+    "pos": "adj",
+    "rank": 972,
+    "example": "They discussed their future plans."
+  },
+  {
+    "id": 973,
+    "en": "permanent",
+    "es": [
+      "permanente"
+    ],
+    "pos": "adj",
+    "rank": 973,
+    "example": "He got a permanent job offer."
+  },
+  {
+    "id": 974,
+    "en": "temporary",
+    "es": [
+      "temporal"
+    ],
+    "pos": "adj",
+    "rank": 974,
+    "example": "This is just a temporary solution."
+  },
+  {
+    "id": 975,
+    "en": "constant",
+    "es": [
+      "constante"
+    ],
+    "pos": "adj",
+    "rank": 975,
+    "example": "There was constant noise from the street."
+  },
+  {
+    "id": 976,
+    "en": "frequent",
+    "es": [
+      "frecuente"
+    ],
+    "pos": "adj",
+    "rank": 976,
+    "example": "Rain is frequent in this season."
+  },
+  {
+    "id": 977,
+    "en": "sudden",
+    "es": [
+      "repentino"
+    ],
+    "pos": "adj",
+    "rank": 977,
+    "example": "There was a sudden change in weather."
+  },
+  {
+    "id": 978,
+    "en": "immediate",
+    "es": [
+      "inmediato"
+    ],
+    "pos": "adj",
+    "rank": 978,
+    "example": "We need an immediate answer."
+  },
+  {
+    "id": 979,
+    "en": "urgent",
+    "es": [
+      "urgente"
+    ],
+    "pos": "adj",
+    "rank": 979,
+    "example": "This is an urgent matter, please hurry."
+  },
+  {
+    "id": 980,
+    "en": "essential",
+    "es": [
+      "esencial"
+    ],
+    "pos": "adj",
+    "rank": 980,
+    "example": "Water is essential for life."
+  },
+  {
+    "id": 981,
+    "en": "necessary",
+    "es": [
+      "necesario"
+    ],
+    "pos": "adj",
+    "rank": 981,
+    "example": "Is a passport necessary for this trip?"
+  },
+  {
+    "id": 982,
+    "en": "unnecessary",
+    "es": [
+      "innecesario"
+    ],
+    "pos": "adj",
+    "rank": 982,
+    "example": "That extra step was unnecessary."
+  },
+  {
+    "id": 983,
+    "en": "additional",
+    "es": [
+      "adicional"
+    ],
+    "pos": "adj",
+    "rank": 983,
+    "example": "They charged an additional fee."
+  },
+  {
+    "id": 984,
+    "en": "final",
+    "es": [
+      "final"
+    ],
+    "pos": "adj",
+    "rank": 984,
+    "example": "This is the final round of the game."
+  },
+  {
+    "id": 985,
+    "en": "original",
+    "es": [
+      "original"
+    ],
+    "pos": "adj",
+    "rank": 985,
+    "example": "She kept the original receipt."
+  },
+  {
+    "id": 986,
+    "en": "previous",
+    "es": [
+      "anterior"
+    ],
+    "pos": "adj",
+    "rank": 986,
+    "example": "The previous owner painted it blue."
+  },
+  {
+    "id": 987,
+    "en": "ridiculous",
+    "es": [
+      "ridículo"
+    ],
+    "pos": "adj",
+    "rank": 987,
+    "example": "That excuse sounds completely ridiculous."
+  },
+  {
+    "id": 988,
+    "en": "reasonable",
+    "es": [
+      "razonable"
+    ],
+    "pos": "adj",
+    "rank": 988,
+    "example": "The price seems very reasonable."
+  },
+  {
+    "id": 989,
+    "en": "fair",
+    "es": [
+      "justo"
+    ],
+    "pos": "adj",
+    "rank": 989,
+    "example": "That's not a fair decision."
+  },
+  {
+    "id": 990,
+    "en": "unfair",
+    "es": [
+      "injusto"
+    ],
+    "pos": "adj",
+    "rank": 990,
+    "example": "It was unfair to blame her."
+  },
+  {
+    "id": 991,
+    "en": "equal",
+    "es": [
+      "igual"
+    ],
+    "pos": "adj",
+    "rank": 991,
+    "example": "They divided the cake into equal parts."
+  },
+  {
+    "id": 992,
+    "en": "obvious",
+    "es": [
+      "obvio"
+    ],
+    "pos": "adj",
+    "rank": 992,
+    "example": "It was obvious he was lying."
+  },
+  {
+    "id": 993,
+    "en": "surprisingly",
+    "es": [
+      "sorprendentemente"
+    ],
+    "pos": "adv",
+    "rank": 993,
+    "example": "Surprisingly, the test was quite easy."
+  },
+  {
+    "id": 994,
+    "en": "apparently",
+    "es": [
+      "aparentemente"
+    ],
+    "pos": "adv",
+    "rank": 994,
+    "example": "Apparently, the store is closed today."
+  },
+  {
+    "id": 995,
+    "en": "naturally",
+    "es": [
+      "naturalmente"
+    ],
+    "pos": "adv",
+    "rank": 995,
+    "example": "She naturally speaks several languages."
+  },
+  {
+    "id": 996,
+    "en": "immediately",
+    "es": [
+      "inmediatamente"
+    ],
+    "pos": "adv",
+    "rank": 996,
+    "example": "Call the doctor immediately."
+  },
+  {
+    "id": 997,
+    "en": "instantly",
+    "es": [
+      "instantáneamente",
+      "al instante"
+    ],
+    "pos": "adv",
+    "rank": 997,
+    "example": "He fell asleep instantly."
+  },
+  {
+    "id": 998,
+    "en": "currently",
+    "es": [
+      "actualmente"
+    ],
+    "pos": "adv",
+    "rank": 998,
+    "example": "She is currently studying abroad."
+  },
+  {
+    "id": 999,
+    "en": "widely",
+    "es": [
+      "ampliamente"
+    ],
+    "pos": "adv",
+    "rank": 999,
+    "example": "This app is widely used worldwide."
+  },
+  {
+    "id": 1000,
+    "en": "largely",
+    "es": [
+      "en gran parte"
+    ],
+    "pos": "adv",
+    "rank": 1000,
+    "example": "The success was largely due to teamwork."
+  }
+]

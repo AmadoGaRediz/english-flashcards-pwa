@@ -1,0 +1,28 @@
+<svg
+  class="ring"
+  [attr.width]="size()"
+  [attr.height]="size()"
+  [attr.viewBox]="'0 0 ' + size() + ' ' + size()"
+>
+  <circle
+    class="ring-track"
+    [attr.cx]="center()"
+    [attr.cy]="center()"
+    [attr.r]="radius()"
+    [attr.stroke-width]="strokeWidth()"
+    fill="none"
+  />
+  <circle
+    class="ring-value"
+    [attr.cx]="center()"
+    [attr.cy]="center()"
+    [attr.r]="radius()"
+    [attr.stroke-width]="strokeWidth()"
+    [attr.stroke-dasharray]="circumference()"
+    [attr.stroke-dashoffset]="dashOffset()"
+    fill="none"
+  />
+</svg>
+<div class="ring-label">
+  <span class="ring-value-text">{{ percent() }}%</span>
+</div>

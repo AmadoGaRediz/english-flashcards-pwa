@@ -1,0 +1,46 @@
+<div class="screen">
+  <header class="top-bar">
+    <button class="icon-btn neu-btn" (click)="quit()" aria-label="Salir">✕</button>
+    <div class="progress-track">
+      <div class="progress-fill" [style.width.%]="progressPercent()"></div>
+    </div>
+  </header>
+
+  @if (!loading() && card(); as c) {
+    <div class="card neu-flat">
+      <span class="direction-tag">{{ c.direction === 'en-es' ? 'Inglés → Español' : 'Español → Inglés' }}</span>
+      <h2 class="prompt-word">{{ c.prompt }}</h2>
+
+      <button
+        class="speak-btn neu-btn"
+        type="button"
+        (click)="speak(c.word.en)"
+        aria-label="Escuchar pronunciación"
+      >
+        🔊
+      </button>
+
+      @if (answered()) {
+        <p class="example">{{ c.word.example }}</p>
+      }
+    </div>
+
+    <div class="options">
+      @for (option of c.options; track option.label) {
+        <button
+          class="option neu-btn"
+          [class.correct]="answered() && option.isCorrect"
+          [class.wrong]="answered() && selected() === option && !option.isCorrect"
+          [disabled]="answered()"
+          (click)="selectOption(option)"
+        >
+          {{ option.label }}
+        </button>
+      }
+    </div>
+
+    @if (answered()) {
+      <button class="continue-btn neu-btn" (click)="continue()">Continuar</button>
+    }
+  }
+</div>

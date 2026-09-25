@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: english-flashcards-pwa
+    runtime: static
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist/english-flashcards-pwa/browser
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    headers:
+      - path: /ngsw-worker.js
+        name: Service-Worker-Allowed
+        value: /

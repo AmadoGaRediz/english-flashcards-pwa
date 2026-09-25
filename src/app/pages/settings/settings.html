@@ -1,0 +1,77 @@
+<div class="screen">
+  <header class="top-bar">
+    <button class="icon-btn neu-btn" (click)="goHome()" aria-label="Volver">←</button>
+    <h1>Ajustes</h1>
+  </header>
+
+  @if (!loading() && settings(); as s) {
+    <section class="group neu-flat">
+      <h2>Dirección del quiz</h2>
+      <div class="option-row">
+        <button
+          class="chip neu-btn"
+          [class.active]="s.direction === 'mixed'"
+          (click)="updateDirection('mixed')"
+        >
+          Aleatoria
+        </button>
+        <button
+          class="chip neu-btn"
+          [class.active]="s.direction === 'en-es'"
+          (click)="updateDirection('en-es')"
+        >
+          EN → ES
+        </button>
+        <button
+          class="chip neu-btn"
+          [class.active]="s.direction === 'es-en'"
+          (click)="updateDirection('es-en')"
+        >
+          ES → EN
+        </button>
+      </div>
+    </section>
+
+    <section class="group neu-flat">
+      <h2>Palabras nuevas por día</h2>
+      <div class="slider-row">
+        <input
+          type="range"
+          min="1"
+          max="20"
+          [ngModel]="s.newWordsPerDay"
+          (ngModelChange)="updateNewWordsPerDay($event)"
+        />
+        <span class="slider-value">{{ s.newWordsPerDay }}</span>
+      </div>
+    </section>
+
+    <section class="group neu-flat toggle-row">
+      <h2>Modo oscuro</h2>
+      <label class="switch">
+        <input type="checkbox" [checked]="s.darkMode" (change)="toggleDarkMode()" />
+        <span class="slider"></span>
+      </label>
+    </section>
+
+    <section class="group neu-flat">
+      <h2>Respaldo</h2>
+      <div class="option-row">
+        <button class="chip neu-btn" (click)="exportData()">Exportar progreso</button>
+        <label class="chip neu-btn file-label">
+          Importar
+          <input type="file" accept="application/json" (change)="importData($event)" hidden />
+        </label>
+      </div>
+    </section>
+
+    <section class="group neu-flat">
+      <h2>Zona de riesgo</h2>
+      <button class="danger-btn neu-btn" (click)="resetProgress()">Reiniciar todo el progreso</button>
+    </section>
+
+    @if (message()) {
+      <div class="toast neu-flat">{{ message() }}</div>
+    }
+  }
+</div>
