@@ -33,6 +33,14 @@
       "resources": {
         "files": ["/data/**/*.json"]
       }
+    },
+    {
+      "name": "sounds",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "resources": {
+        "files": ["/sounds/**/*.wav"]
+      }
     }
   ]
 }

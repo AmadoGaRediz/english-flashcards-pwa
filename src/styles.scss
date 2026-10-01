@@ -96,3 +96,8 @@ button {
     inset -4px -4px 8px var(--light);
   transform: scale(0.99);
 }
+
+.neu-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}

@@ -1,6 +1,7 @@
 import { Component, OnInit, signal } from '@angular/core';
 import { Router } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { SwUpdate } from '@angular/service-worker';
 import { AppDatabase, Settings as AppSettings } from '../../core/services/db.service';
 import { ProgressService } from '../../core/services/progress.service';
 import { ThemeService } from '../../core/services/theme.service';
@@ -15,12 +16,14 @@ export class Settings implements OnInit {
   readonly loading = signal(true);
   readonly settings = signal<AppSettings | null>(null);
   readonly message = signal('');
+  readonly checkingUpdate = signal(false);
 
   constructor(
     private router: Router,
     private db: AppDatabase,
     private progressService: ProgressService,
     private themeService: ThemeService,
+    private swUpdate: SwUpdate,
   ) {}
 
   async ngOnInit(): Promise<void> {
@@ -48,6 +51,37 @@ export class Settings implements OnInit {
     await this.themeService.toggle();
     const current = this.settings();
     if (current) this.settings.set({ ...current, darkMode: this.themeService.darkMode() });
+  }
+
+  async toggleSound(): Promise<void> {
+    const current = this.settings();
+    if (!current) return;
+    const updated = { ...current, soundEnabled: !current.soundEnabled };
+    this.settings.set(updated);
+    await this.db.saveSettings(updated);
+  }
+
+  async checkForUpdates(): Promise<void> {
+    if (!this.swUpdate.isEnabled) {
+      this.showMessage('Las actualizaciones solo funcionan con la app instalada u online.');
+      return;
+    }
+
+    this.checkingUpdate.set(true);
+    try {
+      const updateFound = await this.swUpdate.checkForUpdate();
+      if (!updateFound) {
+        this.showMessage('Ya tienes la última versión.');
+        return;
+      }
+      this.showMessage('Actualización encontrada, instalando...');
+      await this.swUpdate.activateUpdate();
+      document.location.reload();
+    } catch {
+      this.showMessage('No se pudo comprobar actualizaciones. Revisa tu conexión.');
+    } finally {
+      this.checkingUpdate.set(false);
+    }
   }
 
   async exportData(): Promise<void> {

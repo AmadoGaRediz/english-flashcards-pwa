@@ -8,6 +8,7 @@ export interface Settings {
   newWordsPerDay: number;
   darkMode: boolean;
   pronunciationEnabled: boolean;
+  soundEnabled: boolean;
   streak: number;
   lastStudyDay: string | null;
   newWordsIntroducedToday: number;
@@ -23,6 +24,7 @@ const DEFAULT_SETTINGS: Settings = {
   newWordsPerDay: 8,
   darkMode: false,
   pronunciationEnabled: true,
+  soundEnabled: true,
   streak: 0,
   lastStudyDay: null,
   newWordsIntroducedToday: 0,

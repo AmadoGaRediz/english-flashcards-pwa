@@ -34,7 +34,13 @@
           [disabled]="answered()"
           (click)="selectOption(option)"
         >
-          {{ option.label }}
+          <span>{{ option.label }}</span>
+          @if (answered() && option.isCorrect) {
+            <span class="mark" aria-hidden="true">✓</span>
+          }
+          @if (answered() && selected() === option && !option.isCorrect) {
+            <span class="mark" aria-hidden="true">✕</span>
+          }
         </button>
       }
     </div>

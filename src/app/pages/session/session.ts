@@ -4,6 +4,7 @@ import { QuizCard, QuizOption, QuizService } from '../../core/services/quiz.serv
 import { ProgressService } from '../../core/services/progress.service';
 import { SrsService } from '../../core/services/srs.service';
 import { AppDatabase } from '../../core/services/db.service';
+import { SoundService } from '../../core/services/sound.service';
 import { Word } from '../../core/models/word.model';
 import { SessionResultStore, WordMasteryChange } from '../../core/services/session-result.service';
 
@@ -37,6 +38,7 @@ export class Session implements OnInit {
     private srsService: SrsService,
     private db: AppDatabase,
     private resultStore: SessionResultStore,
+    private soundService: SoundService,
   ) {}
 
   async ngOnInit(): Promise<void> {
@@ -83,8 +85,10 @@ export class Session implements OnInit {
 
     if (correct) {
       this.correctCount++;
+      void this.soundService.playCorrect();
     } else {
       this.wrongCount++;
+      void this.soundService.playWrong();
       if (navigator.vibrate) navigator.vibrate(50);
       if (this.phase === 'main' && !this.retriedIds.has(word.id)) {
         this.retriedIds.add(word.id);

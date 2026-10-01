@@ -45,6 +45,13 @@
   }
 }
 
+.hint-text {
+  margin: 0 0 12px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
 .option-row {
   display: flex;
   gap: 10px;

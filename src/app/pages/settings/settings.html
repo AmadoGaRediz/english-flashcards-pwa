@@ -54,6 +54,25 @@
       </label>
     </section>
 
+    <section class="group neu-flat toggle-row">
+      <h2>Sonido al responder</h2>
+      <label class="switch">
+        <input type="checkbox" [checked]="s.soundEnabled" (change)="toggleSound()" />
+        <span class="slider"></span>
+      </label>
+    </section>
+
+    <section class="group neu-flat">
+      <h2>Actualizaciones</h2>
+      <p class="hint-text">
+        Si instalaste la app en tu celular (ej. iPhone) y no ves los cambios nuevos, toca este
+        botón para forzar la actualización.
+      </p>
+      <button class="chip neu-btn" (click)="checkForUpdates()" [disabled]="checkingUpdate()">
+        {{ checkingUpdate() ? 'Buscando...' : 'Buscar actualizaciones' }}
+      </button>
+    </section>
+
     <section class="group neu-flat">
       <h2>Respaldo</h2>
       <div class="option-row">
