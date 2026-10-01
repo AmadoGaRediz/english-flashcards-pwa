@@ -10,6 +10,8 @@ export interface Settings {
   pronunciationEnabled: boolean;
   streak: number;
   lastStudyDay: string | null;
+  newWordsIntroducedToday: number;
+  newWordsDate: string | null;
 }
 
 const DEFAULT_SETTINGS: Settings = {
@@ -20,6 +22,8 @@ const DEFAULT_SETTINGS: Settings = {
   pronunciationEnabled: true,
   streak: 0,
   lastStudyDay: null,
+  newWordsIntroducedToday: 0,
+  newWordsDate: null,
 };
 
 @Injectable({ providedIn: 'root' })
@@ -37,7 +41,7 @@ export class AppDatabase extends Dexie {
 
   async getSettings(): Promise<Settings> {
     const existing = await this.settings.get('app');
-    if (existing) return existing;
+    if (existing) return { ...DEFAULT_SETTINGS, ...existing };
     await this.settings.put(DEFAULT_SETTINGS);
     return { ...DEFAULT_SETTINGS };
   }

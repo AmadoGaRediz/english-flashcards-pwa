@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { Word } from '../models/word.model';
 import { WordsService } from './words.service';
 import { ProgressService } from './progress.service';
-import { AppDatabase, Settings } from './db.service';
+import { Settings } from './db.service';
 
 export type QuizDirection = 'en-es' | 'es-en';
 
@@ -26,11 +26,10 @@ export class QuizService {
   constructor(
     private wordsService: WordsService,
     private progressService: ProgressService,
-    private db: AppDatabase,
   ) {}
 
   async getSessionWords(sessionSize = SESSION_SIZE): Promise<Word[]> {
-    const settings = await this.db.getSettings();
+    const remainingNewWordsToday = await this.progressService.getRemainingNewWordsToday();
     const allWords = await this.wordsService.loadAll();
     const allProgress = await this.progressService.getAllProgress();
     const progressMap = new Map(allProgress.map((p) => [p.wordId, p]));
@@ -51,7 +50,7 @@ export class QuizService {
     const newWords = allWords
       .filter((w) => !progressMap.has(w.id))
       .sort((a, b) => a.rank - b.rank)
-      .slice(0, Math.min(remainingSlots, settings.newWordsPerDay));
+      .slice(0, Math.min(remainingSlots, remainingNewWordsToday));
 
     const session = [...due.slice(0, sessionSize), ...newWords].slice(0, sessionSize);
 

@@ -36,13 +36,14 @@ export class Home implements OnInit {
     const settings = await this.db.getSettings();
     const dueIds = await this.progressService.getDueWordIds();
     const newAvailable = stats.total - stats.learning;
+    const remainingNewWordsToday = await this.progressService.getRemainingNewWordsToday();
 
     this.totalWords.set(stats.total);
     this.masteredWords.set(stats.mastered);
     this.streak.set(settings.streak);
     this.masteryPercent.set(stats.total === 0 ? 0 : Math.round((stats.mastered / stats.total) * 100));
 
-    const pending = dueIds.length + Math.min(newAvailable, settings.newWordsPerDay);
+    const pending = dueIds.length + Math.min(newAvailable, remainingNewWordsToday);
     this.duePending.set(pending);
     this.loading.set(false);
   }

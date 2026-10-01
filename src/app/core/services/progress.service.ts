@@ -33,11 +33,28 @@ export class ProgressService {
   }
 
   async recordAnswer(wordId: number, correct: boolean, responseTimeMs: number): Promise<WordProgress> {
-    const existing = (await this.db.progress.get(wordId)) ?? createInitialProgress(wordId);
+    const existingRecord = await this.db.progress.get(wordId);
+    const existing = existingRecord ?? createInitialProgress(wordId);
     const updated = this.srs.applyAnswer(existing, correct, responseTimeMs);
     await this.db.progress.put(updated);
+    if (!existingRecord) await this.registerNewWordIntroduced();
     this.version.update((v) => v + 1);
     return updated;
+  }
+
+  /** How many new (never-seen) words can still be introduced today, per the daily cap in settings. */
+  async getRemainingNewWordsToday(): Promise<number> {
+    const settings = await this.db.getSettings();
+    const today = new Date().toISOString().slice(0, 10);
+    if (settings.newWordsDate !== today) return settings.newWordsPerDay;
+    return Math.max(0, settings.newWordsPerDay - settings.newWordsIntroducedToday);
+  }
+
+  private async registerNewWordIntroduced(): Promise<void> {
+    const settings = await this.db.getSettings();
+    const today = new Date().toISOString().slice(0, 10);
+    const newWordsIntroducedToday = settings.newWordsDate === today ? settings.newWordsIntroducedToday + 1 : 1;
+    await this.db.saveSettings({ ...settings, newWordsIntroducedToday, newWordsDate: today });
   }
 
   async recordStudyDay(): Promise<number> {
@@ -99,6 +116,14 @@ export class ProgressService {
 
   async resetAll(): Promise<void> {
     await this.db.progress.clear();
+    const settings = await this.db.getSettings();
+    await this.db.saveSettings({
+      ...settings,
+      streak: 0,
+      lastStudyDay: null,
+      newWordsIntroducedToday: 0,
+      newWordsDate: null,
+    });
     this.version.update((v) => v + 1);
   }
 

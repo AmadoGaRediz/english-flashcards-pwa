@@ -66,7 +66,7 @@
     "id": 7,
     "en": "in",
     "es": [
-      "en"
+      "en (dentro de)"
     ],
     "pos": "prep",
     "rank": 7,
@@ -76,7 +76,7 @@
     "id": 8,
     "en": "that",
     "es": [
-      "que"
+      "que (relativo)"
     ],
     "pos": "conj",
     "rank": 8,
@@ -106,7 +106,7 @@
     "id": 11,
     "en": "it",
     "es": [
-      "lo"
+      "lo (cosa)"
     ],
     "pos": "pron",
     "rank": 11,
@@ -136,8 +136,8 @@
     "id": 14,
     "en": "on",
     "es": [
-      "en",
-      "sobre"
+      "encima de",
+      "en"
     ],
     "pos": "prep",
     "rank": 14,
@@ -188,7 +188,7 @@
     "id": 19,
     "en": "do",
     "es": [
-      "hacer"
+      "hacer (actividad)"
     ],
     "pos": "verb",
     "rank": 19,
@@ -198,7 +198,7 @@
     "id": 20,
     "en": "at",
     "es": [
-      "en"
+      "en (un punto)"
     ],
     "pos": "prep",
     "rank": 20,
@@ -229,7 +229,7 @@
     "id": 23,
     "en": "his",
     "es": [
-      "su"
+      "su (de él)"
     ],
     "pos": "det",
     "rank": 23,
@@ -249,8 +249,8 @@
     "id": 25,
     "en": "from",
     "es": [
-      "de",
-      "desde"
+      "desde",
+      "de"
     ],
     "pos": "prep",
     "rank": 25,
@@ -291,7 +291,7 @@
     "id": 29,
     "en": "her",
     "es": [
-      "le"
+      "le (a ella)"
     ],
     "pos": "pron",
     "rank": 29,
@@ -321,7 +321,7 @@
     "id": 32,
     "en": "an",
     "es": [
-      "un",
+      "un (+ vocal)",
       "una"
     ],
     "pos": "det",
@@ -394,7 +394,7 @@
     "id": 39,
     "en": "their",
     "es": [
-      "su"
+      "su (de ellos)"
     ],
     "pos": "det",
     "rank": 39,
@@ -528,7 +528,7 @@
     "id": 52,
     "en": "make",
     "es": [
-      "hacer"
+      "hacer (crear)"
     ],
     "pos": "verb",
     "rank": 52,
@@ -590,8 +590,7 @@
     "id": 58,
     "en": "him",
     "es": [
-      "le",
-      "lo"
+      "lo (a él)"
     ],
     "pos": "pron",
     "rank": 58,
@@ -676,7 +675,7 @@
     "id": 66,
     "en": "than",
     "es": [
-      "que"
+      "que (comparación)"
     ],
     "pos": "conj",
     "rank": 66,
@@ -799,8 +798,8 @@
     "id": 78,
     "en": "tell",
     "es": [
-      "decir",
-      "contar"
+      "contar",
+      "decir"
     ],
     "pos": "verb",
     "rank": 78,
@@ -880,8 +879,8 @@
     "id": 86,
     "en": "leave",
     "es": [
-      "dejar",
-      "salir"
+      "salir",
+      "dejar"
     ],
     "pos": "verb",
     "rank": 86,
@@ -933,8 +932,8 @@
     "id": 91,
     "en": "begin",
     "es": [
-      "empezar",
-      "comenzar"
+      "comenzar",
+      "empezar"
     ],
     "pos": "verb",
     "rank": 91,
@@ -1078,8 +1077,8 @@
     "id": 105,
     "en": "happen",
     "es": [
-      "pasar",
-      "suceder"
+      "suceder",
+      "pasar"
     ],
     "pos": "verb",
     "rank": 105,
@@ -1475,8 +1474,8 @@
     "id": 144,
     "en": "issue",
     "es": [
-      "problema",
-      "asunto"
+      "asunto",
+      "problema"
     ],
     "pos": "noun",
     "rank": 144,
@@ -1496,8 +1495,8 @@
     "id": 146,
     "en": "kind",
     "es": [
-      "tipo",
-      "clase"
+      "clase",
+      "tipo"
     ],
     "pos": "noun",
     "rank": 146,
@@ -1741,8 +1740,7 @@
     "id": 170,
     "en": "parent",
     "es": [
-      "padre",
-      "madre"
+      "padre o madre"
     ],
     "pos": "noun",
     "rank": 170,
@@ -2037,8 +2035,8 @@
     "id": 199,
     "en": "story",
     "es": [
-      "historia",
-      "cuento"
+      "cuento",
+      "historia"
     ],
     "pos": "noun",
     "rank": 199,
@@ -2120,6 +2118,7 @@
     "id": 207,
     "en": "little",
     "es": [
+      "pequeñito",
       "pequeño"
     ],
     "pos": "adj",
@@ -2211,6 +2210,7 @@
     "id": 216,
     "en": "large",
     "es": [
+      "amplio",
       "grande"
     ],
     "pos": "adj",
@@ -2322,7 +2322,7 @@
     "id": 227,
     "en": "best",
     "es": [
-      "mejor"
+      "el mejor"
     ],
     "pos": "adj",
     "rank": 227,
@@ -2362,8 +2362,8 @@
     "id": 231,
     "en": "hard",
     "es": [
-      "difícil",
-      "duro"
+      "duro",
+      "difícil"
     ],
     "pos": "adj",
     "rank": 231,
@@ -2981,6 +2981,7 @@
     "id": 292,
     "en": "remember",
     "es": [
+      "acordarse",
       "recordar"
     ],
     "pos": "verb",
@@ -3071,7 +3072,7 @@
     "id": 301,
     "en": "season",
     "es": [
-      "estación"
+      "estación (del año)"
     ],
     "pos": "noun",
     "rank": 301,
@@ -4323,7 +4324,7 @@
     "id": 425,
     "en": "station",
     "es": [
-      "estación"
+      "estación (de tren)"
     ],
     "pos": "noun",
     "rank": 425,
@@ -5737,6 +5738,7 @@
     "id": 564,
     "en": "hope",
     "es": [
+      "desear",
       "esperar"
     ],
     "pos": "verb",
@@ -8026,7 +8028,7 @@
     "id": 788,
     "en": "fresh",
     "es": [
-      "fresco"
+      "fresco (recién hecho)"
     ],
     "pos": "adj",
     "rank": 788,
@@ -8047,7 +8049,7 @@
     "id": 790,
     "en": "cool",
     "es": [
-      "fresco"
+      "fresco (temperatura)"
     ],
     "pos": "adj",
     "rank": 790,
