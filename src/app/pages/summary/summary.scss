@@ -46,6 +46,52 @@
   color: var(--text-muted);
 }
 
+.achievements-banner {
+  width: 100%;
+  max-width: 420px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-shadow:
+    8px 8px 16px var(--dark),
+    -8px -8px 16px var(--light),
+    0 0 0 2px var(--accent) inset;
+
+  h2 {
+    margin: 0;
+    font-size: 0.95rem;
+    color: var(--accent);
+    font-weight: 700;
+  }
+}
+
+.achievement-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.achievement-icon {
+  font-size: 1.8rem;
+  flex: none;
+}
+
+.achievement-text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.achievement-title {
+  font-weight: 700;
+}
+
+.achievement-desc {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
 .changes {
   width: 100%;
   max-width: 420px;

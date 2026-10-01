@@ -2,8 +2,10 @@ import { Injectable, signal } from '@angular/core';
 import { AppDatabase } from './db.service';
 import { SrsService } from './srs.service';
 import { WordsService } from './words.service';
+import { AchievementsService } from './achievements.service';
 import { WordProgress, createInitialProgress } from '../models/progress.model';
 import { Word } from '../models/word.model';
+import { AchievementDef } from '../models/achievement.model';
 
 export interface WordWithProgress {
   word: Word;
@@ -22,6 +24,7 @@ export class ProgressService {
     private db: AppDatabase,
     private srs: SrsService,
     private wordsService: WordsService,
+    private achievementsService: AchievementsService,
   ) {}
 
   async getProgress(wordId: number): Promise<WordProgress | undefined> {
@@ -57,16 +60,35 @@ export class ProgressService {
     await this.db.saveSettings({ ...settings, newWordsIntroducedToday, newWordsDate: today });
   }
 
-  async recordStudyDay(): Promise<number> {
+  /**
+   * Records that a session just finished: updates the daily streak, the
+   * session/perfect-session counters, and evaluates achievements against the
+   * resulting stats. Returns any achievements newly unlocked by this session.
+   */
+  async finishSession(correct: number, wrong: number): Promise<AchievementDef[]> {
     const settings = await this.db.getSettings();
     const today = new Date().toISOString().slice(0, 10);
-    if (settings.lastStudyDay === today) return settings.streak;
 
-    const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
-    const streak = settings.lastStudyDay === yesterday ? settings.streak + 1 : 1;
+    let streak = settings.streak;
+    if (settings.lastStudyDay !== today) {
+      const yesterday = new Date(Date.now() - 86400000).toISOString().slice(0, 10);
+      streak = settings.lastStudyDay === yesterday ? settings.streak + 1 : 1;
+    }
 
-    await this.db.saveSettings({ ...settings, streak, lastStudyDay: today });
-    return streak;
+    const sessionsCompleted = settings.sessionsCompleted + 1;
+    const perfectSessions =
+      wrong === 0 && correct > 0 ? settings.perfectSessions + 1 : settings.perfectSessions;
+
+    await this.db.saveSettings({ ...settings, streak, lastStudyDay: today, sessionsCompleted, perfectSessions });
+
+    const stats = await this.getGlobalStats();
+    return this.achievementsService.evaluate({
+      mastered: stats.mastered,
+      started: stats.learning,
+      streak,
+      sessionsCompleted,
+      perfectSessions,
+    });
   }
 
   async getDueWordIds(now = Date.now()): Promise<number[]> {
@@ -123,6 +145,9 @@ export class ProgressService {
       lastStudyDay: null,
       newWordsIntroducedToday: 0,
       newWordsDate: null,
+      sessionsCompleted: 0,
+      perfectSessions: 0,
+      unlockedAchievements: [],
     });
     this.version.update((v) => v + 1);
   }

@@ -1,0 +1,80 @@
+.screen {
+  min-height: 100dvh;
+  padding: calc(var(--safe-top) + 16px) 20px calc(var(--safe-bottom) + 16px);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+
+  h1 {
+    font-size: 1.2rem;
+    margin: 0;
+  }
+}
+
+.icon-btn {
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  border-radius: var(--radius-sm);
+}
+
+.progress-caption {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.achievement-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  overflow-y: auto;
+}
+
+.achievement-card {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px;
+}
+
+.achievement-card.locked {
+  opacity: 0.45;
+}
+
+.icon {
+  font-size: 1.8rem;
+  flex: none;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  flex: 1;
+}
+
+.title {
+  font-weight: 700;
+}
+
+.desc {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.check {
+  color: var(--success);
+  font-weight: 700;
+  font-size: 1.2rem;
+  flex: none;
+}

@@ -13,6 +13,21 @@
       </div>
     </div>
 
+    @if (r.newAchievements.length > 0) {
+      <div class="achievements-banner neu-flat">
+        <h2>¡Nuevo logro desbloqueado!</h2>
+        @for (a of r.newAchievements; track a.id) {
+          <div class="achievement-row">
+            <span class="achievement-icon">{{ a.icon }}</span>
+            <div class="achievement-text">
+              <span class="achievement-title">{{ a.title }}</span>
+              <span class="achievement-desc">{{ a.description }}</span>
+            </div>
+          </div>
+        }
+      </div>
+    }
+
     <div class="changes neu-flat">
       <h2>Palabras de esta sesión</h2>
       <ul>

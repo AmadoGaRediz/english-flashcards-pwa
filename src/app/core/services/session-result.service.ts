@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Word } from '../models/word.model';
+import { AchievementDef } from '../models/achievement.model';
 
 export interface WordMasteryChange {
   word: Word;
@@ -11,6 +12,7 @@ export interface SessionResult {
   correct: number;
   wrong: number;
   changes: WordMasteryChange[];
+  newAchievements: AchievementDef[];
 }
 
 @Injectable({ providedIn: 'root' })

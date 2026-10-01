@@ -124,11 +124,12 @@ export class Session implements OnInit {
   }
 
   private async finishSession(): Promise<void> {
-    await this.progressService.recordStudyDay();
+    const newAchievements = await this.progressService.finishSession(this.correctCount, this.wrongCount);
     this.resultStore.set({
       correct: this.correctCount,
       wrong: this.wrongCount,
       changes: [...this.masteryChanges.values()],
+      newAchievements,
     });
     this.router.navigate(['/summary']);
   }

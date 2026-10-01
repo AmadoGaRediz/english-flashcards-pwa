@@ -8,6 +8,7 @@
     <div class="ring-card neu-flat">
       <app-progress-ring [percent]="masteryPercent()" />
       <p class="ring-caption">{{ masteredWords() }} / {{ totalWords() }} palabras dominadas</p>
+      <p class="ring-subcaption">{{ learnedWords() }} palabras aprendidas en total</p>
     </div>
 
     <div class="stats-row">
@@ -19,6 +20,10 @@
         <span class="stat-value">{{ duePending() }}</span>
         <span class="stat-label">pendientes hoy</span>
       </div>
+      <button class="stat-chip neu-btn achievements-chip" (click)="goToAchievements()">
+        <span class="stat-value">🏆 {{ unlockedAchievements() }}/{{ totalAchievements() }}</span>
+        <span class="stat-label">logros</span>
+      </button>
     </div>
 
     <button class="study-btn neu-btn" (click)="startSession()">

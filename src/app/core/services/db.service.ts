@@ -12,6 +12,9 @@ export interface Settings {
   lastStudyDay: string | null;
   newWordsIntroducedToday: number;
   newWordsDate: string | null;
+  sessionsCompleted: number;
+  perfectSessions: number;
+  unlockedAchievements: string[];
 }
 
 const DEFAULT_SETTINGS: Settings = {
@@ -24,6 +27,9 @@ const DEFAULT_SETTINGS: Settings = {
   lastStudyDay: null,
   newWordsIntroducedToday: 0,
   newWordsDate: null,
+  sessionsCompleted: 0,
+  perfectSessions: 0,
+  unlockedAchievements: [],
 };
 
 @Injectable({ providedIn: 'root' })

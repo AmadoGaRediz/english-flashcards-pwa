@@ -1,0 +1,25 @@
+<div class="screen">
+  <header class="top-bar">
+    <button class="icon-btn neu-btn" (click)="goHome()" aria-label="Volver">←</button>
+    <h1>Logros</h1>
+  </header>
+
+  @if (!loading()) {
+    <p class="progress-caption">{{ unlockedCount() }} / {{ statuses().length }} desbloqueados</p>
+
+    <ul class="achievement-list">
+      @for (a of statuses(); track a.id) {
+        <li class="achievement-card neu-flat" [class.locked]="!a.unlocked">
+          <span class="icon">{{ a.icon }}</span>
+          <div class="text">
+            <span class="title">{{ a.title }}</span>
+            <span class="desc">{{ a.description }}</span>
+          </div>
+          @if (a.unlocked) {
+            <span class="check">✓</span>
+          }
+        </li>
+      }
+    </ul>
+  }
+</div>
